@@ -1,7 +1,271 @@
 {
-  "lastUpdated": "2026-05-13T05:18:45.371Z",
-  "totalFound": 2,
+  "lastUpdated": "2026-05-13T10:26:16.122Z",
+  "totalFound": 12,
   "opportunities": [
+    {
+      "id": "1tbv7l1",
+      "title": "Your MRR is probably wrong. Here's the formula to fix it.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;ve looked at Stripe data for 8+ bootstrapped founders.&lt;/p&gt; &lt;p&gt;Almost all of them had inflated MRR because of annual subscriptions.&lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt;&lt;strong&gt;**The problem:*\\&lt;/strong&gt;*&lt;/p&gt; &lt;p&gt; Stripe reports the full annual payment in the month it&amp;#39;s received.&lt;/p&gt; &lt;p&gt;One customer paying $1,188/year makes your MRR look like it spiked by $1,188.&lt;/p&",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tbv7l1/your_mrr_is_probably_wrong_heres_the_formula_to/",
+      "permalink": "/r/SaaS/comments/1tbv7l1/your_mrr_is_probably_wrong_heres_the_formula_to/",
+      "createdAt": 1778666800000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "bootstrapped founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778667834553
+    },
+    {
+      "id": "1tbu8ej",
+      "title": "Launching SaaSOffers.tech on Product Hunt today, just hit front page of Indie Hackers",
+      "body": "&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/SaaS/comments/1tbu8ej/launching_saasofferstech_on_product_hunt_today/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/12w5w0wyfv0h1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1c3f94a6e78cf5010d1c50952b7231e7716aa544&quot; alt=&quot;Launching SaaSOffers.tech on Product Hunt today, just hit front page of Indie Hackers&quot; title=&quot;Launching SaaSOffers.tech on Product Hunt today, just hit front p",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tbu8ej/launching_saasofferstech_on_product_hunt_today/",
+      "permalink": "/r/SaaS/comments/1tbu8ej/launching_saasofferstech_on_product_hunt_today/",
+      "createdAt": 1778663570000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "indie hacker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778667834553
+    },
+    {
+      "id": "1tbu9xq",
+      "title": "Launching SaaSOffers.tech on Product Hunt today, just hit front page of Indie Hackers",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I started SaaSOffers around as a verified deals platform for ambitious startups. No ads, no funding, just Reddit and writing. Posted about it on Indie Hackers this morning and it climbed to the top of the front page&lt;/p&gt; &lt;p&gt;If you&amp;#39;ve ever launched on PH, I&amp;#39;d genuinely love to hear what worked for you on launch day. And if the project sounds useful, an upvote would mean a lot&lt;/p&gt; &lt;p&gt;Happy to retur",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1tbu9xq/launching_saasofferstech_on_product_hunt_today/",
+      "permalink": "/r/Solopreneur/comments/1tbu9xq/launching_saasofferstech_on_product_hunt_today/",
+      "createdAt": 1778663704000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "indie hacker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778667893586
+    },
+    {
+      "id": "1tbv7cz",
+      "title": "I built a free AI cron expression generator that covers 7 platforms (Linux, AWS, K8s, GitHub Actions, etc.)",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey folks — I&amp;#39;ve been building cronwiz.dev as a side project over the past few days.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What it does:&lt;/strong&gt; - Type a schedule in plain English → get the correct cron expression - Supports 7 platforms (Linux, AWS EventBridge, Kubernetes, GitHub Actions, Vercel, Quartz, Cloudflare Workers) — each has slightly different syntax rules - Also has an explainer (paste any cron → get English), val",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tbv7cz/i_built_a_free_ai_cron_expression_generator_that/",
+      "permalink": "/r/SideProject/comments/1tbv7cz/i_built_a_free_ai_cron_expression_generator_that/",
+      "createdAt": 1778666778000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778667912989
+    },
+    {
+      "id": "1tbu7qn",
+      "title": "Launching SaaSOffers.tech on Product Hunt today, just hit front page of Indie Hackers",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I started SaaSOffers around as a verified deals platform for ambitious startups. No ads, no funding, just Reddit and writing. Posted about it on Indie Hackers this morning and it climbed to the top of the front page&lt;/p&gt; &lt;p&gt;If you&amp;#39;ve ever launched on PH, I&amp;#39;d genuinely love to hear what worked for you on launch day. And if the project sounds useful, an upvote would mean a lot: &lt;a href=&quot;https://www.pro",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tbu7qn/launching_saasofferstech_on_product_hunt_today/",
+      "permalink": "/r/SideProject/comments/1tbu7qn/launching_saasofferstech_on_product_hunt_today/",
+      "createdAt": 1778663509000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "indie hacker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778667912989
+    },
+    {
+      "id": "1tbtcmh",
+      "title": "finally tried mobile app engagement analytics tools on my 2k user side project, everything else felt like overkill",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I have a habit tracking app, 2k users. Firebase tells me they open 3 times a day and which screens get views. Beyond that im guessing.&lt;/p&gt; &lt;p&gt;I tried amplitude but free tier limits are tight and the tool feels designed for teams of 10+ with a product analyst. I don&amp;#39;t need a data warehouse, I just want to see if people use the features I built. Everything is either too basic or too enterprise. Middle ground??&lt;/p&",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tbtcmh/finally_tried_mobile_app_engagement_analytics/",
+      "permalink": "/r/SideProject/comments/1tbtcmh/finally_tried_mobile_app_engagement_analytics/",
+      "createdAt": 1778660502000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778667912989
+    },
+    {
+      "id": "1tbsp93",
+      "title": "Would you pay for an AI avatar of yourself? Looking for honest feedback on my side project",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi everyone,&lt;/p&gt; &lt;p&gt;I’m working on a side project called &lt;strong&gt;OurAvatar&lt;/strong&gt;: &lt;a href=&quot;https://ouravatar.app/&quot;&gt;https://ouravatar.app/&lt;/a&gt;&lt;/p&gt; &lt;p&gt;The idea is to let people create a personal AI avatar / digital version of themselves that can remember their background, personality, preferences, stories, and knowledge, then chat with others on their behalf.&lt;/p&gt; &lt;p&g",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tbsp93/would_you_pay_for_an_ai_avatar_of_yourself/",
+      "permalink": "/r/SideProject/comments/1tbsp93/would_you_pay_for_an_ai_avatar_of_yourself/",
+      "createdAt": 1778658255000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778667912990
+    },
+    {
+      "id": "1tbsctk",
+      "title": "I made a free subscription tracker after forgetting too many renewals",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey everyone,&lt;/p&gt; &lt;p&gt;I made a small side project called SubTrack.&lt;/p&gt; &lt;p&gt;Tbh I built it because I keep forgetting subscriptions and free trials after signing up. Then a few weeks later I see a charge and remember I should have tracked it somewhere.&lt;/p&gt; &lt;p&gt;It started as a basic subscription tracker, but I’m testing one feature that feels more useful.&lt;/p&gt; &lt;p&gt;If a receipt comes into Gmail f",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tbsctk/i_made_a_free_subscription_tracker_after/",
+      "permalink": "/r/SideProject/comments/1tbsctk/i_made_a_free_subscription_tracker_after/",
+      "createdAt": 1778657035000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778667912990
+    },
+    {
+      "id": "1tbrtib",
+      "title": "Day 1 on Product Hunt: #19, 83 upvotes, 2 sales. Here's what I didn't expect.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey &lt;a href=&quot;/r/SideProject&quot;&gt;r/SideProject&lt;/a&gt; 👋&lt;/p&gt; &lt;p&gt;Posted here last week about building something nobody asked for. Today was launch day on Product Hunt.&lt;/p&gt; &lt;p&gt;A few things I didn&amp;#39;t expect:&lt;/p&gt; &lt;p&gt;&lt;strong&gt;1. The votes came from strangers.&lt;/strong&gt; I have no network on PH. No maker friends to rally. Every single vote came from someone who found the pag",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tbrtib/day_1_on_product_hunt_19_83_upvotes_2_sales_heres/",
+      "permalink": "/r/SideProject/comments/1tbrtib/day_1_on_product_hunt_19_83_upvotes_2_sales_heres/",
+      "createdAt": 1778655222000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "maker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778667912990
+    },
+    {
+      "id": "1tbtqwh",
+      "title": "You will reach $19,000 in MRR with your SaaS (if you follow these simple steps)",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Today I’m going to share with you exactly what my brother and I are doing to grow our &lt;a href=&quot;https://taap.it/5xnENKy&quot;&gt;SaaS&lt;/a&gt; and reach 10K MRR.&lt;/p&gt; &lt;p&gt;Just a method we’ve been applying every single day for months.&lt;/p&gt; &lt;p&gt;Here are the steps:&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Step 1 Build in public on TikTok &amp;amp; Instagram&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;For over a year, we’ve been",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tbtqwh/you_will_reach_19000_in_mrr_with_your_saas_if_you/",
+      "permalink": "/r/SaaS/comments/1tbtqwh/you_will_reach_19000_in_mrr_with_your_saas_if_you/",
+      "createdAt": 1778661902000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 1,
+      "matched": [
+        {
+          "keyword": "build in public",
+          "category": "intent"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778667834553
+    },
+    {
+      "id": "1tbs2a8",
+      "title": "My Build in Public SaaS crossed 800 users today",
+      "body": "&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/SaaS/comments/1tbs2a8/my_build_in_public_saas_crossed_800_users_today/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/58p3fypgtu0h1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=0bb0cdac8bcdac4edd2e42fe09104c4ccc4e4d4b&quot; alt=&quot;My Build in Public SaaS crossed 800 users today&quot; title=&quot;My Build in Public SaaS crossed 800 users today&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- S",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tbs2a8/my_build_in_public_saas_crossed_800_users_today/",
+      "permalink": "/r/SaaS/comments/1tbs2a8/my_build_in_public_saas_crossed_800_users_today/",
+      "createdAt": 1778656038000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 1,
+      "matched": [
+        {
+          "keyword": "build in public",
+          "category": "intent"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778667834554
+    },
+    {
+      "id": "1tbs3rx",
+      "title": "My Build in Public SaaS crossed 800 users today",
+      "body": "&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/SideProject/comments/1tbs3rx/my_build_in_public_saas_crossed_800_users_today/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/bng1cDBoeXd0dTBoMU5LnCt-4BEwgO0wcol6hnwLqzPLqEBYjOvX2Wy8ue0J.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=44b20394b3e3e450ae31e374307e8ca59ce7d979&quot; alt=&quot;My Build in Public SaaS crossed 800 users today&quot; title=&quot;My Build in Public SaaS crossed 800 use",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tbs3rx/my_build_in_public_saas_crossed_800_users_today/",
+      "permalink": "/r/SideProject/comments/1tbs3rx/my_build_in_public_saas_crossed_800_users_today/",
+      "createdAt": 1778656176000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 1,
+      "matched": [
+        {
+          "keyword": "build in public",
+          "category": "intent"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778667912990
+    },
     {
       "id": "1tbpyjh",
       "title": "Turned my football obsession into a side project with paying users",
