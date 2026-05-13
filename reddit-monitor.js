@@ -58,11 +58,14 @@ const KEYWORDS = {
 
 const POINTS = { pain: 3, audience: 2, intent: 1 };
 
-// Longer delays to avoid Reddit rate limiting
-const DELAY_BETWEEN_REQUESTS_MS = 4000; // 4 seconds between each request
-const DELAY_BETWEEN_SUBREDDITS_MS = 8000; // 8 seconds between subreddits
+// Safe delays to avoid Reddit rate limiting
+const DELAY_BETWEEN_REQUESTS_MS = 5000;  // 5s between requests
+const DELAY_BETWEEN_SUBREDDITS_MS = 10000; // 10s between subreddits
 
 const DATA_PATH = path.join(__dirname, "data", "opportunities.json");
+
+// Reddit requires a real-looking User-Agent or it 403s
+const USER_AGENT = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36";
 
 // ─── HELPERS ──────────────────────────────────────────────────────────────────
 
@@ -87,27 +90,31 @@ function scorePost(title, body) {
   return { score, matched };
 }
 
-async function fetchSubredditSearch(subreddit, query) {
-  const url = `https://www.reddit.com/r/${subreddit}/search.json?q=${encodeURIComponent(query)}&sort=new&limit=25&restrict_sr=1`;
+// Fetch new OR hot posts from a subreddit — no search endpoint (blocked by Reddit on cloud IPs)
+async function fetchSubredditFeed(subreddit, sort = "new") {
+  const url = `https://www.reddit.com/r/${subreddit}/${sort}.json?limit=100`;
 
   try {
     const res = await fetch(url, {
       headers: {
-        "User-Agent":
-          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        Accept: "application/json",
+        "User-Agent": USER_AGENT,
+        "Accept": "application/json",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Cache-Control": "no-cache",
       },
     });
 
     if (!res.ok) {
-      console.warn(`[WARN] ${subreddit} search "${query}" → HTTP ${res.status}`);
+      console.warn(`[WARN] r/${subreddit} ${sort} → HTTP ${res.status}`);
       return [];
     }
 
     const json = await res.json();
-    return json?.data?.children?.map((c) => c.data) ?? [];
+    const posts = json?.data?.children?.map((c) => c.data) ?? [];
+    console.log(`[OK] r/${subreddit}/${sort} → ${posts.length} posts`);
+    return posts;
   } catch (err) {
-    console.warn(`[WARN] Failed to fetch r/${subreddit} "${query}": ${err.message}`);
+    console.warn(`[WARN] r/${subreddit} ${sort} failed: ${err.message}`);
     return [];
   }
 }
@@ -117,9 +124,8 @@ async function fetchTopComments(permalink) {
     const url = `https://www.reddit.com${permalink}.json?limit=5`;
     const res = await fetch(url, {
       headers: {
-        "User-Agent":
-          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        Accept: "application/json",
+        "User-Agent": USER_AGENT,
+        "Accept": "application/json",
       },
     });
 
@@ -141,7 +147,7 @@ async function fetchTopComments(permalink) {
 async function run() {
   console.log("[START] Reddit monitor running...");
 
-  // Load existing opportunities to avoid duplicates
+  // Load existing to avoid duplicates
   let existing = [];
   try {
     const raw = fs.readFileSync(DATA_PATH, "utf8");
@@ -151,79 +157,68 @@ async function run() {
   }
 
   const existingIds = new Set(existing.map((p) => p.id));
-  const found = new Map(); // id → post
-
-  // Use a subset of high-signal keyword combos grouped to reduce requests
-  const searchQueries = [
-    "repurpose content linkedin",
-    "x thread linkedin post",
-    "content distribution solo founder",
-    "solo founder building in public",
-    "indie hacker content strategy",
-    "grow linkedin audience",
-    "thread repurposer tool",
-    "cross post twitter linkedin",
-    "bootstrapped founder content",
-    "automate linkedin posts",
-  ];
+  const found = new Map();
 
   for (const subreddit of SUBREDDITS) {
-    console.log(`[SCAN] r/${subreddit}`);
+    console.log(`\n[SCAN] r/${subreddit}`);
 
-    for (const query of searchQueries) {
-      await sleep(DELAY_BETWEEN_REQUESTS_MS);
+    // Fetch both new and hot to maximise coverage
+    const newPosts = await fetchSubredditFeed(subreddit, "new");
+    await sleep(DELAY_BETWEEN_REQUESTS_MS);
+    const hotPosts = await fetchSubredditFeed(subreddit, "hot");
+    await sleep(DELAY_BETWEEN_REQUESTS_MS);
 
-      const posts = await fetchSubredditSearch(subreddit, query);
+    const allPosts = [...newPosts, ...hotPosts];
 
-      for (const post of posts) {
-        if (found.has(post.id) || existingIds.has(post.id)) continue;
+    for (const post of allPosts) {
+      if (!post?.id) continue;
+      if (found.has(post.id) || existingIds.has(post.id)) continue;
 
-        const { score, matched } = scorePost(post.title, post.selftext ?? "");
-        if (score === 0) continue;
+      const { score, matched } = scorePost(post.title, post.selftext ?? "");
+      if (score === 0) continue;
 
-        found.set(post.id, {
-          id: post.id,
-          subreddit: post.subreddit,
-          title: post.title,
-          body: post.selftext ?? "",
-          url: `https://www.reddit.com${post.permalink}`,
-          permalink: post.permalink,
-          upvotes: post.ups,
-          commentCount: post.num_comments,
-          createdAt: post.created_utc * 1000,
-          score,
-          matched,
-          topComments: [],
-          drafted: false,
-          done: false,
-          fetchedAt: Date.now(),
-        });
-      }
+      found.set(post.id, {
+        id: post.id,
+        subreddit: post.subreddit,
+        title: post.title,
+        body: post.selftext ?? "",
+        url: `https://www.reddit.com${post.permalink}`,
+        permalink: post.permalink,
+        upvotes: post.ups,
+        commentCount: post.num_comments,
+        createdAt: post.created_utc * 1000,
+        score,
+        matched,
+        topComments: [],
+        drafted: false,
+        done: false,
+        fetchedAt: Date.now(),
+      });
     }
 
     await sleep(DELAY_BETWEEN_SUBREDDITS_MS);
   }
 
-  // Fetch top comments for high-score posts
-  const highScore = [...found.values()]
+  console.log(`\n[FOUND] ${found.size} matching posts before comment fetch`);
+
+  // Fetch comments for top scoring posts only
+  const topPosts = [...found.values()]
     .filter((p) => p.score >= 3)
     .sort((a, b) => b.score - a.score)
-    .slice(0, 20);
+    .slice(0, 15);
 
-  for (const post of highScore) {
-    console.log(`[COMMENTS] Fetching comments for: ${post.title.slice(0, 50)}...`);
+  for (const post of topPosts) {
+    console.log(`[COMMENTS] ${post.title.slice(0, 50)}...`);
     post.topComments = await fetchTopComments(post.permalink);
     await sleep(DELAY_BETWEEN_REQUESTS_MS);
   }
 
-  // Merge: new posts first, keep existing (not done) ones, drop done ones older than 7 days
+  // Merge with existing, keep undone posts, drop done posts older than 7 days
   const sevenDaysAgo = Date.now() - 7 * 24 * 60 * 60 * 1000;
-  const kept = existing.filter(
-    (p) => !p.done || p.fetchedAt > sevenDaysAgo
-  );
+  const kept = existing.filter((p) => !p.done || p.fetchedAt > sevenDaysAgo);
 
-  const newPosts = [...found.values()].sort((a, b) => b.score - a.score);
-  const merged = [...newPosts, ...kept];
+  const newList = [...found.values()].sort((a, b) => b.score - a.score);
+  const merged = [...newList, ...kept];
 
   // Deduplicate
   const seen = new Set();
@@ -240,7 +235,7 @@ async function run() {
     JSON.stringify(
       {
         lastUpdated: new Date().toISOString(),
-        totalFound: newPosts.length,
+        totalFound: newList.length,
         opportunities: deduped,
       },
       null,
@@ -248,12 +243,11 @@ async function run() {
     )
   );
 
-  console.log(
-    `[DONE] Found ${newPosts.length} new posts. Total in feed: ${deduped.length}`
-  );
+  console.log(`\n[DONE] ${newList.length} new posts. ${deduped.length} total in feed.`);
 }
 
 run().catch((err) => {
   console.error("[ERROR]", err);
   process.exit(1);
 });
+                            
