@@ -26,7 +26,7 @@ const DEFAULT_KEYWORDS = {
 
 // Replace with your GitHub raw URL after pushing
 // Format: https://raw.githubusercontent.com/USERNAME/REPO/main/data/opportunities.json
-const GITHUB_RAW_URL = "https://raw.githubusercontent.com/Bundepunemmanuel/Crosstalk/main/data/opportunities.json";
+const GITHUB_RAW_URL = "https://raw.githubusercontent.com/Bundepunemmanuel/Crosstalk-monitor/main/data/opportunities.json";
 
 const GROQ_SYSTEM_PROMPT = `you are a solo founder on reddit. you will receive context including the subreddit, post title, post body, top comments, matched keywords, and a tool called crosstalk at crosstalk-one.vercel.app that repurposes X threads into LinkedIn and Reddit posts.
 
