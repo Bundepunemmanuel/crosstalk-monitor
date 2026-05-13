@@ -1,7 +1,161 @@
 {
-  "lastUpdated": "2026-05-13T18:02:06.712Z",
-  "totalFound": 5,
+  "lastUpdated": "2026-05-13T21:26:43.696Z",
+  "totalFound": 7,
   "opportunities": [
+    {
+      "id": "1tc9fyb",
+      "title": "Looking for micro SaaS that costs less than a cup of coffee per month",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’m looking for micro SaaS products that cost less than a cup of coffee per month but are actually useful. I’d love to find underrated tools built by solo founders or small teams that you genuinely use and think are crazy good value for the price. What are your favorite cheap but amazing micro SaaS products? I’ll start with &lt;a href=&quot;https://nute.app/&quot;&gt;Nute&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://www.redd",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tc9fyb/looking_for_micro_saas_that_costs_less_than_a_cup/",
+      "permalink": "/r/SaaS/comments/1tc9fyb/looking_for_micro_saas_that_costs_less_than_a_cup/",
+      "createdAt": 1778699117000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778707463651
+    },
+    {
+      "id": "1tc8pfh",
+      "title": "We accidentally turned a side project into a real company",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;We never originally planned for Narrs to become a company.&lt;/p&gt; &lt;p&gt;It started as a side project between five friends in Kerala who were constantly experimenting with ideas, building random tools, testing designs, learning frameworks, and trying to create things that actually felt useful.&lt;/p&gt; &lt;p&gt;At some point, the name “Narrs” started appearing everywhere across our projects. Internal tools, experiments, mockups,",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tc8pfh/we_accidentally_turned_a_side_project_into_a_real/",
+      "permalink": "/r/SaaS/comments/1tc8pfh/we_accidentally_turned_a_side_project_into_a_real/",
+      "createdAt": 1778697591000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778707463651
+    },
+    {
+      "id": "1tc9ow4",
+      "title": "Is agentic banking the next step for solopreneurs. I started managing my business bank account through AI agents",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I use Claude for most of my business already. Proposals, client emails, content even some light project management but recently I started connecting it to my bank through MCP and thats where things got interesting&lt;/p&gt; &lt;p&gt;Right now Claude handles my invoicing, flags overdue payments, tracks expenses and does basic bookkeeping by talking to my bank and QuickBooks in the same conversation. I basically just tell it what needs ",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1tc9ow4/is_agentic_banking_the_next_step_for_solopreneurs/",
+      "permalink": "/r/Solopreneur/comments/1tc9ow4/is_agentic_banking_the_next_step_for_solopreneurs/",
+      "createdAt": 1778699624000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solopreneur",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778707521681
+    },
+    {
+      "id": "1tc8tuv",
+      "title": "Try Ternbase, it awesome",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Install ollama and TernBase, and have unlimited access to open source models running in your local machine for your AI workflows.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/moniv999&quot;&gt; /u/moniv999 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Solopreneur/comments/1tc8tuv/try_ternbase_it_awesome/&quot;&gt;[link]&lt;/a&gt;",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1tc8tuv/try_ternbase_it_awesome/",
+      "permalink": "/r/Solopreneur/comments/1tc8tuv/try_ternbase_it_awesome/",
+      "createdAt": 1778697854000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solopreneur",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778707521681
+    },
+    {
+      "id": "1tcbk14",
+      "title": "I’m building a simple audit to help digital founders find what’s blocking growth",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;RothsRock is a new advisory project I am launching.&lt;/p&gt; &lt;p&gt;It focuses on digital businesses, including solo founders, small SaaS startups, online agencies, newsletters, info-products, creator businesses, and service providers.&lt;/p&gt; &lt;p&gt;My background covers business planning, market research, customer acquisition, investment strategy, and decision-making under uncertainty.&lt;/p&gt; &lt;p&gt;With RothsRock, I aim ",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tcbk14/im_building_a_simple_audit_to_help_digital/",
+      "permalink": "/r/SideProject/comments/1tcbk14/im_building_a_simple_audit_to_help_digital/",
+      "createdAt": 1778703519000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778707540731
+    },
+    {
+      "id": "1tcaqpu",
+      "title": "I built an AI tool that tries to find the location of a photo — and tested it in a real guessing challenge",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey everyone,&lt;/p&gt; &lt;p&gt;I’ve been working on a side project called &lt;a href=&quot;https://loadq.com/&quot;&gt;LoadQ&lt;/a&gt; — an AI tool that tries to identify where a photo was taken by analyzing visual clues.&lt;/p&gt; &lt;p&gt;The idea is simple: you upload an image, and the tool looks at things like road signs, architecture, vegetation, cars, street layouts, landscapes, language, and other small details to estimate th",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tcaqpu/i_built_an_ai_tool_that_tries_to_find_the/",
+      "permalink": "/r/SideProject/comments/1tcaqpu/i_built_an_ai_tool_that_tries_to_find_the/",
+      "createdAt": 1778701811000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778707540731
+    },
+    {
+      "id": "1tc9sy6",
+      "title": "6 months building AI visibility monitoring tool is much more complex than I ever thought initially.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I started working on my &amp;quot;side project&amp;quot; in late 2025. It felt like an obvious solution to brands that need to know if they show up in LLM searches. There are tools out there but nothing self-serve under $200/mo that did it cleanly with daily scanning for the 6 major players: ChatGPT, Perplexity, Gemini, Claude, Copilot, and AI Overview. &lt;/p&gt; &lt;p&gt;What I did not expect: &lt;/p&gt; &lt;p&gt;Building the adapte",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tc9sy6/6_months_building_ai_visibility_monitoring_tool/",
+      "permalink": "/r/SideProject/comments/1tc9sy6/6_months_building_ai_visibility_monitoring_tool/",
+      "createdAt": 1778699857000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778707540732
+    },
     {
       "id": "1tc6now",
       "title": "Show my side project: I built a tool that finds abandoned SaaS projects that might still be worth buying",
