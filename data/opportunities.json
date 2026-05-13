@@ -1,7 +1,51 @@
 {
-  "lastUpdated": "2026-05-13T04:53:47.080Z",
-  "totalFound": 40,
+  "lastUpdated": "2026-05-13T05:18:45.371Z",
+  "totalFound": 2,
   "opportunities": [
+    {
+      "id": "1tbpyjh",
+      "title": "Turned my football obsession into a side project with paying users",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;A few months ago I started building &amp;quot;PronoStats&amp;quot; because I was obsessed with one thing:&lt;/p&gt; &lt;p&gt;football matches feel alive, but most prediction platforms feel static.&lt;/p&gt; &lt;p&gt;So I started experimenting with the idea of treating matches like continuously evolving systems instead of simple pre-match probabilities.&lt;/p&gt; &lt;p&gt;What began as a small side project slowly turned into a full liv",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tbpyjh/turned_my_football_obsession_into_a_side_project/",
+      "permalink": "/r/SideProject/comments/1tbpyjh/turned_my_football_obsession_into_a_side_project/",
+      "createdAt": 1778649201000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778649450463
+    },
+    {
+      "id": "1tbpry8",
+      "title": "I built a storybook maker inspired by my son’s favorite stuffed lion",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I built Ethan Tales because my son Ethan carries this one stuffed lion everywhere — to school, to bed, to the grocery store.&lt;/p&gt; &lt;p&gt;One night, I started making up bedtime stories about his lion, and something clicked. He actually listened. He cared about the story because it was &lt;em&gt;his&lt;/em&gt; lion going through the adventure.&lt;/p&gt; &lt;p&gt;That made me wonder: could I turn a child’s favorite toy into a real",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tbpry8/i_built_a_storybook_maker_inspired_by_my_sons/",
+      "permalink": "/r/SideProject/comments/1tbpry8/i_built_a_storybook_maker_inspired_by_my_sons/",
+      "createdAt": 1778648636000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "maker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778649450463
+    },
     {
       "id": "1tbha43",
       "title": "Surely you guys aren't registering an LLC every single time you launch a new side project/MicroSaaS, right?",
