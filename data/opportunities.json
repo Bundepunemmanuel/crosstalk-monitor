@@ -1,7 +1,117 @@
 {
-  "lastUpdated": "2026-05-13T14:29:41.072Z",
-  "totalFound": 4,
+  "lastUpdated": "2026-05-13T18:02:06.712Z",
+  "totalFound": 5,
   "opportunities": [
+    {
+      "id": "1tc6now",
+      "title": "Show my side project: I built a tool that finds abandoned SaaS projects that might still be worth buying",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I went down a strange rabbit hole recently:&lt;/p&gt; &lt;p&gt;How many SaaS products are technically “dead”... but still have users?&lt;/p&gt; &lt;p&gt;Turns out, a lot.&lt;/p&gt; &lt;p&gt;I kept finding GitHub repos that hadn’t been updated in months (sometimes years), but still had:&lt;/p&gt; &lt;p&gt;- active issue requests&lt;/p&gt; &lt;p&gt;- live websites&lt;/p&gt; &lt;p&gt;- signs they were monetized at some point&lt;/p&gt; &l",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tc6now/show_my_side_project_i_built_a_tool_that_finds/",
+      "permalink": "/r/SideProject/comments/1tc6now/show_my_side_project_i_built_a_tool_that_finds/",
+      "createdAt": 1778693458000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778695261598
+    },
+    {
+      "id": "1tc6ml7",
+      "title": "I open-sourced my local AI content planner skill for solo founders",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I run a small SaaS and I am still the person who has to think about product, support, sales, bugs, content, outreach, positioning, everything.&lt;/p&gt; &lt;p&gt;Content is one of those things that always sounds simple until you actually try to do it every week.&lt;/p&gt; &lt;p&gt;You need ideas, scripts, carousels, posts, images, scheduling, feedback, analytics, and then you still have to make sure the content does not sound like gen",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tc6ml7/i_opensourced_my_local_ai_content_planner_skill/",
+      "permalink": "/r/SideProject/comments/1tc6ml7/i_opensourced_my_local_ai_content_planner_skill/",
+      "createdAt": 1778693400000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778695261598
+    },
+    {
+      "id": "1tc6ka3",
+      "title": "Built a pirate loot box game with 104 illustrated cards - would love some feedback",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://www.reddit.com/r/indiehackers/?f=flair_name%3A%22Self%20Promotion%22&quot;&gt;&lt;/a&gt;So fresh off the back of a serious vibe project, I wanted to keep learning, and just wanted to mess around with the idea of loot boxes.&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://deadmans-vault.vercel.app/&quot;&gt;https://deadmans-vault.vercel.app/&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Ended up creating this basic loot box pirate ",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tc6ka3/built_a_pirate_loot_box_game_with_104_illustrated/",
+      "permalink": "/r/SideProject/comments/1tc6ka3/built_a_pirate_loot_box_game_with_104_illustrated/",
+      "createdAt": 1778693273000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "indiehacker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778695261598
+    },
+    {
+      "id": "1tc5sj3",
+      "title": "building a writing workflow made me realize how hard originality actually is",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;i originally started this as a tiny side project just to help myself review drafts more carefully before submitting them anywhere &lt;/p&gt; &lt;p&gt;the weird part is that the deeper i got into writing workflows, the more i realized how blurry the line can feel between “influenced by something” and “actually original” &lt;/p&gt; &lt;p&gt;sometimes you fully understand an idea and still end up mirroring the structure of what you read ",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tc5sj3/building_a_writing_workflow_made_me_realize_how/",
+      "permalink": "/r/SideProject/comments/1tc5sj3/building_a_writing_workflow_made_me_realize_how/",
+      "createdAt": 1778691731000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778695261598
+    },
+    {
+      "id": "1tc54hp",
+      "title": "I built a browser-based karaoke video maker because existing tools felt split across 4 apps",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’ve been working on Karaoke Studio, a web app for making karaoke videos from a song or video file.&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://reddit.com/link/1tc54hp/video/0te9gmvlnx0h1/player&quot;&gt;https://reddit.com/link/1tc54hp/video/0te9gmvlnx0h1/player&lt;/a&gt;&lt;/p&gt; &lt;p&gt;The problem I kept running into was that karaoke creation is usually split across separate tools:&lt;/p&gt; &lt;p&gt;- one tool to remove vocals&l",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tc54hp/i_built_a_browserbased_karaoke_video_maker/",
+      "permalink": "/r/SideProject/comments/1tc54hp/i_built_a_browserbased_karaoke_video_maker/",
+      "createdAt": 1778690370000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "maker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778695261598
+    },
     {
       "id": "1tc0qlp",
       "title": "I built agent-lens — a debugger for LLM agents. Pause, fork, diff any run.",
