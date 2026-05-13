@@ -1,7 +1,95 @@
 {
-  "lastUpdated": "2026-05-13T10:26:16.122Z",
-  "totalFound": 12,
+  "lastUpdated": "2026-05-13T14:29:41.072Z",
+  "totalFound": 4,
   "opportunities": [
+    {
+      "id": "1tc0qlp",
+      "title": "I built agent-lens — a debugger for LLM agents. Pause, fork, diff any run.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Side project I&amp;#39;ve been building: agent-lens.&lt;/p&gt; &lt;p&gt;The problem: debugging LLM agents is vibes-based. You change a prompt, restart, eyeball the output. No record of why, no way to measure if it helped. &lt;/p&gt; &lt;p&gt;The fix: pause your agent at any LLM call, state a hypothesis, fork with edits, get a structural diff with verdict: improved/regressed. &lt;/p&gt; &lt;p&gt;pip install agentlens-tracer &lt;/p&gt; ",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tc0qlp/i_built_agentlens_a_debugger_for_llm_agents_pause/",
+      "permalink": "/r/SideProject/comments/1tc0qlp/i_built_agentlens_a_debugger_for_llm_agents_pause/",
+      "createdAt": 1778681261000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778682516372
+    },
+    {
+      "id": "1tbzamb",
+      "title": "My rant about UK marginal tax rates turned into a side project",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;strong&gt;I built this because UK salary numbers started feeling fake to me.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;A £125,000 salary in the UK sounds like “you made it”.&lt;/p&gt; &lt;p&gt;And to be clear, it obviously is a high income. This is not a “£125k is poverty” post.&lt;/p&gt; &lt;p&gt;But when you look at the full stack, the numbers start to feel strange.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;At £125k:&lt;/strong&gt;&lt;/p&gt; &lt",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tbzamb/my_rant_about_uk_marginal_tax_rates_turned_into_a/",
+      "permalink": "/r/SideProject/comments/1tbzamb/my_rant_about_uk_marginal_tax_rates_turned_into_a/",
+      "createdAt": 1778678007000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778682516372
+    },
+    {
+      "id": "1tbx358",
+      "title": "Built something useful, but I’m still stuck using a free subdomain",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey everyone,&lt;/p&gt; &lt;p&gt;Ive been working on a small side project called SubTrack.&lt;/p&gt; &lt;p&gt;Its a free subscription tracker for people who forget subscriptions, free trials, renewal dates, or are just too lazy to manually add everything after signing up.&lt;/p&gt; &lt;p&gt;The part Im most interested in is this:&lt;/p&gt; &lt;p&gt;If a subscription or trial receeipt comes into Gmail, SubTrack can send a notification.",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tbx358/built_something_useful_but_im_still_stuck_using_a/",
+      "permalink": "/r/SideProject/comments/1tbx358/built_something_useful_but_im_still_stuck_using_a/",
+      "createdAt": 1778672457000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778682516373
+    },
+    {
+      "id": "1tbw3kw",
+      "title": "as a solo founder i realized i was spending too much time “doing sales” instead of building a sales system",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’m a solo founder building a B2B SaaS for logistics companies.&lt;/p&gt; &lt;p&gt;No cofounder.&lt;br/&gt; No team.&lt;br/&gt; No funding.&lt;/p&gt; &lt;p&gt;For a while, customer acquisition felt impossible.&lt;/p&gt; &lt;p&gt;Everyone says:&lt;/p&gt; &lt;p&gt;“Do manual outreach.”&lt;br/&gt; “Build relationships.”&lt;br/&gt; “Message people every day.”&lt;/p&gt; &lt;p&gt;Which is fair advice.&lt;/p&gt; &lt;p&gt;But when you’re buil",
+      "url": "https://www.reddit.com/r/linkedin/comments/1tbw3kw/as_a_solo_founder_i_realized_i_was_spending_too/",
+      "permalink": "/r/linkedin/comments/1tbw3kw/as_a_solo_founder_i_realized_i_was_spending_too/",
+      "createdAt": 1778669657000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "linkedin",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778682555502
+    },
     {
       "id": "1tbv7l1",
       "title": "Your MRR is probably wrong. Here's the formula to fix it.",
