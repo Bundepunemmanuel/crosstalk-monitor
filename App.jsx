@@ -592,7 +592,7 @@ export default function App() {
   const visible = opportunities
     .filter((p) => !done.has(p.id))
     .filter((p) => {
-      if (filter === "high") return p.score >= 6;
+      if (filter === "high") return p.score >= 3;
       if (filter === "pain") return p.matched?.some((m) => m.category === "pain");
       return true;
     })
