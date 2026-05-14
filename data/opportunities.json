@@ -1,7 +1,183 @@
 {
-  "lastUpdated": "2026-05-14T10:15:03.991Z",
-  "totalFound": 7,
+  "lastUpdated": "2026-05-14T14:06:29.833Z",
+  "totalFound": 8,
   "opportunities": [
+    {
+      "id": "1tcw48g",
+      "title": "the new b2b saas meta: is the &quot;indie hacker&quot; era of AI over?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;prove me wrong if i am.&lt;br/&gt; i feel like the tech bar for b2b saas just jumped 10x in the last 6 months.&lt;/p&gt; &lt;p&gt;i was planning to build an ai-powered reporting tool for hr departments (basically trying to challenge the legacy saas platforms like workday). but after talking to a few enterprise security guys, the requirements for data privacy and local LLM execution are insane.&lt;/p&gt; &lt;p&gt;i was looking at the b",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tcw48g/the_new_b2b_saas_meta_is_the_indie_hacker_era_of/",
+      "permalink": "/r/SaaS/comments/1tcw48g/the_new_b2b_saas_meta_is_the_indie_hacker_era_of/",
+      "createdAt": 1778760226000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "indie hacker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778767447668
+    },
+    {
+      "id": "1tcue26",
+      "title": "How do I get my first users for my SaaS? (Landing page + waitlist ready)",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey everyone this is my first post here&lt;/p&gt; &lt;p&gt;I’m currently building a SaaS product as a side project and I’d really appreciate some advice from people who’ve been through this stage.&lt;/p&gt; &lt;p&gt;So far, I’ve:&lt;/p&gt; &lt;p&gt;* Built a landing page&lt;/p&gt; &lt;p&gt;* Set up a waitlist&lt;/p&gt; &lt;p&gt;* I’m offering **free lifetime access to the first 100 users** as an incentive&lt;/p&gt; &lt;p&gt;Right now ",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tcue26/how_do_i_get_my_first_users_for_my_saas_landing/",
+      "permalink": "/r/SaaS/comments/1tcue26/how_do_i_get_my_first_users_for_my_saas_landing/",
+      "createdAt": 1778755458000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778767447668
+    },
+    {
+      "id": "1tcyv1m",
+      "title": "[Hiring] Remote AI Content Creators &amp; Account Managers for Rapidly Expanding Agency",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;strong&gt;We’re scaling fast and looking for elite AI talent to join our team!&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Our agency currently manages multiple AI influencer accounts across &lt;strong&gt;Instagram, YouTube Shorts, TikTok, and X (Twitter)&lt;/strong&gt;. We specialize in high-quality, niche-specific content and we are looking for creative, tech-savvy individuals to help us dominate these platforms.&lt;/p&gt; &lt;p&gt;&lt;st",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tcyv1m/hiring_remote_ai_content_creators_account/",
+      "permalink": "/r/SideProject/comments/1tcyv1m/hiring_remote_ai_content_creators_account/",
+      "createdAt": 1778766734000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "content creator",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778767526120
+    },
+    {
+      "id": "1tcy57c",
+      "title": "I hit 1000 users and 2.5k revenue on my side project by stopping the &quot;Free&quot; model",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I spent 5 months building an authentication app for the trading card community. It’s been a wild ride from being stuck in Apple’s approval hell to finally hitting 1000 users this month.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;The biggest technical/business learning:&lt;/strong&gt; We were burning too much on GCP costs by offering free trials to everyone. I pivoted to only providing a trial &lt;em&gt;after&lt;/em&gt; they downloaded the app a",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tcy57c/i_hit_1000_users_and_25k_revenue_on_my_side/",
+      "permalink": "/r/SideProject/comments/1tcy57c/i_hit_1000_users_and_25k_revenue_on_my_side/",
+      "createdAt": 1778765124000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778767526120
+    },
+    {
+      "id": "1tcxe7f",
+      "title": "TriviaPulse League — competitive daily trivia ladder, year one in review",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Side project that became a real product. TriviaPulse League is a competitive trivia app where you play daily weekday matches against an opponent at your skill level. 25-day seasons, real promotion and relegation between them. ~60 players, Season 2 launches June 8.&lt;/p&gt; &lt;p&gt;Built solo on React Native + Firestore + Cloud Functions. Daily ops are manageable for one person: 30-45 min morning sweep, occasional fact-check triage, ",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tcxe7f/triviapulse_league_competitive_daily_trivia/",
+      "permalink": "/r/SideProject/comments/1tcxe7f/triviapulse_league_competitive_daily_trivia/",
+      "createdAt": 1778763426000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778767526121
+    },
+    {
+      "id": "1tcx4km",
+      "title": "Finished my first side project, will you help me test it?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;It’s called Iwill (gotwilled.com).&lt;/p&gt; &lt;p&gt;It’s an app where you publicly declare who gets your stuff when you’re dead. Pick an item, pick a person, add a tag like “CURSED” or “EMOTIONAL BAGGAGE.” Other people can react, contest, or get inspired to write their own. Basically Venmo for inheritance.&lt;/p&gt; &lt;p&gt;The thing is, real wills only get updated once a decade. But who you’d actually leave your stuff to? That cha",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tcx4km/finished_my_first_side_project_will_you_help_me/",
+      "permalink": "/r/SideProject/comments/1tcx4km/finished_my_first_side_project_will_you_help_me/",
+      "createdAt": 1778762777000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778767526121
+    },
+    {
+      "id": "1tcwtb6",
+      "title": "I built a consulting page in under 5 minutes with my side project — here's how",
+      "body": "&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/SideProject/comments/1tcwtb6/i_built_a_consulting_page_in_under_5_minutes_with/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/OWV6azFnMmtrMzFoMdYWymYa6iPYfS5poN1yDClyr-rvTGllbqu4VWu7sZ0L.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=41164993735b53d4d65612852e11ebb49c840778&quot; alt=&quot;I built a consulting page in under 5 minutes with my side project — here's how&quot; title=&quot;I buil",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tcwtb6/i_built_a_consulting_page_in_under_5_minutes_with/",
+      "permalink": "/r/SideProject/comments/1tcwtb6/i_built_a_consulting_page_in_under_5_minutes_with/",
+      "createdAt": 1778761996000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778767526121
+    },
+    {
+      "id": "1tctwtp",
+      "title": "Sold my first product after working on it for 1.5 years",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I just sold my first app for $42,000! &lt;/p&gt; &lt;p&gt;Built solo — no team. &lt;/p&gt; &lt;p&gt;Arcstory is an AI comic maker (I originally built it to create comic strips featuring myself). &lt;/p&gt; &lt;p&gt;I sold it to a company , they reached out twice in 6 months — I decided to go for it. &lt;/p&gt; &lt;p&gt;Quick stats:&lt;br/&gt; - Built + launched in 2 weeks&lt;br/&gt; - 180k+ downloads&lt;br/&gt; - $15k revenue in the l",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tctwtp/sold_my_first_product_after_working_on_it_for_15/",
+      "permalink": "/r/SideProject/comments/1tctwtp/sold_my_first_product_after_working_on_it_for_15/",
+      "createdAt": 1778753945000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "maker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778767526121
+    },
     {
       "id": "1tcs8ts",
       "title": "I'm the magazine editor who posted about content marketing being harder than building the product. It's now a website tool",
