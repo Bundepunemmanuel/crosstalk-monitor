@@ -1,7 +1,227 @@
 {
-  "lastUpdated": "2026-05-14T02:53:15.397Z",
-  "totalFound": 5,
+  "lastUpdated": "2026-05-14T06:46:49.446Z",
+  "totalFound": 10,
   "opportunities": [
+    {
+      "id": "1tcpy20",
+      "title": "Voice AI niches - what’s actually hot selling right now (India + global)?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’ve been in voice automation AI for a while now and one thing that keeps coming up is figuring out which niches are genuinely converting vs which ones just sound good on paper. I’ve tried going after real estate and healthcare, which helped a bit but still hits a wall when it comes to budget objections and decision-maker access. Also tried e-commerce and logistics, but the sales cycles are longer than expected and POCs drag on foreve",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tcpy20/voice_ai_niches_whats_actually_hot_selling_right/",
+      "permalink": "/r/SaaS/comments/1tcpy20/voice_ai_niches_whats_actually_hot_selling_right/",
+      "createdAt": 1778740757000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "maker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778741068009
+    },
+    {
+      "id": "1tcpdzx",
+      "title": "Thinking about building a simple micro SaaS for bloggers..would anyone actually use this?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Lately I’ve been thinking about building a small micro SaaS specifically for bloggers/content creators.&lt;/p&gt; &lt;p&gt;The idea is basically:&lt;/p&gt; &lt;p&gt;- helping people structure blog posts properly&lt;/p&gt; &lt;p&gt;- built-in plagiarism checking&lt;/p&gt; &lt;p&gt;- keyword analysis&lt;/p&gt; &lt;p&gt;- SEO optimization suggestions&lt;/p&gt; &lt;p&gt;- maybe even AI-assisted content workflows&lt;/p&gt; &lt;p&gt;Not try",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tcpdzx/thinking_about_building_a_simple_micro_saas_for/",
+      "permalink": "/r/SaaS/comments/1tcpdzx/thinking_about_building_a_simple_micro_saas_for/",
+      "createdAt": 1778738955000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "content creator",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778741068010
+    },
+    {
+      "id": "1tcp0kp",
+      "title": "Solopreneur and a2p 10dlc",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;m trying to build call to sms , sms to sms app.&lt;/p&gt; &lt;p&gt;I&amp;#39;m the dev and only builder and I&amp;#39;m connecting 2 ends: I want first thinking I&amp;#39;m going to build through twillo but I&amp;#39;m now facing the horrible a2p 10dlc compliance!&lt;/p&gt; &lt;p&gt;I can&amp;#39;t be the ISV as too much liability so every client of mine should have his own a2p 10dlc to receive and send (through my app) text",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tcp0kp/solopreneur_and_a2p_10dlc/",
+      "permalink": "/r/SaaS/comments/1tcp0kp/solopreneur_and_a2p_10dlc/",
+      "createdAt": 1778737791000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solopreneur",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778741068010
+    },
+    {
+      "id": "1tcmvc6",
+      "title": "r/SaaS v2 is Building in Public - month 1",
+      "body": "&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/SaaS/comments/1tcmvc6/rsaas_v2_is_building_in_public_month_1/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/4rgzpy90111h1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=fa5755c4b91aa6ec2cb5e1d3944f4010410f64a1&quot; alt=&quot;r/SaaS v2 is Building in Public - month 1&quot; title=&quot;r/SaaS v2 is Building in Public - month 1&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div c",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tcmvc6/rsaas_v2_is_building_in_public_month_1/",
+      "permalink": "/r/SaaS/comments/1tcmvc6/rsaas_v2_is_building_in_public_month_1/",
+      "createdAt": 1778731295000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "building in public",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778741068010
+    },
+    {
+      "id": "1tcp6ua",
+      "title": "Abandoned a side project a year ago. Logged back in this week to find 980 beta signups. Whoops. Rolling out access now.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Last year I built &lt;a href=&quot;http://LLMVIZ.com&quot;&gt;LLMVIZ.com&lt;/a&gt; - a tool that turns raw text into charts. Paste survey results, research papers, earning reports, whatever, and it spits out charts based on any data contained in the text. Flip between bar, area, line, pie, radar, etc. and copy to clipboard or download as a png.&lt;/p&gt; &lt;p&gt;I put up a landing page, opened a beta waitlist, then got pulled into ot",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tcp6ua/abandoned_a_side_project_a_year_ago_logged_back/",
+      "permalink": "/r/SideProject/comments/1tcp6ua/abandoned_a_side_project_a_year_ago_logged_back/",
+      "createdAt": 1778738334000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778741145889
+    },
+    {
+      "id": "1tcoyeb",
+      "title": "I’ve been quietly building this productivity app for months. Today I launched V2.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;There are 3 r&amp;#39;s in &amp;quot;Strawberry&amp;quot;, now that its clear that I am a human, ;) let&amp;#39;s proceed. &lt;/p&gt; &lt;p&gt;I’ve been building something quietly for a while now.&lt;/p&gt; &lt;p&gt;It started as a tiny side project because I was frustrated with how scattered everything felt, tasks in one place, notes somewhere else, ideas disappearing before they became something meaningful.&lt;/p&gt; &lt;p&gt;At fir",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tcoyeb/ive_been_quietly_building_this_productivity_app/",
+      "permalink": "/r/SideProject/comments/1tcoyeb/ive_been_quietly_building_this_productivity_app/",
+      "createdAt": 1778737609000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778741145889
+    },
+    {
+      "id": "1tcortg",
+      "title": "My AI replacement",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Was building a side project where you could create a persona and give it all the knowledge you possible can then as you write code it keeps adding knowledge and keep becoming better. I created one for different skill and now I use it let people ask any work related question when I am not available.&lt;/p&gt; &lt;p&gt;What do you guys think about it ? Would love to have more people try it out.&lt;/p&gt; &lt;p&gt;Comment or dm me and I ",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tcortg/my_ai_replacement/",
+      "permalink": "/r/SideProject/comments/1tcortg/my_ai_replacement/",
+      "createdAt": 1778737036000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778741145889
+    },
+    {
+      "id": "1tco4ku",
+      "title": "I have been thinking about this for a while and wanted some honest opinions.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I am a UX designer and I’ve been working on a personal side project around money/expense tracking. Not trying to build another “finance bro” app with charts everywhere lol.&lt;/p&gt; &lt;p&gt;One thing I noticed is most expense trackers either:&lt;br/&gt; - feel super corporate&lt;br/&gt; - are overloaded with features&lt;br/&gt; - or just become annoying after 2 weeks&lt;/p&gt; &lt;p&gt;I’ve personally tried a bunch of them and I alw",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tco4ku/i_have_been_thinking_about_this_for_a_while_and/",
+      "permalink": "/r/SideProject/comments/1tco4ku/i_have_been_thinking_about_this_for_a_while_and/",
+      "createdAt": 1778735027000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778741145889
+    },
+    {
+      "id": "1tcnqa8",
+      "title": "I built an app that doesn't block social media, it makes you face how you actually use it. Looking for honest feedback.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey everyone. I&amp;#39;ve been working on a side project for a while and I finally have a functional v1.0 I&amp;#39;m comfortable sharing. Looking for real feedback.&lt;/p&gt; &lt;p&gt;What it is?&lt;/p&gt; &lt;p&gt;Mirror is a PWA focused on intentional social media use. The core idea is instead of blocking apps, it makes you declare your intention before each session. Why are you opening this app right now? What are you actually lo",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tcnqa8/i_built_an_app_that_doesnt_block_social_media_it/",
+      "permalink": "/r/SideProject/comments/1tcnqa8/i_built_an_app_that_doesnt_block_social_media_it/",
+      "createdAt": 1778733846000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778741145889
+    },
+    {
+      "id": "1tcm6aw",
+      "title": "Solo Builder? Not Great at talking about yourself?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;m a solo founder building a cloud platform and I suck at talking about myself. &lt;/p&gt; &lt;p&gt;I built an app that interviews you like a real journalist would. It asks follow-up questions based on your answers, then spits out a bio, founder story, about page, social posts, and pull quotes&lt;/p&gt; &lt;p&gt;It&amp;#39;s free. No signup, no email capture, no catch. I just want feedback from other builders.&lt;/p&gt; &lt;p",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tcm6aw/solo_builder_not_great_at_talking_about_yourself/",
+      "permalink": "/r/SideProject/comments/1tcm6aw/solo_builder_not_great_at_talking_about_yourself/",
+      "createdAt": 1778729330000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778741145889
+    },
     {
       "id": "1tcjezf",
       "title": "F1 Side Project",
