@@ -1,7 +1,293 @@
 {
-  "lastUpdated": "2026-05-14T14:06:29.833Z",
-  "totalFound": 8,
+  "lastUpdated": "2026-05-14T17:49:46.802Z",
+  "totalFound": 13,
   "opportunities": [
+    {
+      "id": "1td4zln",
+      "title": "razorpay is rejecting 2 out of 3 of my international payments and i finally pulled the data today",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;ok so context first. solo founder, india entity saas, dynamic qr code product. running 14 months. like 24 paying customers, 90% of them europe and us. small numbers but real revenue.&lt;/p&gt; &lt;p&gt;been frustrated for weeks thinking i had a conversion problem. trials werent turning into paid like i expected. paused some marketing, restarted it, the numbers kinda moved but not enough. spent way too long rewriting landing page copy.",
+      "url": "https://www.reddit.com/r/SaaS/comments/1td4zln/razorpay_is_rejecting_2_out_of_3_of_my/",
+      "permalink": "/r/SaaS/comments/1td4zln/razorpay_is_rejecting_2_out_of_3_of_my/",
+      "createdAt": 1778779493000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778780846002
+    },
+    {
+      "id": "1t10a29",
+      "title": "Feedback + tips needed on my new (in progress) solo built project 🙏",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey dear IndieHacker community 👋&lt;/p&gt; &lt;p&gt;I&amp;#39;m currently building a new product called &amp;quot;LiveInterp&amp;quot; which is a live interpretation tool for in-person events, like churches, conferences etc. It works very simply with a &amp;quot;speaker&amp;quot; and a &amp;quot;listener&amp;quot;, where the speaker creates an account and gets a room number assigned, the listener just needs to type in the speaker&amp",
+      "url": "https://www.reddit.com/r/indiehackers/comments/1t10a29/feedback_tips_needed_on_my_new_in_progress_solo/",
+      "permalink": "/r/indiehackers/comments/1t10a29/feedback_tips_needed_on_my_new_in_progress_solo/",
+      "createdAt": 1777657080000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "indiehackers",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "indiehacker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778780865722
+    },
+    {
+      "id": "1t0m969",
+      "title": "I got tired of fixing captions manually, so I tried making something — would love honest feedback",
+      "body": "&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/indiehackers/comments/1t0m969/i_got_tired_of_fixing_captions_manually_so_i/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/AqQl45ed2H9FF_7a8-rdsqkf6YVFHnra2PwE7YI72VA.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=59828327aa99a4253e9f3aa5df1797db2d9a76e8&quot; alt=&quot;I got tired of fixing captions manually, so I tried making something — would love honest feedback&quot; title=&quot;I got ti",
+      "url": "https://www.reddit.com/r/indiehackers/comments/1t0m969/i_got_tired_of_fixing_captions_manually_so_i/",
+      "permalink": "/r/indiehackers/comments/1t0m969/i_got_tired_of_fixing_captions_manually_so_i/",
+      "createdAt": 1777620008000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "indiehackers",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "indiehacker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778780865722
+    },
+    {
+      "id": "1szx2dw",
+      "title": "I'm unemployed so I've built this to help me",
+      "body": "&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/indiehackers/comments/1szx2dw/im_unemployed_so_ive_built_this_to_help_me/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/tzw9lwm64cyg1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9474c3949960d169e921f1bdd788ddfa5597deb2&quot; alt=&quot;I'm unemployed so I've built this to help me&quot; title=&quot;I'm unemployed so I've built this to help me&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_O",
+      "url": "https://www.reddit.com/r/indiehackers/comments/1szx2dw/im_unemployed_so_ive_built_this_to_help_me/",
+      "permalink": "/r/indiehackers/comments/1szx2dw/im_unemployed_so_ive_built_this_to_help_me/",
+      "createdAt": 1777557917000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "indiehackers",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "indiehacker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778780865722
+    },
+    {
+      "id": "1td21ai",
+      "title": "Realizing most founder content problems are actually narrative problems",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Days ago I posted here about something unexpected I discovered while building my first app as a non-technical solo founder: content marketing started feeling mentally harder than product development itself.&lt;/p&gt; &lt;p&gt;Not because I had no ideas. But because every platform wanted a different version of me.TikTok wanted emotional immediacy. X wanted compressed observations. LinkedIn wanted career narrative. Reddit hated obvious ",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1td21ai/realizing_most_founder_content_problems_are/",
+      "permalink": "/r/Solopreneur/comments/1td21ai/realizing_most_founder_content_problems_are/",
+      "createdAt": 1778773369000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778780904374
+    },
+    {
+      "id": "1td54gt",
+      "title": "Mistakes I made building my first hardware side project (Some almost killed it)",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;h1&gt;TL;DR:&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Mistake 1&lt;/strong&gt; — Validate your idea before committing, and run your pre-launch campaign in parallel with development.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Mistake 2&lt;/strong&gt; — Keep everything as simple as you can.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Mistake 3&lt;/strong&gt; — You need confidence, but don&amp;#39;t let it get you into trouble. Always have a plan B.&lt;/",
+      "url": "https://www.reddit.com/r/SideProject/comments/1td54gt/mistakes_i_made_building_my_first_hardware_side/",
+      "permalink": "/r/SideProject/comments/1td54gt/mistakes_i_made_building_my_first_hardware_side/",
+      "createdAt": 1778779781000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778780923532
+    },
+    {
+      "id": "1td51m4",
+      "title": "I Built an AI Fitness Coach as a Side Project and Opened the Beta This Week",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Built an AI fitness coaching app as a side project and finally opened the beta this week.&lt;/p&gt; &lt;p&gt;One thing I underestimated was how different it feels when real strangers start downloading something you made. Even seeing anonymous TestFlight installs felt exciting because it meant people actually cared enough to try it.&lt;/p&gt; &lt;p&gt;The app is called Cadence AI Fitness. It creates adaptive workout plans and adjusts b",
+      "url": "https://www.reddit.com/r/SideProject/comments/1td51m4/i_built_an_ai_fitness_coach_as_a_side_project_and/",
+      "permalink": "/r/SideProject/comments/1td51m4/i_built_an_ai_fitness_coach_as_a_side_project_and/",
+      "createdAt": 1778779609000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778780923532
+    },
+    {
+      "id": "1td513i",
+      "title": "My Side project on a work table configurator",
+      "body": "&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/SideProject/comments/1td513i/my_side_project_on_a_work_table_configurator/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/MzJlbTQyMHYwNTFoMQcAfYGTgucmgMrlsXSm4NdMK1tiYNyFGFa5KFGuhOa-.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b07fadcd5ba214667a5d905a423da862c70bafcd&quot; alt=&quot;My Side project on a work table configurator&quot; title=&quot;My Side project on a work table configurator&",
+      "url": "https://www.reddit.com/r/SideProject/comments/1td513i/my_side_project_on_a_work_table_configurator/",
+      "permalink": "/r/SideProject/comments/1td513i/my_side_project_on_a_work_table_configurator/",
+      "createdAt": 1778779580000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778780923532
+    },
+    {
+      "id": "1td429n",
+      "title": "I built an async drafting app because my friend group can never all be online at the same time",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://imgur.com/a/S9Ftva1&quot;&gt;Draftroom Screenshot&lt;/a&gt; &lt;/p&gt; &lt;p&gt;I&amp;#39;ve been building a fun hobby side project called &lt;a href=&quot;https://www.getdraftednow.com&quot;&gt;Get Drafted Now&lt;/a&gt;. It&amp;#39;s an async drafting platform for fantasy leagues, friend-group drafts, or honestly any scenario where your group wants to draft and claim stuff. I play a lot of sand volleyball so ",
+      "url": "https://www.reddit.com/r/SideProject/comments/1td429n/i_built_an_async_drafting_app_because_my_friend/",
+      "permalink": "/r/SideProject/comments/1td429n/i_built_an_async_drafting_app_because_my_friend/",
+      "createdAt": 1778777587000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778780923532
+    },
+    {
+      "id": "1td4269",
+      "title": "I built a web tool to simplify massive privacy policies. Need harsh feedback on the concept.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Like most people, I never read privacy policies because they are intentionally long and dense legal documents. To fix this, I built a side project called Privaciya[dot]com —a privacy intelligence dashboard designed to function as an open risk index for popular applications.&lt;/p&gt; &lt;p&gt;The platform converts complex privacy policies into actionable, scannable data. It currently tracks hundreds of apps across messaging, productiv",
+      "url": "https://www.reddit.com/r/SideProject/comments/1td4269/i_built_a_web_tool_to_simplify_massive_privacy/",
+      "permalink": "/r/SideProject/comments/1td4269/i_built_a_web_tool_to_simplify_massive_privacy/",
+      "createdAt": 1778777582000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778780923532
+    },
+    {
+      "id": "1td3xgj",
+      "title": "Day 4 of a 5-day SaaS build sprint — sharing my progress",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Solo founder, software engineering student, day job 1pm-1am.&lt;br/&gt; Building MailGrade — a deliverability checker for cold emails.&lt;br/&gt; Pure client-side Vue 3 app, no backend in v1.&lt;/p&gt; &lt;p&gt;Where I&amp;#39;m at on Day 4:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Landing page: live at &lt;a href=&quot;http://mailgrade.app&quot;&gt;mailgrade.app&lt;/a&gt;&lt;/li&gt; &lt;li&gt;App scaffold: live at &lt;a href=&quot;http://app.m",
+      "url": "https://www.reddit.com/r/SideProject/comments/1td3xgj/day_4_of_a_5day_saas_build_sprint_sharing_my/",
+      "permalink": "/r/SideProject/comments/1td3xgj/day_4_of_a_5day_saas_build_sprint_sharing_my/",
+      "createdAt": 1778777302000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778780923532
+    },
+    {
+      "id": "1td3nru",
+      "title": "Week 2 update — the delegation problem is real, but I'm starting to see the pattern",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Week 1 I posted about setting up an AI agent to help with my side project. The honest accounting. The results that felt too small to matter.&lt;/p&gt; &lt;p&gt;One insight from that post got more traction than I expected: &lt;strong&gt;the hardest part wasn&amp;#39;t the tech — it was figuring out what to delegate.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;I&amp;#39;m now in week 2 and wanted to follow up with a little more texture on that po",
+      "url": "https://www.reddit.com/r/SideProject/comments/1td3nru/week_2_update_the_delegation_problem_is_real_but/",
+      "permalink": "/r/SideProject/comments/1td3nru/week_2_update_the_delegation_problem_is_real_but/",
+      "createdAt": 1778776746000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778780923532
+    },
+    {
+      "id": "1td28tl",
+      "title": "Built a K-pop bias ranker that swaps the TierMaker drag-and-drop for head-to-head matchups. Way faster on mobile.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Made tier lists for years on TierMaker and a couple of clones. They all have the same problem on a phone: dragging 90+ portrait cards into S/A/B/C with a thumb is miserable. I&amp;#39;d start one, get to &amp;quot;A tier&amp;quot; with 40 cards still in the queue, and quit.&lt;/p&gt; &lt;p&gt;So I built one that flips it. Two idols at a time, tap the one you bias, an ELO algorithm reads your picks and builds the tier list in the backg",
+      "url": "https://www.reddit.com/r/SideProject/comments/1td28tl/built_a_kpop_bias_ranker_that_swaps_the_tiermaker/",
+      "permalink": "/r/SideProject/comments/1td28tl/built_a_kpop_bias_ranker_that_swaps_the_tiermaker/",
+      "createdAt": 1778773811000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "maker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778780923532
+    },
     {
       "id": "1tcw48g",
       "title": "the new b2b saas meta: is the &quot;indie hacker&quot; era of AI over?",
