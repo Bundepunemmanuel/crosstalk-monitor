@@ -1,7 +1,161 @@
 {
-  "lastUpdated": "2026-05-14T06:46:49.446Z",
-  "totalFound": 10,
+  "lastUpdated": "2026-05-14T10:15:03.991Z",
+  "totalFound": 7,
   "opportunities": [
+    {
+      "id": "1tcs8ts",
+      "title": "I'm the magazine editor who posted about content marketing being harder than building the product. It's now a website tool",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;2 days ago I posted about accidentally creating a content system as a solo founder with no technical background, you can read it here.&lt;/p&gt; &lt;p&gt;50 comments later, a lot of you asked for the actual workflow. So I built it into a proper tool.&lt;/p&gt; &lt;p&gt;It&amp;#39;s called Lede, it&amp;#39;s a journalism word, means the beginning of the article.&lt;/p&gt; &lt;p&gt;The insight behind it: most founders don&amp;#39;t stru",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1tcs8ts/im_the_magazine_editor_who_posted_about_content/",
+      "permalink": "/r/Solopreneur/comments/1tcs8ts/im_the_magazine_editor_who_posted_about_content/",
+      "createdAt": 1778748492000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778753622144
+    },
+    {
+      "id": "1tcqr3s",
+      "title": "What are b2b payments and how the modern stack actually works",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Had a client ask me what are b2b payments last week because their current solution is expensive and they wanted to understand why. Figured I&amp;#39;d write up how the modern stack works for solopreneurs here who might hit the same question.&lt;/p&gt; &lt;p&gt;B2b payments are payments between two businesses, usually for invoices, supplier transactions, or cross border settlement. The modern version runs on a few layers, the end custo",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1tcqr3s/what_are_b2b_payments_and_how_the_modern_stack/",
+      "permalink": "/r/Solopreneur/comments/1tcqr3s/what_are_b2b_payments_and_how_the_modern_stack/",
+      "createdAt": 1778743438000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solopreneur",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778753622144
+    },
+    {
+      "id": "1tctf3x",
+      "title": "My side project got 20+ signups",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;ve been building SignalDesk.&lt;/p&gt; &lt;p&gt;Today it crossed 20+ signups&lt;/p&gt; &lt;p&gt;SignalDesk lets you collect anonymous honest feedback from your circle: friends, colleagues, classmates, anyone. &lt;/p&gt; &lt;p&gt;Rip it apart, I can take it 🙏&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://signaldesk.company/&quot;&gt;https://signaldesk.company/&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; subm",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tctf3x/my_side_project_got_20_signups/",
+      "permalink": "/r/SideProject/comments/1tctf3x/my_side_project_got_20_signups/",
+      "createdAt": 1778752388000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778753641356
+    },
+    {
+      "id": "1tct88l",
+      "title": "Working on a free dividend tracker,... feedback is very much needed!",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi,... I’ve been building a side project called DividendIQ.&lt;/p&gt; &lt;p&gt;The main focus is accurate dividend payment schedules (actual payout months instead of estimates), portfolio tracking, and long-term dividend projections.&lt;/p&gt; &lt;p&gt;You can import portfolios via CSV and try the demo without creating an account.&lt;/p&gt; &lt;p&gt;dividendiq.org&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tct88l/working_on_a_free_dividend_tracker_feedback_is/",
+      "permalink": "/r/SideProject/comments/1tct88l/working_on_a_free_dividend_tracker_feedback_is/",
+      "createdAt": 1778751760000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778753641356
+    },
+    {
+      "id": "1tcsetg",
+      "title": "I spent months turning a tiny printable camera into a real side project",
+      "body": "&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/SideProject/comments/1tcsetg/i_spent_months_turning_a_tiny_printable_camera/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/NGp4M2o4dDVpMjFoMZbkt56zeGbEotIHvenkFzSj7N4LIunrZb0e1CnMddXi.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=f41db502ff41f9092de2abdc5c99307c46958c8f&quot; alt=&quot;I spent months turning a tiny printable camera into a real side project&quot; title=&quot;I spent months t",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tcsetg/i_spent_months_turning_a_tiny_printable_camera/",
+      "permalink": "/r/SideProject/comments/1tcsetg/i_spent_months_turning_a_tiny_printable_camera/",
+      "createdAt": 1778749063000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778753641356
+    },
+    {
+      "id": "1tcs014",
+      "title": "Built my entire side project with AI agents and here's what actually broke",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Spent the last 6 weeks building a SaaS tool entirely with AI coding agents. Not vibe coding where you type one sentence and pray, but structured agent workflows with plan review and verification at each step.&lt;/p&gt; &lt;p&gt;I shipped in 6 weeks what would&amp;#39;ve taken me 4-5 months solo. Frontend, backend, database schema, auth, payments. I&amp;#39;m not a backend dev by training and the agents handled most of the infra work c",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tcs014/built_my_entire_side_project_with_ai_agents_and/",
+      "permalink": "/r/SideProject/comments/1tcs014/built_my_entire_side_project_with_ai_agents_and/",
+      "createdAt": 1778747667000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778753641356
+    },
+    {
+      "id": "1tcr32u",
+      "title": "Tired of manual swiping? I am building a &quot;bare-metal&quot; Kotlin app (&lt;1.5MB) to automate your video feed.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi everyone,&lt;/p&gt; &lt;p&gt;I’ve been working on a side project called &lt;strong&gt;Laze&lt;/strong&gt;. It’s an ultra-lightweight Android utility designed for hands-free viewing on platforms like YouTube Shorts, TikTok, and Reels.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;The Problem:&lt;/strong&gt; I found myself wanting to watch feeds while doing other things, but manual swiping was annoying.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;The Soluti",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tcr32u/tired_of_manual_swiping_i_am_building_a_baremetal/",
+      "permalink": "/r/SideProject/comments/1tcr32u/tired_of_manual_swiping_i_am_building_a_baremetal/",
+      "createdAt": 1778744547000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778753641357
+    },
     {
       "id": "1tcpy20",
       "title": "Voice AI niches - what’s actually hot selling right now (India + global)?",
