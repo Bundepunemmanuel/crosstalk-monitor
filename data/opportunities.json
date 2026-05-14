@@ -1,7 +1,117 @@
 {
-  "lastUpdated": "2026-05-13T21:26:43.696Z",
-  "totalFound": 7,
+  "lastUpdated": "2026-05-14T02:53:15.397Z",
+  "totalFound": 5,
   "opportunities": [
+    {
+      "id": "1tcjezf",
+      "title": "F1 Side Project",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Built this F1 pit strategy app for fun. It’s rough but I learned a lot from this regarding data prepping and ML training. I’d love if some of you guys could play around with it and tell me any improvement. Built it for my resume (applying for new grad SWE/AI Jobs).&lt;/p&gt; &lt;p&gt;Link: &lt;a href=&quot;https://pit-iq.vercel.app/&quot;&gt;https://pit-iq.vercel.app/&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; subm",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tcjezf/f1_side_project/",
+      "permalink": "/r/SideProject/comments/1tcjezf/f1_side_project/",
+      "createdAt": 1778722047000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778727131174
+    },
+    {
+      "id": "1tcip9z",
+      "title": "Open sourcing my side project I built because I didn’t want cloud providers having access to my journals",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’ve been using audio journaling for a while, and one of the best parts is being able to talk naturally instead of forcing myself to sit down and write. I used to use Gemini for transcribing/summarizing my audio journals, and honestly, it worked pretty well. But the more I used it, the more uncomfortable I got with the privacy side of it. These are personal journals. Even if a cloud provider has good policies, I just didn’t love the i",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tcip9z/open_sourcing_my_side_project_i_built_because_i/",
+      "permalink": "/r/SideProject/comments/1tcip9z/open_sourcing_my_side_project_i_built_because_i/",
+      "createdAt": 1778720260000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778727131174
+    },
+    {
+      "id": "1tchtk8",
+      "title": "100hrs and countless nights and i've finally built a “split the dinner bill” app that doesn’t suck",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;i know, i know… A bill-splitting app is almost a cliché side project at this point.&lt;/p&gt; &lt;p&gt;But after trying every single one over the years, I kept feeling like none of them quite nailed the actual real-world use case. Some were overly complicated, some were missing key features, and most these days feel more like vibe-coded one-shot apps than something you’d actually want to rely on at dinner with friends.&lt;/p&gt; &lt;p",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tchtk8/100hrs_and_countless_nights_and_ive_finally_built/",
+      "permalink": "/r/SideProject/comments/1tchtk8/100hrs_and_countless_nights_and_ive_finally_built/",
+      "createdAt": 1778717916000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778727131174
+    },
+    {
+      "id": "1tcha9e",
+      "title": "After getting tired of guessing where my grocery money went, I built an app that scans receipts and tells me what's cheaper elsewhere — beta open on Android + iOS",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey &lt;a href=&quot;/r/SideProject&quot;&gt;r/SideProject&lt;/a&gt; 👋&lt;/p&gt; &lt;p&gt;I&amp;#39;m the solo founder behind BiteSpend. After staring at my Costco + Trader Joe&amp;#39;s + ethnic grocery receipts every week and having no idea which one was actually cheaper for the things I buy, I built BiteSpend.&lt;/p&gt; &lt;p&gt;What it does: Snap a photo of any grocery or restaurant receipt. Gemini 2.5 Flash extracts every line i",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tcha9e/after_getting_tired_of_guessing_where_my_grocery/",
+      "permalink": "/r/SideProject/comments/1tcha9e/after_getting_tired_of_guessing_where_my_grocery/",
+      "createdAt": 1778716552000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778727131174
+    },
+    {
+      "id": "1tcgd9t",
+      "title": "Lost my job Feb 28. Built a Shopify app as side project. Somehow passed app store on first try.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;This is the first real thing I have ever wanted to share on Reddit.&lt;/p&gt; &lt;p&gt;On February 28, I had to leave my job. For the last 5 years I was a mechanical engineer designing engine parts for heavy duty vehicles in the defense industry. I was facing a mandatory relocation and I just did not want to move. Thus I took a leap.&lt;/p&gt; &lt;p&gt;I have always wanted to build a brand. Since I already had a designer profile and l",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tcgd9t/lost_my_job_feb_28_built_a_shopify_app_as_side/",
+      "permalink": "/r/SideProject/comments/1tcgd9t/lost_my_job_feb_28_built_a_shopify_app_as_side/",
+      "createdAt": 1778714294000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778727131174
+    },
     {
       "id": "1tc9fyb",
       "title": "Looking for micro SaaS that costs less than a cup of coffee per month",
