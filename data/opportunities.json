@@ -1,7 +1,187 @@
 {
-  "lastUpdated": "2026-05-14T17:49:46.802Z",
-  "totalFound": 13,
+  "lastUpdated": "2026-05-14T21:10:13.613Z",
+  "totalFound": 8,
   "opportunities": [
+    {
+      "id": "1td7xy4",
+      "title": "I built KlipKap Pro a one-time purchase, cross-platform Screen Studio alternative that runs 100% offline (Windows/Mac/Linux)",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi reddit,&lt;/p&gt; &lt;p&gt;I’m Ilyes, indie hacker and maker behind Statflows, SkillSwipe, and now KlipKap Pro.&lt;/p&gt; &lt;p&gt;Like many of you, I got hit with yet another Screen Studio subscription renewal and thought: “I can build something close to this” So I did.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;KlipKap Pro&lt;/strong&gt; is a screen recorder + editor that gives you cinematic recordings (auto‑zoom on clicks, smooth cursor, ",
+      "url": "https://www.reddit.com/r/SideProject/comments/1td7xy4/i_built_klipkap_pro_a_onetime_purchase/",
+      "permalink": "/r/SideProject/comments/1td7xy4/i_built_klipkap_pro_a_onetime_purchase/",
+      "createdAt": 1778785562000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 4,
+      "matched": [
+        {
+          "keyword": "indie hacker",
+          "category": "audience"
+        },
+        {
+          "keyword": "maker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778792949837
+    },
+    {
+      "id": "1tda3sh",
+      "title": "Paycheck Passport | What would I roughly earn if I had the same salary in a different country ?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I saw a Reddit discussion the other day where people were comparing salaries and taxes across different countries, so I ended up building a fun little app called “Paycheck Passport” using GitHub Pages 😄&lt;/p&gt; &lt;p&gt;The idea is simple, pick a country and see roughly how much of your salary you’d actually take home after taxes.&lt;/p&gt; &lt;p&gt;It’s just a fun side project and not meant to be financially accurate advice 😅 &lt",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tda3sh/paycheck_passport_what_would_i_roughly_earn_if_i/",
+      "permalink": "/r/SideProject/comments/1tda3sh/paycheck_passport_what_would_i_roughly_earn_if_i/",
+      "createdAt": 1778790148000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778792949836
+    },
+    {
+      "id": "1td905b",
+      "title": "From idea to App Store: my indie app journey",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Built and launched my app “Golio” recently while working full-time as a software engineer in Japan.&lt;/p&gt; &lt;p&gt;Honestly, getting users is 100x harder than coding 😅&lt;/p&gt; &lt;p&gt;Currently experimenting with:&lt;br/&gt; - TikTok marketing&lt;br/&gt; - ASO&lt;br/&gt; - short-form content&lt;/p&gt; &lt;p&gt;Would love feedback from other indie hackers:&lt;br/&gt; What helped you get your first real users?&lt;/p&gt; &lt;/div",
+      "url": "https://www.reddit.com/r/SideProject/comments/1td905b/from_idea_to_app_store_my_indie_app_journey/",
+      "permalink": "/r/SideProject/comments/1td905b/from_idea_to_app_store_my_indie_app_journey/",
+      "createdAt": 1778787811000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "indie hacker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778792949837
+    },
+    {
+      "id": "1td8zv9",
+      "title": "I'm pre-validating an A/B testing tool for solo founders running multiple landing pages.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I run a small portfolio of 6 landing pages (calculator tools, contractor stuff, a carb-count guide, etc.) and I have no idea which headline is converting on any of them. PostHog is too much, Plausible has no A/B, Vercel A/B is Vercel-only, GrowthBook is great but assumes a product team. &lt;/p&gt; &lt;p&gt;So I&amp;#39;m validating whether building a stripped-down version makes sense:&lt;br/&gt; * Drop one script tag&lt;br/&gt; * Cros",
+      "url": "https://www.reddit.com/r/SideProject/comments/1td8zv9/im_prevalidating_an_ab_testing_tool_for_solo/",
+      "permalink": "/r/SideProject/comments/1td8zv9/im_prevalidating_an_ab_testing_tool_for_solo/",
+      "createdAt": 1778787794000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778792949837
+    },
+    {
+      "id": "1td8eyu",
+      "title": "I vibecoded an invoice maker app in 24 hours — from idea to App Store. Lifetime is free for the next 4 days.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Was browsing the App Store last month and stumbled across the productivity/finance category. Got me thinking, especially having had my bathroom renovated last year. Contractors are on their phone for everything, yet when it&amp;#39;s time to hand a client an estimate or invoice on the spot, most of them are fumbling with notes or promising to &amp;quot;email it later.&amp;quot;&lt;/p&gt; &lt;p&gt;So I set myself a challenge: idea to A",
+      "url": "https://www.reddit.com/r/SideProject/comments/1td8eyu/i_vibecoded_an_invoice_maker_app_in_24_hours_from/",
+      "permalink": "/r/SideProject/comments/1td8eyu/i_vibecoded_an_invoice_maker_app_in_24_hours_from/",
+      "createdAt": 1778786536000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "maker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778792949837
+    },
+    {
+      "id": "1td83mh",
+      "title": "What major feature have you pushed this week?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I pushed the &amp;quot;Collections&amp;quot; feature in &lt;a href=&quot;http://bitetube.vercel.app/feed&quot;&gt;BiteTube&lt;/a&gt;. What it does is you can create your account and then start adding your own playlists of videos which you can share with other people. Most beneficial for content creators because it pushes your content more organically.&lt;/p&gt; &lt;p&gt;Users also have a new &amp;quot;Profile&amp;quot; page now where ",
+      "url": "https://www.reddit.com/r/SideProject/comments/1td83mh/what_major_feature_have_you_pushed_this_week/",
+      "permalink": "/r/SideProject/comments/1td83mh/what_major_feature_have_you_pushed_this_week/",
+      "createdAt": 1778785883000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "content creator",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778792949837
+    },
+    {
+      "id": "1td834n",
+      "title": "Built a content repurposing tool for distribution workflows ( waitlist open )",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;As a newsletter creator, who struggled with content repurposing for a while, I started building this for me at first and now I want to make it public so would love your feedback! &lt;/p&gt; &lt;p&gt;One workspace where your newsletter becomes the starting point for your whole distribution workflow. Repurpose, organize drafts, adapt content per platform and schedule everything without the chaos&lt;/p&gt; &lt;p&gt;If you are a newslette",
+      "url": "https://www.reddit.com/r/SideProject/comments/1td834n/built_a_content_repurposing_tool_for_distribution/",
+      "permalink": "/r/SideProject/comments/1td834n/built_a_content_repurposing_tool_for_distribution/",
+      "createdAt": 1778785856000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 1,
+      "matched": [
+        {
+          "keyword": "content repurposing tool",
+          "category": "intent"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778792949837
+    },
+    {
+      "id": "1td7qy9",
+      "title": "Day 1 Of Trying to Build in Public",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Here&amp;#39;s where we stand: Our product is kind of ready. We have added all the features we wanted, and our tech is all sorted. &lt;/p&gt; &lt;p&gt;Issue we are facing: Both of us are trying to give this as much time as possible, as we are bootstrapped, we are trying our best to survive as well.&lt;br/&gt; Also, both of us are obsessed with improving the user experience. I think it&amp;#39;s a good thing, I have heard Jeff Bezos an",
+      "url": "https://www.reddit.com/r/SideProject/comments/1td7qy9/day_1_of_trying_to_build_in_public/",
+      "permalink": "/r/SideProject/comments/1td7qy9/day_1_of_trying_to_build_in_public/",
+      "createdAt": 1778785166000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 1,
+      "matched": [
+        {
+          "keyword": "build in public",
+          "category": "intent"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778792949837
+    },
     {
       "id": "1td4zln",
       "title": "razorpay is rejecting 2 out of 3 of my international payments and i finally pulled the data today",
