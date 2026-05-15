@@ -1,7 +1,29 @@
 {
-  "lastUpdated": "2026-05-14T21:10:13.613Z",
-  "totalFound": 8,
+  "lastUpdated": "2026-05-15T02:54:00.603Z",
+  "totalFound": 1,
   "opportunities": [
+    {
+      "id": "1tdd6oq",
+      "title": "Building as a founder has never been easier, but damn the solo founder life is lonely",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;ve been actually incredibly locked in over the last 2 months working on my latest startup solo venture.&lt;/p&gt; &lt;p&gt;Filming youtube videos, marketing, coding, cold calling customers.&lt;/p&gt; &lt;p&gt;The one thing I&amp;#39;m having a hard time with is there is no one I can talk to about this. My friends are fat lazy bums who sit around all day and spend their time not at work watching tv and playing video games.&lt",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tdd6oq/building_as_a_founder_has_never_been_easier_but/",
+      "permalink": "/r/SaaS/comments/1tdd6oq/building_as_a_founder_has_never_been_easier_but/",
+      "createdAt": 1778797093000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778813499048
+    },
     {
       "id": "1td7xy4",
       "title": "I built KlipKap Pro a one-time purchase, cross-platform Screen Studio alternative that runs 100% offline (Windows/Mac/Linux)",
