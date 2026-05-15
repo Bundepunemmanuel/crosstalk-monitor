@@ -1,7 +1,249 @@
 {
-  "lastUpdated": "2026-05-15T06:55:48.769Z",
-  "totalFound": 10,
+  "lastUpdated": "2026-05-15T10:22:37.037Z",
+  "totalFound": 11,
   "opportunities": [
+    {
+      "id": "1tdrnpy",
+      "title": "How do you get your first set of B2B clients?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;So, i&amp;#39;m a solo founder, no VC backing or anything, how tf, should i go about finding my initial set of B2B customers? outside of your known circle, real actual B2B customers, have tried cold emails, LinkedIn Dms - These things barely work, even when i get a reply, you get ghosted later, what do i gotta do? Everytime you try something and it doesn&amp;#39;t work, it is extremely disappointing.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_O",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tdrnpy/how_do_you_get_your_first_set_of_b2b_clients/",
+      "permalink": "/r/SaaS/comments/1tdrnpy/how_do_you_get_your_first_set_of_b2b_clients/",
+      "createdAt": 1778839069000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778840416777
+    },
+    {
+      "id": "1tdpwda",
+      "title": "how are you guys handling refund tickets as a solo founder",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I am also a solo founder and honestly refunds and cancellations were taking up way too much of my week. like the same 5 requests on repeat every single day through Stripe.&lt;/p&gt; &lt;p&gt;So basically i decided of building my own lil project on the side to deal with it. plugged it into Stripe so it can actually process refunds, cancellations, answer billing questions etc. if something looks off or the customer seems upset it just s",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tdpwda/how_are_you_guys_handling_refund_tickets_as_a/",
+      "permalink": "/r/SaaS/comments/1tdpwda/how_are_you_guys_handling_refund_tickets_as_a/",
+      "createdAt": 1778833065000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778840416778
+    },
+    {
+      "id": "1tdpd14",
+      "title": "I accidentally solved my own marketing problem. Now I don't know if I should build it into my product.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi, here&amp;#39;s some context: &lt;/p&gt; &lt;p&gt;I&amp;#39;m building an AI tool for solopreneurs and have just launched and started marketing this week. Zero paying users. The classic &amp;quot;nobody knows it exists&amp;quot; stage.&lt;/p&gt; &lt;p&gt;While trying to market it myself I kept hitting the same wall Ive noticed every solopreneur hits - How does one market with zero budget right now! I have no idea how to make videos",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tdpd14/i_accidentally_solved_my_own_marketing_problem/",
+      "permalink": "/r/SaaS/comments/1tdpd14/i_accidentally_solved_my_own_marketing_problem/",
+      "createdAt": 1778831284000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solopreneur",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778840416778
+    },
+    {
+      "id": "1tdpg1s",
+      "title": "month 1 building in public. 0 to 128 waitlist signups. here's what actually worked.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;My product is &lt;a href=&quot;http://vibepromote.vercel.app&quot;&gt;Vibe Promote&lt;/a&gt; marketing automation tool for app and saas founders who love building but hate marketing &lt;/p&gt; &lt;p&gt;week 1- 4 signups. posted on reddit twice. both flopped&lt;/p&gt; &lt;p&gt;week 2- 9 signups. started replying to threads instead of posting. way better.&lt;/p&gt; &lt;p&gt;week 3: 54 signups. changed my positioning from vague to specif",
+      "url": "https://www.reddit.com/r/indiehackers/comments/1tdpg1s/month_1_building_in_public_0_to_128_waitlist/",
+      "permalink": "/r/indiehackers/comments/1tdpg1s/month_1_building_in_public_0_to_128_waitlist/",
+      "createdAt": 1778831573000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "indiehackers",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "building in public",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778840436191
+    },
+    {
+      "id": "1tdpu9f",
+      "title": "Help on user acquisition?",
+      "body": "&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/Solopreneur/comments/1tdpu9f/help_on_user_acquisition/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/AGusL6xmuNizWnj5ko0QjoyaoHyd0z9E6SozaUqTFp8.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=7d73c35feb3a6229a41af930b3acf37ab21e6c4c&quot; alt=&quot;Help on user acquisition?&quot; title=&quot;Help on user acquisition?&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div ",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1tdpu9f/help_on_user_acquisition/",
+      "permalink": "/r/Solopreneur/comments/1tdpu9f/help_on_user_acquisition/",
+      "createdAt": 1778832870000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solopreneur",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778840474730
+    },
+    {
+      "id": "1tdoh0n",
+      "title": "The content workflow that helped me get my first paying user became my second project",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I got my first real paying user for my app today!! What makes it meaningful is the timing.&lt;/p&gt; &lt;p&gt;After launching my first iOS app as a solo founder, I realized my biggest struggle was not only development. It was figuring out how to talk about the product in a way that made people remember it.&lt;/p&gt; &lt;p&gt;At first I mostly posted about what the app does. Then I started asking a different question: what is the found",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1tdoh0n/the_content_workflow_that_helped_me_get_my_first/",
+      "permalink": "/r/Solopreneur/comments/1tdoh0n/the_content_workflow_that_helped_me_get_my_first/",
+      "createdAt": 1778828287000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778840474730
+    },
+    {
+      "id": "1tds0nu",
+      "title": "Built a tool to find storage drives, thinking of a gaming focus",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’ve been learning about PC hardware lately, so I made a small side project called &lt;a href=&quot;https://www.diskhunt.com&quot;&gt;DiskHunt&lt;/a&gt; find and compare storage drives more easily.&lt;/p&gt; &lt;p&gt;It started as a simple filter tool for SSDs, but I added more options like NVMe, PCIe 4.0, heatsinks, and speed ranges. I also built a basic scoring system to rank drives instead of just showing a long list.&lt;/p&gt; &lt",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tds0nu/built_a_tool_to_find_storage_drives_thinking_of_a/",
+      "permalink": "/r/SideProject/comments/1tds0nu/built_a_tool_to_find_storage_drives_thinking_of_a/",
+      "createdAt": 1778840183000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778840493933
+    },
+    {
+      "id": "1tdqbsx",
+      "title": "Roast my project: A social experiment where the internet focuses on just ONE person for 24 hours.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’ve been working on a new side project, and I’d love some brutal, honest feedback from other builders -&amp;gt; &lt;a href=&quot;http://thethroneroom.online&quot;&gt;thethroneroom.online&lt;/a&gt;&lt;/p&gt; &lt;p&gt;The core philosophy driving this is simple but ambitious: &lt;strong&gt;Built by the crowd, for the crowd.&lt;/strong&gt; We are trying to completely rethink fair digital visibility, stripping away the algorithms, the pai",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tdqbsx/roast_my_project_a_social_experiment_where_the/",
+      "permalink": "/r/SideProject/comments/1tdqbsx/roast_my_project_a_social_experiment_where_the/",
+      "createdAt": 1778834518000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778840493934
+    },
+    {
+      "id": "1tdpha7",
+      "title": "What is average traction you got by mentioning about your side project here",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I am new to this sub reddit and i am curious about the reach I can get in my app by mentioning about my app &lt;/p&gt; &lt;p&gt;Because I mentioned about my project and it got only 256 views and zero sign up and active users i would really like to know how to grow your saas traction through reddit &lt;/p&gt; &lt;p&gt;If any of you have any tips love to here it&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32;",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tdpha7/what_is_average_traction_you_got_by_mentioning/",
+      "permalink": "/r/SideProject/comments/1tdpha7/what_is_average_traction_you_got_by_mentioning/",
+      "createdAt": 1778831695000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778840493934
+    },
+    {
+      "id": "1tdozat",
+      "title": "Drop your side project and I’ll tell you the biggest thing holding it back",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Most side projects are not missing features. They are missing clear demand, clear positioning, or a reason people would care immediately.&lt;/p&gt; &lt;p&gt;Drop the project and what it does. I’ll give one honest take on what feels weak or promising. I’ll be using Leadline to check Reddit demand and related conversations too.&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://leadline.dev&quot;&gt;https://leadline.dev&lt;/a&gt;&lt;/p&gt; &lt",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tdozat/drop_your_side_project_and_ill_tell_you_the/",
+      "permalink": "/r/SideProject/comments/1tdozat/drop_your_side_project_and_ill_tell_you_the/",
+      "createdAt": 1778829956000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778840493934
+    },
+    {
+      "id": "1tdognk",
+      "title": "AIPinMaker - a multi-model AI workspace for image, video, pin, and adult-safe creative workflows",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey &lt;a href=&quot;/r/SideProject&quot;&gt;r/SideProject&lt;/a&gt;,&lt;/p&gt; &lt;p&gt;I&amp;#39;m working on AIPinMaker: &lt;a href=&quot;https://www.aipinmaker.com/&quot;&gt;https://www.aipinmaker.com/&lt;/a&gt;&lt;/p&gt; &lt;p&gt;It started as a tool for AI pin / badge concepts, but it has grown into a broader creative workflow for image generation, short video ideas, baby previews, enamel pin mockups, and product visuals.&lt;/p&",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tdognk/aipinmaker_a_multimodel_ai_workspace_for_image/",
+      "permalink": "/r/SideProject/comments/1tdognk/aipinmaker_a_multimodel_ai_workspace_for_image/",
+      "createdAt": 1778828256000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "maker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778840493934
+    },
     {
       "id": "1tdoe6q",
       "title": "My second side project came from trying to market my first one",
