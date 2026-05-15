@@ -1,7 +1,73 @@
 {
-  "lastUpdated": "2026-05-15T10:22:37.037Z",
-  "totalFound": 11,
+  "lastUpdated": "2026-05-15T14:03:05.592Z",
+  "totalFound": 3,
   "opportunities": [
+    {
+      "id": "1tdw144",
+      "title": "As a solo founder, this was one of the most stressful moments I’ve faced",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;My SEO started breaking overnight because of a platform I depended on&lt;/p&gt; &lt;p&gt;A few months ago, I integrated &lt;strong&gt;Hashnode&lt;/strong&gt; into my SaaS, &lt;a href=&quot;https://cuebicai.com&quot;&gt;&lt;strong&gt;Cuebic AI&lt;/strong&gt;&lt;/a&gt;, for blogging.&lt;/p&gt; &lt;p&gt;At the beginning, everything felt great.&lt;/p&gt; &lt;p&gt;Posts were getting indexed. SEO traffic was slowly growing. People were actu",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tdw144/as_a_solo_founder_this_was_one_of_the_most/",
+      "permalink": "/r/SaaS/comments/1tdw144/as_a_solo_founder_this_was_one_of_the_most/",
+      "createdAt": 1778850853000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778853638492
+    },
+    {
+      "id": "1tdt6s9",
+      "title": "We got #5 on Product Hunt yesterday. Here’s the real how and the results.",
+      "body": "&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/indiehackers/comments/1tdt6s9/we_got_5_on_product_hunt_yesterday_heres_the_real/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/W2srdWPMx3cUb6ysnIwrRzJD2Rm7rbBGIho67uqL0kE.png?width=140&amp;amp;height=70&amp;amp;auto=webp&amp;amp;s=446605217568ac566b1a3a07c5e77a68376735e0&quot; alt=&quot;We got #5 on Product Hunt yesterday. Here’s the real how and the results.&quot; title=&quot;We got #5 on Product Hunt ye",
+      "url": "https://www.reddit.com/r/indiehackers/comments/1tdt6s9/we_got_5_on_product_hunt_yesterday_heres_the_real/",
+      "permalink": "/r/indiehackers/comments/1tdt6s9/we_got_5_on_product_hunt_yesterday_heres_the_real/",
+      "createdAt": 1778843663000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "indiehackers",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "indiehacker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778853658409
+    },
+    {
+      "id": "1tdv53w",
+      "title": "I have built a task manager for browser users. It will follow you in all your tabs right where you work",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey Indiehackers,&lt;/p&gt; &lt;p&gt;If you are someone who uses a browser a lot, or are building a web app or doing competitor research, I have built a Chrome extension so powerful that it will feel like your entire workspace of tasks is right where you are working.&lt;/p&gt; &lt;p&gt;And also, it has a web app where you can create projects and invite members, and also track all your task activities, so that it doesn&amp;#39;t feel l",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tdv53w/i_have_built_a_task_manager_for_browser_users_it/",
+      "permalink": "/r/SideProject/comments/1tdv53w/i_have_built_a_task_manager_for_browser_users_it/",
+      "createdAt": 1778848738000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "indiehacker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778853717486
+    },
     {
       "id": "1tdrnpy",
       "title": "How do you get your first set of B2B clients?",
