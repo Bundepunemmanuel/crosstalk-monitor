@@ -1,7 +1,231 @@
 {
-  "lastUpdated": "2026-05-15T02:54:00.603Z",
-  "totalFound": 1,
+  "lastUpdated": "2026-05-15T06:55:48.769Z",
+  "totalFound": 10,
   "opportunities": [
+    {
+      "id": "1tdoe6q",
+      "title": "My second side project came from trying to market my first one",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;After launching my first iOS app, I ran into a problem I underestimated: content marketing.&lt;/p&gt; &lt;p&gt;The app is called Safe the Date. I built it as a solo founder with no technical background, and after launch I realized that “building the product” and “explaining why anyone should care” are two completely different problems. As a lot of Reddit friends said, &amp;quot;completely different muscles&amp;quot;. &lt;/p&gt; &lt;p&",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tdoe6q/my_second_side_project_came_from_trying_to_market/",
+      "permalink": "/r/SideProject/comments/1tdoe6q/my_second_side_project_came_from_trying_to_market/",
+      "createdAt": 1778828024000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 4,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        },
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778828084219
+    },
+    {
+      "id": "1tdmqvs",
+      "title": "Hello all I'm new here!",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I have found myself an SaaS developer over the last year or so (Been programming since 2015 but recently went SaaS) and I&amp;#39;m wondering how you guys go about building your own projects? I&amp;#39;ve lost my job and my side projects have turned into my only projects and I need to make money on them. I have one ready for alpha testing but no idea how to get testers as just about everywhere has a ban on self promotion of any kind. ",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tdmqvs/hello_all_im_new_here/",
+      "permalink": "/r/SaaS/comments/1tdmqvs/hello_all_im_new_here/",
+      "createdAt": 1778822768000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778828005659
+    },
+    {
+      "id": "1tdk5mg",
+      "title": "building an AI tool that launches and markets your SaaS automatically",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&amp;#x200B;&lt;/p&gt; &lt;p&gt;I’m building an AI tool that launches and markets your SaaS automatically&lt;/p&gt; &lt;p&gt;Very few can distribute them.&lt;/p&gt; &lt;p&gt;I’ve seen so many indie hackers ship solid AI tools and get 0 users because:&lt;/p&gt; &lt;p&gt;- they hate marketing&lt;/p&gt; &lt;p&gt;- don’t know where to post&lt;/p&gt; &lt;p&gt;- never launch properly&lt;/p&gt; &lt;p&gt;- stop after tweeting twice&lt;/p&gt; ",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tdk5mg/building_an_ai_tool_that_launches_and_markets/",
+      "permalink": "/r/SaaS/comments/1tdk5mg/building_an_ai_tool_that_launches_and_markets/",
+      "createdAt": 1778815161000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "indie hacker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778828005660
+    },
+    {
+      "id": "1tdod3g",
+      "title": "asked whether to validate or just ship before starting a side project, here’s what the responses made me realize",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;got way more perspectives than expected. the one thing that actually stuck with me: stop trying to find the perfect answer before starting and just talk to 5-10 real people who have the problem. feels like the middle ground between overthinking and shipping blind.&lt;/p&gt; &lt;p&gt;anyone actually done this? did those early conversations actually change what you built?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tdod3g/asked_whether_to_validate_or_just_ship_before/",
+      "permalink": "/r/SideProject/comments/1tdod3g/asked_whether_to_validate_or_just_ship_before/",
+      "createdAt": 1778827924000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778828084219
+    },
+    {
+      "id": "1tdlz8w",
+      "title": "What’s the smallest side project you built that unexpectedly got real users?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Feels like simple useful projects outperform overengineered ideas surprisingly often. Curious what people accidentally ended up getting traction with.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Bladerunner_7_&quot;&gt; /u/Bladerunner_7_ &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/SideProject/comments/1tdlz8w/whats_the_smalles",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tdlz8w/whats_the_smallest_side_project_you_built_that/",
+      "permalink": "/r/SideProject/comments/1tdlz8w/whats_the_smallest_side_project_you_built_that/",
+      "createdAt": 1778820396000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778828084220
+    },
+    {
+      "id": "1tdlj1b",
+      "title": "I spent one year building a photo search app because I couldn't find a photo of my son I knew existed somewhere on my PC",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Like many side projects, this one started with a specific, annoying problem.&lt;/p&gt; &lt;p&gt;I had 2TB of photos across three external drives going back to 2001. I knew a photo existed — somewhere — but finding it meant opening drive after drive, folder after folder, hoping to get lucky. Cloud tools were a non-starter for me. I didn&amp;#39;t want to upload decades of personal photos to Google or Amazon.&lt;/p&gt; &lt;p&gt;So I bui",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tdlj1b/i_spent_one_year_building_a_photo_search_app/",
+      "permalink": "/r/SideProject/comments/1tdlj1b/i_spent_one_year_building_a_photo_search_app/",
+      "createdAt": 1778819030000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778828084220
+    },
+    {
+      "id": "1tdlh12",
+      "title": "I built DailyHook — sends you 10 viral TikTok/Instagram prompts every morning at 7AM",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey &lt;a href=&quot;/r/SideProject&quot;&gt;r/SideProject&lt;/a&gt;!&lt;/p&gt; &lt;p&gt;Built this over the weekend. It&amp;#39;s a simple tool that analyzes TikTok and Instagram trends every night and delivers ready-to-use video prompts to your inbox every morning at 7AM.&lt;/p&gt; &lt;p&gt;The problem I&amp;#39;m solving: content creators spend 1-2 hours daily figuring out what to film. DailyHook cuts that to 30 seconds.&lt;/p&gt; ",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tdlh12/i_built_dailyhook_sends_you_10_viral/",
+      "permalink": "/r/SideProject/comments/1tdlh12/i_built_dailyhook_sends_you_10_viral/",
+      "createdAt": 1778818863000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "content creator",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778828084220
+    },
+    {
+      "id": "1tdksni",
+      "title": "Building in public: for you to socially recharge and get you off your phone for meaningful connections",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Feedback pls!&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://reddit.com/link/1tdksni/video/aqry83k3481h1/player&quot;&gt;https://reddit.com/link/1tdksni/video/aqry83k3481h1/player&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Exciting_Garage1429&quot;&gt; /u/Exciting_Garage1429 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tdksni/building_in_public_for_you_to_socially_recharge/",
+      "permalink": "/r/SideProject/comments/1tdksni/building_in_public_for_you_to_socially_recharge/",
+      "createdAt": 1778816965000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "building in public",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778828084220
+    },
+    {
+      "id": "1tdkifl",
+      "title": "Built StoreSig to fix messy product feeds before they get rejected. Looking for early users (free access)",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey &lt;a href=&quot;/r/SideProject&quot;&gt;r/SideProject&lt;/a&gt;,&lt;/p&gt; &lt;p&gt;I’ve been building StoreSig as a side project to solve a problem I kept seeing with ecommerce stores: product feeds are messy, hard to maintain, and often get rejected by channels.&lt;/p&gt; &lt;p&gt;What StoreSig does today:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Upload a product CSV/feed&lt;/li&gt; &lt;li&gt;Auto-detect missing/invalid fields&lt;/li&gt;",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tdkifl/built_storesig_to_fix_messy_product_feeds_before/",
+      "permalink": "/r/SideProject/comments/1tdkifl/built_storesig_to_fix_messy_product_feeds_before/",
+      "createdAt": 1778816152000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778828084220
+    },
+    {
+      "id": "1tdjvz5",
+      "title": "Spent the last few months building a free job search engine that aggregates 2.6M+ listings from 100+ ATS sources — no signups, no paywalls",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey everyone! I wanted to share a side project I&amp;#39;ve been working on.&lt;/p&gt; &lt;p&gt;The idea came from my own frustration — every job board either requires an account, hides listings behind a paywall, or inserts recruiters between you and the employer. I just wanted to see real jobs and apply directly.&lt;/p&gt; &lt;p&gt;So I built &lt;strong&gt;Aurat.AI Jobs&lt;/strong&gt; — a search engine that pulls listings from 100+ A",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tdjvz5/spent_the_last_few_months_building_a_free_job/",
+      "permalink": "/r/SideProject/comments/1tdjvz5/spent_the_last_few_months_building_a_free_job/",
+      "createdAt": 1778814419000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778828084220
+    },
     {
       "id": "1tdd6oq",
       "title": "Building as a founder has never been easier, but damn the solo founder life is lonely",
