@@ -1,7 +1,315 @@
 {
-  "lastUpdated": "2026-05-15T14:03:05.592Z",
-  "totalFound": 3,
+  "lastUpdated": "2026-05-15T17:27:52.268Z",
+  "totalFound": 14,
   "opportunities": [
+    {
+      "id": "1te2onj",
+      "title": "I read the YC Summer 2026 RFS and built 120 concrete startup ideas around the categories that can actually be started as side projects. Here they are.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;ve started doing this exercise from Summer 2026 YC batch to read the RFS, filter for categories that don&amp;#39;t require hardware, regulatory licenses, or a co-founder army, and map out what a real v1 looks like.&lt;/p&gt; &lt;p&gt;Summer 2026 was trickier than usual. Out of 15 categories, 8 are legitimately hard tech counter-drone swarms, lunar manufacturing, inference chips for space. You can&amp;#39;t side-project those",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1te2onj/i_read_the_yc_summer_2026_rfs_and_built_120/",
+      "permalink": "/r/Solopreneur/comments/1te2onj/i_read_the_yc_summer_2026_rfs_and_built_120/",
+      "createdAt": 1778865213000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778865990111
+    },
+    {
+      "id": "1tdzlib",
+      "title": "What major feature have you pushed this week?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I pushed the &amp;quot;Collections&amp;quot; feature in BiteTube. What it does is you can create your account and then start adding your own playlists of videos which you can share with other people. Most beneficial for content creators because it pushes your content more organically.&lt;/p&gt; &lt;p&gt;Users also have a new &amp;quot;Profile&amp;quot; page now where you can check out your number of likes, dislikes and shares on all o",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1tdzlib/what_major_feature_have_you_pushed_this_week/",
+      "permalink": "/r/Solopreneur/comments/1tdzlib/what_major_feature_have_you_pushed_this_week/",
+      "createdAt": 1778858691000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "content creator",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778865990111
+    },
+    {
+      "id": "1tdyfah",
+      "title": "I’ve been publishing a free AI tools newsletter for 5 weeks. Here’s what the data actually looks like.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Gonna be honest, I didn’t expect to be sharing numbers this small. But small numbers with context are more useful than no numbers at all.&lt;br/&gt; Week 5 update on The AI Edge, a free weekly newsletter reviewing AI tools for freelancers and solopreneurs.&lt;br/&gt; Subscribers: 11&lt;br/&gt; Open rate: 41.38%&lt;br/&gt; Industry average open rate: 20-25%&lt;br/&gt; The subscriber number is humbling. The open rate tells a different s",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1tdyfah/ive_been_publishing_a_free_ai_tools_newsletter/",
+      "permalink": "/r/Solopreneur/comments/1tdyfah/ive_been_publishing_a_free_ai_tools_newsletter/",
+      "createdAt": 1778856200000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solopreneur",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778865990111
+    },
+    {
+      "id": "1te2t6x",
+      "title": "Solo founder, full-time job, building an AI home companion for the past three months",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;For three months I&amp;#39;ve been building Happy Home, a home companion that learns your specific house. Live at myhappyhome.app. Browser-based, no download, no signup to start. Built solo, nights and weekends, alongside a full-time job and raising 3 year old twins.&lt;/p&gt; &lt;p&gt;The product, briefly: You tell it about your home. Address, age, systems, whatever&amp;#39;s worrying you. It builds a model. From there you can ask it",
+      "url": "https://www.reddit.com/r/SideProject/comments/1te2t6x/solo_founder_fulltime_job_building_an_ai_home/",
+      "permalink": "/r/SideProject/comments/1te2t6x/solo_founder_fulltime_job_building_an_ai_home/",
+      "createdAt": 1778865465000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778866009440
+    },
+    {
+      "id": "1te2qyd",
+      "title": "I built a zero-setup, disposable E2E web chat so I don't have to give my Discord to randoms.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;hey makers. i’m a math teacher learning web dev on the side, and i just open-sourced my first real project.&lt;/p&gt; &lt;p&gt;it’s a disposable web chat (v2v).&lt;/p&gt; &lt;p&gt;&lt;strong&gt;the problem i had:&lt;/strong&gt; i play competitive games and sometimes need to share a screenshot, map, or voice comms with a random player for just one match. i hate adding randoms to my personal discord or telegram for a quick 1-hour sessio",
+      "url": "https://www.reddit.com/r/SideProject/comments/1te2qyd/i_built_a_zerosetup_disposable_e2e_web_chat_so_i/",
+      "permalink": "/r/SideProject/comments/1te2qyd/i_built_a_zerosetup_disposable_e2e_web_chat_so_i/",
+      "createdAt": 1778865335000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "maker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778866009440
+    },
+    {
+      "id": "1te1qho",
+      "title": "Solo founders: what became your biggest struggle after release?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I built a unit economics calculator for founders, but the more I think about it, the more I feel that a calculator alone doesn’t solve the real problems people face.&lt;br/&gt; I’m curious: what challenges did you run into after launching your product? What was harder than expected?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Amazing_Spinach3558&quot;&gt; /u/",
+      "url": "https://www.reddit.com/r/SideProject/comments/1te1qho/solo_founders_what_became_your_biggest_struggle/",
+      "permalink": "/r/SideProject/comments/1te1qho/solo_founders_what_became_your_biggest_struggle/",
+      "createdAt": 1778863203000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778866009440
+    },
+    {
+      "id": "1te1bza",
+      "title": "screenshots should answer the next objection",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;a lot of landing pages use screenshots like decoration&lt;/p&gt; &lt;p&gt;they show that the product exists, but they don’t answer the thing a visitor is quietly wondering. that’s a missed chance, especially for side projects where people are deciding in 10 seconds if the thing is worth trying&lt;/p&gt; &lt;p&gt;the screenshot should usually prove one of these:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;how fast setup is&lt;/li&gt; &lt;li&gt;what",
+      "url": "https://www.reddit.com/r/SideProject/comments/1te1bza/screenshots_should_answer_the_next_objection/",
+      "permalink": "/r/SideProject/comments/1te1bza/screenshots_should_answer_the_next_objection/",
+      "createdAt": 1778862347000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778866009440
+    },
+    {
+      "id": "1te0bao",
+      "title": "Marketing a side project is honestly harder than building it",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Been working on a small project recently and the coding part was somehow the easy section. Getting people to actually notice/use it is a completely different skill.&lt;/p&gt; &lt;p&gt;Using runable helped me move much faster on the product side, now I’m trying to learn distribution/community building too.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Disastrous",
+      "url": "https://www.reddit.com/r/SideProject/comments/1te0bao/marketing_a_side_project_is_honestly_harder_than/",
+      "permalink": "/r/SideProject/comments/1te0bao/marketing_a_side_project_is_honestly_harder_than/",
+      "createdAt": 1778860218000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778866009441
+    },
+    {
+      "id": "1te0b0p",
+      "title": "Anyone else enjoy coding more when there’s less pressure?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I noticed I’m way more creative when I stop treating every side project like it needs to become a startup 😭&lt;/p&gt; &lt;p&gt;Lately I’ve been experimenting and shipping smaller ideas using runable, and it’s made programming feel fun again instead of stressful.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Disastrous_Ear_2242&quot;&gt; /u/Disastrous_Ear_2242 ",
+      "url": "https://www.reddit.com/r/SideProject/comments/1te0b0p/anyone_else_enjoy_coding_more_when_theres_less/",
+      "permalink": "/r/SideProject/comments/1te0b0p/anyone_else_enjoy_coding_more_when_theres_less/",
+      "createdAt": 1778860202000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778866009441
+    },
+    {
+      "id": "1te054c",
+      "title": "I built an open-source orchestration layer that runs AI agents on my GitHub repos",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;A few months ago I started a side project: a simple webhook that triggered Claude on a PR. Cool demo, nothing more.&lt;/p&gt; &lt;p&gt;It kind of spiraled.&lt;/p&gt; &lt;p&gt;Now its 12+ containerized services that listen to GitHub webhooks and dispatch autonomous agents to review code, triage issues, fix CI failures, and whatever else you configure, all running in parallel on your own infrastructure.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;",
+      "url": "https://www.reddit.com/r/SideProject/comments/1te054c/i_built_an_opensource_orchestration_layer_that/",
+      "permalink": "/r/SideProject/comments/1te054c/i_built_an_opensource_orchestration_layer_that/",
+      "createdAt": 1778859853000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778866009441
+    },
+    {
+      "id": "1tdzxu6",
+      "title": "4 months into building a music player that deliberately does less. android, no streaming, no subscription.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;been working on this side project for the last 4 months. it&amp;#39;s a music player for android. the whole point is that it does almost nothing. you drop your mp3s or flacs into a folder, and it plays them. that&amp;#39;s the whole product. no streaming. no account. no algorithmic feed. no recommendations. no engagement loop. no notifications. no cloud sync. no social features. no playlist sharing. no &amp;quot;for you&amp;quot; tab.",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tdzxu6/4_months_into_building_a_music_player_that/",
+      "permalink": "/r/SideProject/comments/1tdzxu6/4_months_into_building_a_music_player_that/",
+      "createdAt": 1778859416000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778866009441
+    },
+    {
+      "id": "1tdy0qi",
+      "title": "Built a small open-source CLI to find Kubernetes resource waste",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey,&lt;/p&gt; &lt;p&gt;Built a small open-source side project called IdleKube.&lt;/p&gt; &lt;p&gt;It’s a lightweight Kubernetes CLI that scans a cluster and quickly surfaces:&lt;/p&gt; &lt;p&gt;• ⁠low-utilization workloads&lt;br/&gt; • ⁠overprovisioned CPU/memory requests&lt;br/&gt; • ⁠missing ownership labels&lt;br/&gt; • ⁠namespace inefficiencies&lt;br/&gt; • ⁠estimated resource waste&lt;/p&gt; &lt;p&gt;The idea was to create somet",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tdy0qi/built_a_small_opensource_cli_to_find_kubernetes/",
+      "permalink": "/r/SideProject/comments/1tdy0qi/built_a_small_opensource_cli_to_find_kubernetes/",
+      "createdAt": 1778855317000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778866009441
+    },
+    {
+      "id": "1tdy8w4",
+      "title": "Side Project born from another Side Project!",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi,&lt;/p&gt; &lt;p&gt;One side project has led to another! The first was a gig at a remote location which required me to build out a tool kit to take with me. This led me to agonize over my gear and consider many possibilities and constraints, some of which I asked Claude about. The job ended up going great but I kept thinking about the process of selecting what to bring.&lt;/p&gt; &lt;p&gt;From there, I thought about building an app",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tdy8w4/side_project_born_from_another_side_project/",
+      "permalink": "/r/SideProject/comments/1tdy8w4/side_project_born_from_another_side_project/",
+      "createdAt": 1778855810000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778866009442
+    },
+    {
+      "id": "1tdxhbe",
+      "title": "Day 40 of sharing stats about my SaaS until I get 1000 users: My Reddit autopilot is getting slaughtered and I think I'm done with submissions",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;ve been watching my autopilot metrics for Lens and the results are pretty brutal. Right now I am sitting at a 21.7 percent success rate for posts. That is not just bad, it is basically a death sentence for an automation tool. I have 17 failed attempts this week alone and most of those are coming from subreddits like &lt;a href=&quot;/r/indiehackers&quot;&gt;r/indiehackers&lt;/a&gt; where I haven&amp;#39;t successfully landed",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tdxhbe/day_40_of_sharing_stats_about_my_saas_until_i_get/",
+      "permalink": "/r/SideProject/comments/1tdxhbe/day_40_of_sharing_stats_about_my_saas_until_i_get/",
+      "createdAt": 1778854142000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "indiehacker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778866009442
+    },
     {
       "id": "1tdw144",
       "title": "As a solo founder, this was one of the most stressful moments I’ve faced",
