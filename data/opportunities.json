@@ -1,7 +1,73 @@
 {
-  "lastUpdated": "2026-05-16T06:22:06.153Z",
-  "totalFound": 4,
+  "lastUpdated": "2026-05-16T09:30:23.784Z",
+  "totalFound": 3,
   "opportunities": [
+    {
+      "id": "1teo8oa",
+      "title": "marketing my side project is actually killing me",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;not being dramatic but it&amp;#39;s just slow af.&lt;/p&gt; &lt;p&gt;finding where users hang out, figuring out what to post, writing something that doesn&amp;#39;t sound like chatgpt. all manual. And it takes forever&lt;/p&gt; &lt;p&gt;and the worst part is I didn&amp;#39;t even know if any of it was working.&lt;/p&gt; &lt;p&gt;so I did the only thing that made sense. I started building something to fix it.&lt;/p&gt; &lt;p&gt;That ca",
+      "url": "https://www.reddit.com/r/SideProject/comments/1teo8oa/marketing_my_side_project_is_actually_killing_me/",
+      "permalink": "/r/SideProject/comments/1teo8oa/marketing_my_side_project_is_actually_killing_me/",
+      "createdAt": 1778921791000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778923759347
+    },
+    {
+      "id": "1ten2b0",
+      "title": "Is “getting lost while presenting” a real problem worth solving?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’m validating a presentation-related side project idea and would love honest feedback. When presenting, I often find that the hard part isn’t just speaking, but staying oriented: remembering what I already covered, what I skipped, what comes next, whether I’m still aligned with the current slide, and how to respond during Q&amp;amp;A.&lt;/p&gt; &lt;p&gt;I’m thinking about a lightweight tool that tracks presentation progress from spee",
+      "url": "https://www.reddit.com/r/SideProject/comments/1ten2b0/is_getting_lost_while_presenting_a_real_problem/",
+      "permalink": "/r/SideProject/comments/1ten2b0/is_getting_lost_while_presenting_a_real_problem/",
+      "createdAt": 1778917810000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778923759347
+    },
+    {
+      "id": "1temkic",
+      "title": "Looking for: Any side project that can help an addict",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Trying to help a mate that&amp;#39;s recently told me he can&amp;#39;t control his habits anymore.&lt;/p&gt; &lt;p&gt;He still has life somewhat under control, so I&amp;#39;m looking for something that might help him steer clear of cocaine when the urge arises. &lt;/p&gt; &lt;p&gt;I know this wont be _the_ solution. We are doing therapy and have picked up sports again. I just want something that can nudge him in the right direction.&l",
+      "url": "https://www.reddit.com/r/SideProject/comments/1temkic/looking_for_any_side_project_that_can_help_an/",
+      "permalink": "/r/SideProject/comments/1temkic/looking_for_any_side_project_that_can_help_an/",
+      "createdAt": 1778916132000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778923759348
+    },
     {
       "id": "1tekv3y",
       "title": "Built a futuristic neon-styled React UI library and recently open sourced it",
