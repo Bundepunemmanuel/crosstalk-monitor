@@ -1,7 +1,205 @@
 {
-  "lastUpdated": "2026-05-16T16:58:39.977Z",
-  "totalFound": 10,
+  "lastUpdated": "2026-05-16T20:44:41.566Z",
+  "totalFound": 9,
   "opportunities": [
+    {
+      "id": "1tf4m8g",
+      "title": "Built a SaaS Solo, Reached 2000+ Organic Users &amp; Strong Paid Conversion Now Hitting the Distribution Wall",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;How do solo founders handle the transition from product-building to distribution?&lt;/p&gt; &lt;p&gt;I’ve been building a SaaS alone for the last 8 months. I got my first paying customer after about a month, and since then growth has stayed consistent through purely organic traffic. Around 2000 users have signed up so far, and the conversion rate has been surprisingly strong for a lifetime-priced product.&lt;/p&gt; &lt;p&gt;The challe",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tf4m8g/built_a_saas_solo_reached_2000_organic_users/",
+      "permalink": "/r/SaaS/comments/1tf4m8g/built_a_saas_solo_reached_2000_organic_users/",
+      "createdAt": 1778963228000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778964141042
+    },
+    {
+      "id": "1tf3xr2",
+      "title": "Built a CV/ATS analyzer as a side project, 1,200 organic views on Reddit in 24h, 0 paid ads",
+      "body": "&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/SaaS/comments/1tf3xr2/built_a_cvats_analyzer_as_a_side_project_1200/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/m6h21f822k1h1.png?width=140&amp;amp;height=61&amp;amp;auto=webp&amp;amp;s=86c8f07d0a11e62d59c2a711514059af0743ddb7&quot; alt=&quot;Built a CV/ATS analyzer as a side project, 1,200 organic views on Reddit in 24h, 0 paid ads&quot; title=&quot;Built a CV/ATS analyzer as a side project, 1,200 organic view",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tf3xr2/built_a_cvats_analyzer_as_a_side_project_1200/",
+      "permalink": "/r/SaaS/comments/1tf3xr2/built_a_cvats_analyzer_as_a_side_project_1200/",
+      "createdAt": 1778961625000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778964141042
+    },
+    {
+      "id": "1tezpzx",
+      "title": "I studied how YC picks ideas. Here's what I wish I knew before I wasted 2 years building the wrong things.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;So I went deep into YC&amp;#39;s published frameworks, partners&amp;#39; essays, batch founder interviews, all of it. And honestly it changed how I think about idea validation as a solo builder. &lt;/p&gt; &lt;p&gt;The important things is when you&amp;#39;re a solopreneur: you don&amp;#39;t have a team to compensate for a bad idea. So picking the right problem is literally everything. &lt;/p&gt; &lt;p&gt;YC basically says good ideas c",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1tezpzx/i_studied_how_yc_picks_ideas_heres_what_i_wish_i/",
+      "permalink": "/r/Solopreneur/comments/1tezpzx/i_studied_how_yc_picks_ideas_heres_what_i_wish_i/",
+      "createdAt": 1778951913000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solopreneur",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778964199301
+    },
+    {
+      "id": "1tf28pw",
+      "title": "Side project: Readly — Gmail newsletters in a calmer UI (looking for feedback)",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Readly — newsletters pulled from Gmail into a quieter reading experience.&lt;/p&gt; &lt;p&gt;Right now it’s a landing + waitlist to test demand and price bands. Would love:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;roast the positioning&lt;/li&gt; &lt;li&gt;is the problem clear?&lt;/li&gt; &lt;li&gt;would you ever pay, or is this a “free only” product?&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;a href=&quot;https://thereadly.vercel.app/login&quot;&gt;h",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tf28pw/side_project_readly_gmail_newsletters_in_a_calmer/",
+      "permalink": "/r/SideProject/comments/1tf28pw/side_project_readly_gmail_newsletters_in_a_calmer/",
+      "createdAt": 1778957618000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778964218378
+    },
+    {
+      "id": "1tf1mk6",
+      "title": "A friend and I have been building Pixerr for two years, trying to get feedback and get out of the builder loop.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;A friend and I have been working on a side project called Pixerr for about two years.&lt;/p&gt; &lt;p&gt;It started as us playing around with an idea. Then the ah ha moment what if creators could take an image and QUICKLY turn it into products, digital downloads, and a small online shop? Quickly being the point. &lt;/p&gt; &lt;p&gt;Over time, it turned into a real platform.&lt;/p&gt; &lt;p&gt;The basic idea is:&lt;/p&gt; &lt;p&gt;• Up",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tf1mk6/a_friend_and_i_have_been_building_pixerr_for_two/",
+      "permalink": "/r/SideProject/comments/1tf1mk6/a_friend_and_i_have_been_building_pixerr_for_two/",
+      "createdAt": 1778956217000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778964218379
+    },
+    {
+      "id": "1tf11nw",
+      "title": "Anyone else addicted to building side projects instead of relaxing after work? 😭",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I told myself I’d “just build a small tool for fun.”&lt;/p&gt; &lt;p&gt;Now somehow I’m:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;fixing bugs at 2 AM&lt;/li&gt; &lt;li&gt;redesigning buttons nobody complained about&lt;/li&gt; &lt;li&gt;checking analytics every 10 minutes&lt;/li&gt; &lt;li&gt;and getting weirdly excited when one random person uses it&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;The funniest part is that building the actual product was easier",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tf11nw/anyone_else_addicted_to_building_side_projects/",
+      "permalink": "/r/SideProject/comments/1tf11nw/anyone_else_addicted_to_building_side_projects/",
+      "createdAt": 1778954888000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778964218379
+    },
+    {
+      "id": "1tf0ogn",
+      "title": "Anyone else constantly redesigning instead of finishing?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I swear every time I’m close to finishing a side project I suddenly decide the UI, backend, workflow, naming, and entire concept all need to change 😭&lt;/p&gt; &lt;p&gt;Trying to break that habit and focus more on shipping imperfect versions lately.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Unlikely_Rich1436&quot;&gt; /u/Unlikely_Rich1436 &lt;/a&gt; &lt;br",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tf0ogn/anyone_else_constantly_redesigning_instead_of/",
+      "permalink": "/r/SideProject/comments/1tf0ogn/anyone_else_constantly_redesigning_instead_of/",
+      "createdAt": 1778954078000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778964218379
+    },
+    {
+      "id": "1tf3ahn",
+      "title": "[BUILD IN PUBLIC] Day 8 of consistently building my startup after work.",
+      "body": "&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/SaaS/comments/1tf3ahn/build_in_public_day_8_of_consistently_building_my/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/0drtgfokxj1h1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b479bfe362bdef1497ff4ce80cca1a20fc5a0765&quot; alt=&quot;[BUILD IN PUBLIC] Day 8 of consistently building my startup after work.&quot; title=&quot;[BUILD IN PUBLIC] Day 8 of consistently building my startup after work.&quot",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tf3ahn/build_in_public_day_8_of_consistently_building_my/",
+      "permalink": "/r/SaaS/comments/1tf3ahn/build_in_public_day_8_of_consistently_building_my/",
+      "createdAt": 1778960067000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 1,
+      "matched": [
+        {
+          "keyword": "build in public",
+          "category": "intent"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778964141042
+    },
+    {
+      "id": "1tf2iwi",
+      "title": "If you build in public, be prepared to get Hate!",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;You work on something for 6 months. Iteration after iteration. Weekends, late nights, every spare hour after the kid goes to sleep.&lt;/p&gt; &lt;p&gt;Then some random guy with no profile pic and 0 followers shows up in the comments to tell you your app is &amp;quot;AI slop&amp;quot; or &amp;quot;another shit habit tracker.&amp;quot; Hasn&amp;#39;t opened it. Doesn&amp;#39;t care. Just typing...&lt;/p&gt; &lt;p&gt;That&amp;#39;s the p",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tf2iwi/if_you_build_in_public_be_prepared_to_get_hate/",
+      "permalink": "/r/SaaS/comments/1tf2iwi/if_you_build_in_public_be_prepared_to_get_hate/",
+      "createdAt": 1778958259000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 1,
+      "matched": [
+        {
+          "keyword": "build in public",
+          "category": "intent"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778964141042
+    },
     {
       "id": "1tey6wf",
       "title": "I’m 21 and Going All In on AI While Building in Public",
