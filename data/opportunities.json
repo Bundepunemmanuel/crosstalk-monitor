@@ -1,7 +1,205 @@
 {
-  "lastUpdated": "2026-05-16T09:30:23.784Z",
-  "totalFound": 3,
+  "lastUpdated": "2026-05-16T13:18:42.737Z",
+  "totalFound": 9,
   "opportunities": [
+    {
+      "id": "1tet1zo",
+      "title": "Stop using keyword alerts to find leads on Reddit (it's a time sink)",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Most solo founders waste a lot of time setting up keyword trackers for their niche. The problem is that keywords like marketing tool or lead gen usually just surface spam, blog posts, or other founders pitching their own stuff. If you want to find people who are actually ready to buy, you have to look for semantic intent rather than just specific words. &lt;/p&gt; &lt;p&gt;I spent months manually scrolling through subreddits trying to",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1tet1zo/stop_using_keyword_alerts_to_find_leads_on_reddit/",
+      "permalink": "/r/Solopreneur/comments/1tet1zo/stop_using_keyword_alerts_to_find_leads_on_reddit/",
+      "createdAt": 1778936424000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778937438461
+    },
+    {
+      "id": "1teplyn",
+      "title": "I am currently looking for writers to contribute Substack guest posts to two of my new series. One is called “They Move the Needle,” and the other is “They Learned a Lesson.”",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Pipe-Silly&quot;&gt; /u/Pipe-Silly &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;/r/SaaS/comments/1taifue/i_am_currently_looking_for_writers_to_contribute/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Solopreneur/comments/1teplyn/i_am_currently_looking_for_writers_to_contribute/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1teplyn/i_am_currently_looking_for_writers_to_contribute/",
+      "permalink": "/r/Solopreneur/comments/1teplyn/i_am_currently_looking_for_writers_to_contribute/",
+      "createdAt": 1778926417000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solopreneur",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778937438462
+    },
+    {
+      "id": "1tessew",
+      "title": "Creating a community to then sell these products",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi, I’ve realised that the vast majority of people who create SaaS platforms or side projects struggle to promote their projects and end up stuck with just a few users, unable to grow their user base. (It’s happened to me too...)&lt;/p&gt; &lt;p&gt;And I realised that people who’ve built amazing communities, like Marclou for example, could easily sell their products to people in their community, so I’ve decided that my new priority is",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tessew/creating_a_community_to_then_sell_these_products/",
+      "permalink": "/r/SideProject/comments/1tessew/creating_a_community_to_then_sell_these_products/",
+      "createdAt": 1778935726000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778937458116
+    },
+    {
+      "id": "1tesm1e",
+      "title": "Built a streaming discovery app as a side project — 6 months in, here's where I'm at",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Built a side project called cinemap.app — it shows where movies and TV shows are streaming across different countries. Been working on it for about 6 months now. Got to about 1k visitors a month which feels slow but it&amp;#39;s growing. Just shipped auth and watchlist last week, only got 5 signups in 10 days which is a bit deflating honestly. Not sure if I should keep grinding SEO or try something else. Anyone been through this stage",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tesm1e/built_a_streaming_discovery_app_as_a_side_project/",
+      "permalink": "/r/SideProject/comments/1tesm1e/built_a_streaming_discovery_app_as_a_side_project/",
+      "createdAt": 1778935254000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778937458116
+    },
+    {
+      "id": "1terary",
+      "title": "Made a tool for fixing one line in audio/video instead of re-recording the whole thing",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’ve been working on CastWeave, a side project for spoken audio/video editing.&lt;/p&gt; &lt;p&gt;The use case is simple: when one line in a podcast, interview, course video, dubbing clip, or voiceover needs to change, re-recording and syncing everything again feels too much.&lt;/p&gt; &lt;p&gt;With CastWeave, you upload the file, get speaker-wise transcript lines, edit the text, assign voices, and regenerate only the changed lines.&l",
+      "url": "https://www.reddit.com/r/SideProject/comments/1terary/made_a_tool_for_fixing_one_line_in_audiovideo/",
+      "permalink": "/r/SideProject/comments/1terary/made_a_tool_for_fixing_one_line_in_audiovideo/",
+      "createdAt": 1778931692000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778937458117
+    },
+    {
+      "id": "1ter0vq",
+      "title": "I built PermisAPI a REST API on French government building permits (1.2M records, 14 months in, 1 paying customer at 199 EUR/mo)",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Solo founder. PermisAPI is a REST API on top of French government open data: building permits (Sitadel, 1.2M records 2013-2026, refreshed daily), real estate transactions (DVF, 4.9M links over 12 years), cadastral parcels (94M), zoning rules, flood and seismic risks.&lt;/p&gt; &lt;p&gt;The why. French property dealers (marchands de biens) spend three to four hours per file scraping town hall websites for permits issued on neighboring ",
+      "url": "https://www.reddit.com/r/SideProject/comments/1ter0vq/i_built_permisapi_a_rest_api_on_french_government/",
+      "permalink": "/r/SideProject/comments/1ter0vq/i_built_permisapi_a_rest_api_on_french_government/",
+      "createdAt": 1778930885000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778937458117
+    },
+    {
+      "id": "1teqwoy",
+      "title": "I tracked my actual building time vs AI research time for a week. The numbers are embarrassing",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;m working on a side project and I had a feeling I was spending more time talking to AI about building than actually building. So last week I tracked it.&lt;/p&gt; &lt;p&gt;Monday: 4 hours at the computer. Actual code written: 45 minutes. Time spent in ChatGPT/Claude asking questions, comparing options, researching approaches: 2 hours 40 minutes. Rest was normal stuff - email, Slack, etc.&lt;/p&gt; &lt;p&gt;Tuesday: 3.5 hours",
+      "url": "https://www.reddit.com/r/SideProject/comments/1teqwoy/i_tracked_my_actual_building_time_vs_ai_research/",
+      "permalink": "/r/SideProject/comments/1teqwoy/i_tracked_my_actual_building_time_vs_ai_research/",
+      "createdAt": 1778930538000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778937458117
+    },
+    {
+      "id": "1teqh42",
+      "title": "Where do you find ideas and inspiration for your personal Android side projects?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi everyone,&lt;/p&gt; &lt;p&gt;I work as a project manager by day, but in my free time, I&amp;#39;m an indie Android developer. I’ve built a few apps already—mostly things that solve my own everyday problems, like a local-first recipe app and a daily motivation tool.&lt;/p&gt; &lt;p&gt;However, I’m currently looking to start a new project and I feel like I&amp;#39;ve hit a bit of a creative wall.&lt;/p&gt; &lt;p&gt;I&amp;#39;m curiou",
+      "url": "https://www.reddit.com/r/SideProject/comments/1teqh42/where_do_you_find_ideas_and_inspiration_for_your/",
+      "permalink": "/r/SideProject/comments/1teqh42/where_do_you_find_ideas_and_inspiration_for_your/",
+      "createdAt": 1778929236000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778937458117
+    },
+    {
+      "id": "1tep2pc",
+      "title": "how are you handling email marketing for your side project, building something custom or using a tool?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;curious what people are actually doing. seems like every tool out there is either too expensive for early stage or built for big companies with massive lists&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Disastrous_Sound_382&quot;&gt; /u/Disastrous_Sound_382 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/SideProject/comments/1tep2p",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tep2pc/how_are_you_handling_email_marketing_for_your/",
+      "permalink": "/r/SideProject/comments/1tep2pc/how_are_you_handling_email_marketing_for_your/",
+      "createdAt": 1778924645000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778937458118
+    },
     {
       "id": "1teo8oa",
       "title": "marketing my side project is actually killing me",
