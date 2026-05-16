@@ -1,7 +1,161 @@
 {
-  "lastUpdated": "2026-05-15T21:00:46.133Z",
-  "totalFound": 8,
+  "lastUpdated": "2026-05-16T02:42:24.429Z",
+  "totalFound": 7,
   "opportunities": [
+    {
+      "id": "1teb6v0",
+      "title": "Hiring opportunity for people already recommending tools to podcasters and content creators",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;An opportunity for (audio tool for creators, course creators, podcasters.)&lt;/p&gt; &lt;p&gt;Looking for people who already work with podcasters, YouTubers, or creators struggling with bad audio (muffled, noisy, uneven levels).&lt;/p&gt; &lt;p&gt;We built a tool that instantly improves recording quality without complicated editing.&lt;/p&gt; &lt;p&gt;If you regularly give feedback or recommend tools to creators, you can earn 25–30% r",
+      "url": "https://www.reddit.com/r/SaaS/comments/1teb6v0/hiring_opportunity_for_people_already/",
+      "permalink": "/r/SaaS/comments/1teb6v0/hiring_opportunity_for_people_already/",
+      "createdAt": 1778883834000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "content creator",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778899201904
+    },
+    {
+      "id": "1tegeiq",
+      "title": "I built SendReport — AI generates monthly client reports for marketing agencies (college freshman side project)",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Marketing agencies waste 4+ hours per client every month making reports in Excel + Google Slides. I built SendReport — pull the platform data once, AI writes the executive summary + recommendations + insights, branded PDF goes to the client. Built solo while doing freshman year. Stack: Next.js + Supabase + GPT-4o + Stripe. Just shipped the concierge MVP — looking for honest first impressions from other builders. What feels off about t",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tegeiq/i_built_sendreport_ai_generates_monthly_client/",
+      "permalink": "/r/SideProject/comments/1tegeiq/i_built_sendreport_ai_generates_monthly_client/",
+      "createdAt": 1778897541000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778899281011
+    },
+    {
+      "id": "1teg5xz",
+      "title": "I made a challenge site where the top player is holding 93 stealable crowns",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I built Dashy as a side project around a simple idea: every tiny challenge has exactly one crown. &lt;/p&gt; &lt;p&gt;Everyone plays the same fixed setup. Beat the current top score, take the crown. Someone else can take it from you later. &lt;/p&gt; &lt;p&gt;This page shows the current top crown holder across the site. They&amp;#39;re holding 93 crowns right now, but every one can be stolen. &lt;/p&gt; &lt;p&gt;I&amp;#39;m curious if",
+      "url": "https://www.reddit.com/r/SideProject/comments/1teg5xz/i_made_a_challenge_site_where_the_top_player_is/",
+      "permalink": "/r/SideProject/comments/1teg5xz/i_made_a_challenge_site_where_the_top_player_is/",
+      "createdAt": 1778896874000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778899281011
+    },
+    {
+      "id": "1teff9c",
+      "title": "102 installs, 46 active users, 0 revenue in 2-3 weeks — building a Chrome extension as a non-developer",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;m a solo founder from Charlotte, NC. Not a developer — built this entirely with Cursor + Claude over the past month.&lt;/p&gt; &lt;h2&gt;What it does&lt;/h2&gt; &lt;p&gt;TresPrompt is a Chrome extension that works on ChatGPT, Claude, and Gemini. Two main things:&lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;p&gt;&lt;strong&gt;Search across all your AI conversations&lt;/strong&gt; — not just titles, actual message content. Color-coded b",
+      "url": "https://www.reddit.com/r/SideProject/comments/1teff9c/102_installs_46_active_users_0_revenue_in_23/",
+      "permalink": "/r/SideProject/comments/1teff9c/102_installs_46_active_users_0_revenue_in_23/",
+      "createdAt": 1778894826000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778899281011
+    },
+    {
+      "id": "1tedzvg",
+      "title": "I built an on-device AI that uses HRV data to find your &quot;Biological Flow State&quot;",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;As a solopreneur, I was tired of guessing when to do my hardest work. I wanted to know when my body was &lt;em&gt;actually&lt;/em&gt; ready for deep focus.&lt;/p&gt; &lt;p&gt;So I built &lt;strong&gt;Pattern&lt;/strong&gt;. It’s a privacy-first productivity assistant that:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Analyzes HRV:&lt;/strong&gt; Maps your heart rate variability to your work sessions to identify your physiological &amp",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tedzvg/i_built_an_ondevice_ai_that_uses_hrv_data_to_find/",
+      "permalink": "/r/SideProject/comments/1tedzvg/i_built_an_ondevice_ai_that_uses_hrv_data_to_find/",
+      "createdAt": 1778890901000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solopreneur",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778899281011
+    },
+    {
+      "id": "1tebw6l",
+      "title": "Built an AI party game after seeing friends' kids get obsessed with AI memes - noticing a pattern around kids + game development",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;ve been working on this side project... an AI party game where you answer silly questions and it generates memes with your photo. Started as a fun vibe coding experiment, but I&amp;#39;m noticing something interesting with my friends&amp;#39; kids.&lt;/p&gt; &lt;p&gt;Three different families, same pattern:&lt;/p&gt; &lt;p&gt;- Friend #1&amp;#39;s kid played game once → now asking &amp;quot;can you teach me how to make games?",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tebw6l/built_an_ai_party_game_after_seeing_friends_kids/",
+      "permalink": "/r/SideProject/comments/1tebw6l/built_an_ai_party_game_after_seeing_friends_kids/",
+      "createdAt": 1778885560000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778899281012
+    },
+    {
+      "id": "1teaz3m",
+      "title": "i made infinite 3 day &quot;sprint&amp;ship&quot; hackathons for side projects",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;i wanted to make coding side projects, but i&lt;/p&gt; &lt;ol&gt; &lt;li&gt;couldn&amp;#39;t find hackathons&lt;/li&gt; &lt;li&gt;rarely had unique or interesting ideas&lt;/li&gt; &lt;li&gt;often quit on the projects that i did start&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;so, i made hackqueue, a platform that generates unique side project centered hackathon ideas, with a hackathon running at all times and rotating every 3 days.&lt;/p&gt; &lt",
+      "url": "https://www.reddit.com/r/SideProject/comments/1teaz3m/i_made_infinite_3_day_sprintship_hackathons_for/",
+      "permalink": "/r/SideProject/comments/1teaz3m/i_made_infinite_3_day_sprintship_hackathons_for/",
+      "createdAt": 1778883322000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778899281013
+    },
     {
       "id": "1te7631",
       "title": "Forgotten Side Project Got 700 Users",
