@@ -1,7 +1,95 @@
 {
-  "lastUpdated": "2026-05-16T02:42:24.429Z",
-  "totalFound": 7,
+  "lastUpdated": "2026-05-16T06:22:06.153Z",
+  "totalFound": 4,
   "opportunities": [
+    {
+      "id": "1tekv3y",
+      "title": "Built a futuristic neon-styled React UI library and recently open sourced it",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey everyone,&lt;/p&gt; &lt;p&gt;I’ve been working on a side project called NeonBlade UI - a React/Next.js component library focused on futuristic and neon-style interfaces.&lt;/p&gt; &lt;p&gt;Frontend/UI design is something I genuinely enjoy working on, so building this has been a really fun project for me.&lt;/p&gt; &lt;p&gt;It follows a CLI-based approach so components can be added and customized directly inside projects.&lt;/p&gt;",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tekv3y/built_a_futuristic_neonstyled_react_ui_library/",
+      "permalink": "/r/SideProject/comments/1tekv3y/built_a_futuristic_neonstyled_react_ui_library/",
+      "createdAt": 1778910697000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778912462332
+    },
+    {
+      "id": "1tekb51",
+      "title": "Drop your side project and I will find the angle for sales.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Most side projects do not fail because of code. They fail because nobody knows who they are for. Drop your project and one sentence on what it does.&lt;/p&gt; &lt;p&gt;I will tell you:&lt;/p&gt; &lt;ul&gt; &lt;li&gt; where I would look for users&lt;/li&gt; &lt;li&gt; what kind of Reddit posts show demand&lt;/li&gt; &lt;li&gt; what positioning angle sounds strongest&lt;/li&gt; &lt;li&gt; what feels too vague right now&lt;/li&gt; &lt;/u",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tekb51/drop_your_side_project_and_i_will_find_the_angle/",
+      "permalink": "/r/SideProject/comments/1tekb51/drop_your_side_project_and_i_will_find_the_angle/",
+      "createdAt": 1778908934000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778912462332
+    },
+    {
+      "id": "1tejo0v",
+      "title": "[Side Project] Limit Breaker - A Gamified Habit Tracker with Sub-tasks and Dynamic Theming (Built with Expo)",
+      "body": "&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/SideProject/comments/1tejo0v/side_project_limit_breaker_a_gamified_habit/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/NzNwem8yeXBqZjFoMU6oRgct4DpDiUksIyAr1UNPhUBdzE5UGgXMjstXJ6MG.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=136dc9ebb8370f91c8bc66c65d1afbf6dec58ecf&quot; alt=&quot;[Side Project] Limit Breaker - A Gamified Habit Tracker with Sub-tasks and Dynamic Theming (Built with Expo)&",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tejo0v/side_project_limit_breaker_a_gamified_habit/",
+      "permalink": "/r/SideProject/comments/1tejo0v/side_project_limit_breaker_a_gamified_habit/",
+      "createdAt": 1778906978000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778912462333
+    },
+    {
+      "id": "1tej0z3",
+      "title": "Relaunched my side project: 40+ free online tools!",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey &lt;a href=&quot;/r/sideproject&quot;&gt;r/sideproject&lt;/a&gt;! I relaunched Nepsamaya - a free toolkit with 40+ calculators &amp;amp; converters plus 30+ blogs. No login required. Would love your feedback and support! &lt;a href=&quot;http://nepsamaya.com&quot;&gt;nepsamaya.com&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Specialist_Strain910&",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tej0z3/relaunched_my_side_project_40_free_online_tools/",
+      "permalink": "/r/SideProject/comments/1tej0z3/relaunched_my_side_project_40_free_online_tools/",
+      "createdAt": 1778905020000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778912462333
+    },
     {
       "id": "1teb6v0",
       "title": "Hiring opportunity for people already recommending tools to podcasters and content creators",
