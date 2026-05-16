@@ -1,7 +1,227 @@
 {
-  "lastUpdated": "2026-05-16T13:18:42.737Z",
-  "totalFound": 9,
+  "lastUpdated": "2026-05-16T16:58:39.977Z",
+  "totalFound": 10,
   "opportunities": [
+    {
+      "id": "1tey6wf",
+      "title": "I’m 21 and Going All In on AI While Building in Public",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’m 21 and I’ve decided to go all in on AI instead of just consuming content about it every day. I’m learning AI workflows, experimenting with automation, studying AI SaaS models, and documenting the entire process publicly on my Instagram. I still don’t fully know what my “big thing” is yet, but I know this industry is moving too fast to sit on the sidelines waiting to feel ready.&lt;/p&gt; &lt;p&gt;Most people wait until they become",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tey6wf/im_21_and_going_all_in_on_ai_while_building_in/",
+      "permalink": "/r/SaaS/comments/1tey6wf/im_21_and_going_all_in_on_ai_while_building_in/",
+      "createdAt": 1778948492000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "building in public",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778950579825
+    },
+    {
+      "id": "1tevpd9",
+      "title": "Going prepaid instead of subscription on a side project. Naive in 2026?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Builder here, codehamr is my side project, separate from my main business on purpose.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What I am building:&lt;/strong&gt; Prepaid first, no login, no monthly clock. Pay once, burn when you feel like it. Honestly I am not sure if this is a real micro niche or just me being wrong about the market. Could go either way.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;The why:&lt;/strong&gt; I am tired of subscription cloc",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tevpd9/going_prepaid_instead_of_subscription_on_a_side/",
+      "permalink": "/r/SaaS/comments/1tevpd9/going_prepaid_instead_of_subscription_on_a_side/",
+      "createdAt": 1778942814000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778950579825
+    },
+    {
+      "id": "1teuavy",
+      "title": "A founder roasted my DM and honestly he was right",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I had a funny founder realization today.&lt;/p&gt; &lt;p&gt;Lately I’ve been spending a lot of time reading shutdown stories, abandoned projects, founder postmortems etc.&lt;/p&gt; &lt;p&gt;And I think I got so deep into “founder psychology mode” that I accidentally forgot how normal conversations work 😭&lt;/p&gt; &lt;p&gt;I DM’d a founder after a discussion about abandoned side projects and started talking about things like:&lt;/p&g",
+      "url": "https://www.reddit.com/r/SaaS/comments/1teuavy/a_founder_roasted_my_dm_and_honestly_he_was_right/",
+      "permalink": "/r/SaaS/comments/1teuavy/a_founder_roasted_my_dm_and_honestly_he_was_right/",
+      "createdAt": 1778939545000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778950579825
+    },
+    {
+      "id": "1teu6s4",
+      "title": "solo founder, $11k mrr, paying $200/mo for analytics and i think i'm losing it. what does your stack actually look like?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;ok this is half rant half question. apologies in advance.&lt;/p&gt; &lt;p&gt;i run a tiny b2b saas (devtools-ish), bootstrapped, hit ~11k mrr last month after like 14 months of grinding. solo. and i just sat down and looked at our analytics spend and i don&amp;#39;t understand my own life.&lt;/p&gt; &lt;p&gt;mixpanel is $149. we send 8 events. i use ONE funnel and ONE retention chart. that&amp;#39;s all i open.&lt;/p&gt; &lt;p&gt;plau",
+      "url": "https://www.reddit.com/r/SaaS/comments/1teu6s4/solo_founder_11k_mrr_paying_200mo_for_analytics/",
+      "permalink": "/r/SaaS/comments/1teu6s4/solo_founder_11k_mrr_paying_200mo_for_analytics/",
+      "createdAt": 1778939263000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778950579825
+    },
+    {
+      "id": "1teyifq",
+      "title": "I made ~€3k this month from my LinkedIn audience. Here's what I'm actually doing.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;This feels a bit weird to share publicly but it might help someone in a similar position so here goes.&lt;/p&gt; &lt;p&gt;Background: I have about 18k LinkedIn followers. I post about sales tools and outreach tactics. Built it over 2 years, mostly just sharing what I was learning at my job. Never really had a monetization plan.&lt;/p&gt; &lt;p&gt;Tried the obvious stuff. Like selling side projects on Gumroad, made €800 total, not wort",
+      "url": "https://www.reddit.com/r/SideProject/comments/1teyifq/i_made_3k_this_month_from_my_linkedin_audience/",
+      "permalink": "/r/SideProject/comments/1teyifq/i_made_3k_this_month_from_my_linkedin_audience/",
+      "createdAt": 1778949231000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778950657079
+    },
+    {
+      "id": "1tex67l",
+      "title": "Built an AI tool that tracks your SaaS MRR &amp; cash flow automatically — free to try",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey! Just launched my side project 🚀&lt;/p&gt; &lt;p&gt;AI Finance Ops — an AI-powered financial dashboard for SaaS founders.&lt;/p&gt; &lt;p&gt;What it does:&lt;/p&gt; &lt;p&gt;• Connects to Stripe &amp;amp; billing tools&lt;/p&gt; &lt;p&gt;• Tracks MRR, churn &amp;amp; LTV automatically &lt;/p&gt; &lt;p&gt;• 90-day cash flow forecast&lt;/p&gt; &lt;p&gt;• Real-time runway visibility&lt;/p&gt; &lt;p&gt;Built solo. Free tier available",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tex67l/built_an_ai_tool_that_tracks_your_saas_mrr_cash/",
+      "permalink": "/r/SideProject/comments/1tex67l/built_an_ai_tool_that_tracks_your_saas_mrr_cash/",
+      "createdAt": 1778946182000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778950657079
+    },
+    {
+      "id": "1tewyrs",
+      "title": "I built a service that cuts down iterations significantly and save a lot of credits for AI UGC content creators",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I would create some viral trend, write a new prompt from scratch, and generate. It was all fake either way. Inappropriate lighting. Hands moving differently. Then I would make changes to the prompt, pay another $3, use another model and rewrite everything again.&lt;/p&gt; &lt;p&gt;The actual problem was that I didn’t provide enough details to the model. Lighting direction, hand position, how the talent should move. Otherwise, it just ",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tewyrs/i_built_a_service_that_cuts_down_iterations/",
+      "permalink": "/r/SideProject/comments/1tewyrs/i_built_a_service_that_cuts_down_iterations/",
+      "createdAt": 1778945707000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "content creator",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778950657080
+    },
+    {
+      "id": "1tewy8c",
+      "title": "Built a 100% offline-first EdTech app in Flutter (Clean Architecture + AES-256). Would love some UI/UX feedback!",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey everyone,&lt;/p&gt; &lt;p&gt;I recently published my new Flutter side project: an offline-first exam prep app for the UK Citizenship test (Life in the UK).&lt;/p&gt; &lt;p&gt;I noticed all the apps in this niche were either ancient, required a constant internet connection, or put basic features (like text-to-speech) behind a heavy paywall. So I decided to build a better alternative.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;The Tech Stack:",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tewy8c/built_a_100_offlinefirst_edtech_app_in_flutter/",
+      "permalink": "/r/SideProject/comments/1tewy8c/built_a_100_offlinefirst_edtech_app_in_flutter/",
+      "createdAt": 1778945672000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778950657080
+    },
+    {
+      "id": "1tevc0p",
+      "title": "Just launched RallyText — SMS broadcasting for nonprofits and community orgs",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://RallyText.app&quot;&gt;https://RallyText.app&lt;/a&gt;&lt;/p&gt; &lt;p&gt;The problem: coaches, league admins, and volunteer organizers are still copy-pasting phone numbers into group texts to reach their people. Enterprise SMS tools exist but are overkill and overpriced for a 40-person youth sports team.&lt;/p&gt; &lt;p&gt;So I built RallyText as a side project — simple SMS broadcasting designed for exactly t",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tevc0p/just_launched_rallytext_sms_broadcasting_for/",
+      "permalink": "/r/SideProject/comments/1tevc0p/just_launched_rallytext_sms_broadcasting_for/",
+      "createdAt": 1778941961000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778950657080
+    },
+    {
+      "id": "1teu85w",
+      "title": "Can a Solo Student Builder Realistically Launch a Revenue-Generating SaaS in 30 Days?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Can a college student realistically build a micro-SaaS/SaaS in 30–60 days that starts generating actual recurring revenue?&lt;/p&gt; &lt;p&gt;Not talking about fake “build in public” Twitter hype or random AI wrappers with 0 users.&lt;/p&gt; &lt;p&gt;I mean:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;a real internet-native software business,&lt;/li&gt; &lt;li&gt;software-only,&lt;/li&gt; &lt;li&gt;lean enough for a solo builder,&lt;/li&gt; &lt;li",
+      "url": "https://www.reddit.com/r/SaaS/comments/1teu85w/can_a_solo_student_builder_realistically_launch_a/",
+      "permalink": "/r/SaaS/comments/1teu85w/can_a_solo_student_builder_realistically_launch_a/",
+      "createdAt": 1778939360000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 1,
+      "matched": [
+        {
+          "keyword": "build in public",
+          "category": "intent"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778950579825
+    },
     {
       "id": "1tet1zo",
       "title": "Stop using keyword alerts to find leads on Reddit (it's a time sink)",
