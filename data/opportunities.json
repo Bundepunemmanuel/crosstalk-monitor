@@ -1,7 +1,117 @@
 {
-  "lastUpdated": "2026-05-17T06:45:22.024Z",
-  "totalFound": 3,
+  "lastUpdated": "2026-05-17T09:47:11.168Z",
+  "totalFound": 5,
   "opportunities": [
+    {
+      "id": "1tfkwmi",
+      "title": "Would anyone here join a founder platform focused on building in public and real startup discussions?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’ve been thinking about something and wanted to get honest feedback from other founders here.&lt;/p&gt; &lt;p&gt;Most platforms I’ve tried around startups feel very “launch focused” you post once, get a bit of attention, then everything goes quiet again, no followups, no discussions, no momentum &lt;/p&gt; &lt;p&gt;I’ve been working on an idea for a platform that’s more about building in public and ongoing conversations instead of on",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tfkwmi/would_anyone_here_join_a_founder_platform_focused/",
+      "permalink": "/r/SaaS/comments/1tfkwmi/would_anyone_here_join_a_founder_platform_focused/",
+      "createdAt": 1779010980000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "building in public",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779011090093
+    },
+    {
+      "id": "1tfk49f",
+      "title": "Help validating a SaaS idea. Looking for pointers",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;For founders who have built successful B2B SaaS startups generating revenue, how did you approach the initial idea validation?&lt;/p&gt; &lt;p&gt;I am working on a SaaS startup which will be B2B. This is going to be in the infrastructure tech space for Agentic coding.&lt;/p&gt; &lt;p&gt;I am a solo founder (and not much background in terms of building business) and struggling to understand how should I gain the initial idea validation",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tfk49f/help_validating_a_saas_idea_looking_for_pointers/",
+      "permalink": "/r/SaaS/comments/1tfk49f/help_validating_a_saas_idea_looking_for_pointers/",
+      "createdAt": 1779008272000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779011090094
+    },
+    {
+      "id": "1tfjkyp",
+      "title": "I used to think building the product would be the hardest part of a side project",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Now I honestly think trying to grow it consistently is harder.&lt;/p&gt; &lt;p&gt;When we first started, most of our energy went into building and improving the product. That part actually felt exciting because every week felt like visible progress.&lt;/p&gt; &lt;p&gt;What slowly became exhausting was everything that comes after launch.&lt;/p&gt; &lt;p&gt;Trying to stay active online, publish content regularly, work on SEO, explain th",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tfjkyp/i_used_to_think_building_the_product_would_be_the/",
+      "permalink": "/r/SideProject/comments/1tfjkyp/i_used_to_think_building_the_product_would_be_the/",
+      "createdAt": 1779006412000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779011167990
+    },
+    {
+      "id": "1tfjko4",
+      "title": "If you're a solo founder or freelancer, I’ll find potential clients on Reddit who need your solution for free! Just share your service or website below. 🚀",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey everyone 👋&lt;/p&gt; &lt;p&gt;If you&amp;#39;re a solo founder, freelancer, agency owner, or SaaS builder, I want to help you find potential clients already asking for solutions on Reddit for free.&lt;/p&gt; &lt;p&gt;I’ve been building a system that scans Reddit for high-intent conversations where people are actively asking for help, recommendations, or tools/services.&lt;/p&gt; &lt;p&gt;For example:&lt;/p&gt; &lt;ul&gt; &lt;li&g",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tfjko4/if_youre_a_solo_founder_or_freelancer_ill_find/",
+      "permalink": "/r/SideProject/comments/1tfjko4/if_youre_a_solo_founder_or_freelancer_ill_find/",
+      "createdAt": 1779006385000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779011167990
+    },
+    {
+      "id": "1tfil0w",
+      "title": "Would any indie devs be interested in a small launch-support network?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’ve realised that building the product is only half the battle.&lt;/p&gt; &lt;p&gt;The harder part is getting early feedback, finding the right users, and launching without feeling like you’re just shouting into the void.&lt;/p&gt; &lt;p&gt;I’m wondering if other indie makers/devs would be interested in forming a small support network where we help each other with things like:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;giving honest feedback bef",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tfil0w/would_any_indie_devs_be_interested_in_a_small/",
+      "permalink": "/r/SideProject/comments/1tfil0w/would_any_indie_devs_be_interested_in_a_small/",
+      "createdAt": 1779003021000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "maker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779011167990
+    },
     {
       "id": "1tfh619",
       "title": "I launched a small platform for founders to explain what they’re building in short videos",
