@@ -1,7 +1,29 @@
 {
-  "lastUpdated": "2026-05-17T16:57:09.571Z",
-  "totalFound": 6,
+  "lastUpdated": "2026-05-17T17:42:05.195Z",
+  "totalFound": 1,
   "opportunities": [
+    {
+      "id": "1tfvj19",
+      "title": "Title: Anyone else get completely paralyzed by the non-code layer of shipping side projects?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I feel like the actual code is almost never the real bottleneck anymore fr. You get a sudden burst of inspiration, hyper-focus, and vibe code the core app logic over a single weekend until it actually works perfectly. Then you hit the absolute wall trying to package it for the public. Suddenly you have to open a blank document to write landing page copy, draft privacy terms, handle meta tags, or figure out how to structure layout grap",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tfvj19/title_anyone_else_get_completely_paralyzed_by_the/",
+      "permalink": "/r/SideProject/comments/1tfvj19/title_anyone_else_get_completely_paralyzed_by_the/",
+      "createdAt": 1779038036000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779039660885
+    },
     {
       "id": "1tfpwyx",
       "title": "What made your product finally feel real?",
