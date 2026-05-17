@@ -1,7 +1,95 @@
 {
-  "lastUpdated": "2026-05-17T18:01:30.374Z",
-  "totalFound": 0,
+  "lastUpdated": "2026-05-17T20:48:38.049Z",
+  "totalFound": 4,
   "opportunities": [
+    {
+      "id": "1tg1a90",
+      "title": "Are there any investors here?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I am looking for an investor for my cryptocurrency mining business.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/PercivalS9&quot;&gt; /u/PercivalS9 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Solopreneur/comments/1tg1a90/are_there_any_investors_here/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1tg1a90/are_there_any_investors_here/",
+      "permalink": "/r/Solopreneur/comments/1tg1a90/are_there_any_investors_here/",
+      "createdAt": 1779050693000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solopreneur",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779050835187
+    },
+    {
+      "id": "1tfytds",
+      "title": "Built a aduld content aggregation project and just finished a big redesign looking for honest feedback",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi everyone,&lt;/p&gt; &lt;p&gt;I hope I’m not breaking any rules by posting this here. If I am, I apologize in advance.&lt;/p&gt; &lt;p&gt;I’ve been working on a side project for quite a while and I recently finished a major redesign of the site.&lt;/p&gt; &lt;p&gt;I’m not posting this to get traffic — I’m genuinely looking for feedback from people who understand design, UX, and product thinking from a fresh perspective.&lt;/p&gt; &l",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tfytds/built_a_aduld_content_aggregation_project_and/",
+      "permalink": "/r/SideProject/comments/1tfytds/built_a_aduld_content_aggregation_project_and/",
+      "createdAt": 1779045207000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779050854465
+    },
+    {
+      "id": "1tfymnv",
+      "title": "Drrop your side project and I’ll tell you where I’d look for users first",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;A lot of side projects do not fail because the product is bad. People just never find the right buyers early enough.&lt;/p&gt; &lt;p&gt;Drop your project and who it helps. I’ll tell you the first Reddit search, subreddit, or type of thread I’d test before spending more time building.&lt;/p&gt; &lt;p&gt;Been using Leadline for this lately because manually searching Reddit for demand gets messy fast.&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tfymnv/drrop_your_side_project_and_ill_tell_you_where_id/",
+      "permalink": "/r/SideProject/comments/1tfymnv/drrop_your_side_project_and_ill_tell_you_where_id/",
+      "createdAt": 1779044791000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779050854465
+    },
+    {
+      "id": "1tfxumb",
+      "title": "Solo side project: a grid-based web app where users can own tiles and build small spaces inside them",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’ve been building a solo side project: a collaborative grid where users can claim a tile and upload their own media, links, or small creations.&lt;/p&gt; &lt;p&gt;Inside tiles people can create their subgrids, so can build little communities or themed spaces inside the world.&lt;/p&gt; &lt;p&gt;Right now I’m mostly trying to get early users and see if it becomes something interesting socially — still very early and rough around the e",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tfxumb/solo_side_project_a_gridbased_web_app_where_users/",
+      "permalink": "/r/SideProject/comments/1tfxumb/solo_side_project_a_gridbased_web_app_where_users/",
+      "createdAt": 1779043111000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779050854465
+    },
     {
       "id": "1tfvj19",
       "title": "Title: Anyone else get completely paralyzed by the non-code layer of shipping side projects?",
