@@ -1,7 +1,73 @@
 {
-  "lastUpdated": "2026-05-17T02:51:28.182Z",
-  "totalFound": 5,
+  "lastUpdated": "2026-05-17T06:45:22.024Z",
+  "totalFound": 3,
   "opportunities": [
+    {
+      "id": "1tfh619",
+      "title": "I launched a small platform for founders to explain what they’re building in short videos",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I finally launched the first version of a side project I’ve been working on.&lt;/p&gt; &lt;p&gt;The idea came from a simple frustration. Startup discovery feels scattered. Some founders post on LinkedIn, some launch on Product Hunt, some share in small communities, but it’s still hard to quickly understand what someone is building and why it matters.&lt;/p&gt; &lt;p&gt;So I built a platform where early-stage founders can introduce the",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tfh619/i_launched_a_small_platform_for_founders_to/",
+      "permalink": "/r/SideProject/comments/1tfh619/i_launched_a_small_platform_for_founders_to/",
+      "createdAt": 1778998427000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779000257300
+    },
+    {
+      "id": "1tfguu4",
+      "title": "AutoCorrect for Car Guys",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Built a small side project called AutoCorrect 🚗&lt;/p&gt; &lt;p&gt;It’s a daily car guessing game where you identify cars from random visual clues:&lt;/p&gt; &lt;p&gt;tail lights&lt;/p&gt; &lt;p&gt;headlights&lt;/p&gt; &lt;p&gt;silhouettes&lt;/p&gt; &lt;p&gt;side profiles&lt;/p&gt; &lt;p&gt;tiny design details&lt;/p&gt; &lt;p&gt;Basically a game for people who can somehow recognize a car from a blurry shape at night 😄&lt;/p&gt; &lt;",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tfguu4/autocorrect_for_car_guys/",
+      "permalink": "/r/SideProject/comments/1tfguu4/autocorrect_for_car_guys/",
+      "createdAt": 1778997422000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779000257300
+    },
+    {
+      "id": "1tfdvj6",
+      "title": "I built a Chrome extension that uses 5 different methods (including Heatmaps &amp; SponsorBlock) to skip ANY sponsor or ad on YouTube.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey everyone! 👋&lt;/p&gt; &lt;p&gt;Like many of you, I was getting frustrated with the increasing amount of in-video sponsors and unskippable ads on YouTube. SponsorBlock is amazing, but I wanted to build something even more aggressive that could catch almost everything automatically.&lt;/p&gt; &lt;p&gt;So, as a side project, I created &lt;strong&gt;Sponsorless&lt;/strong&gt;. It combines 5 simultaneous detection sources to ensure a ",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tfdvj6/i_built_a_chrome_extension_that_uses_5_different/",
+      "permalink": "/r/SideProject/comments/1tfdvj6/i_built_a_chrome_extension_that_uses_5_different/",
+      "createdAt": 1778988240000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779000257300
+    },
     {
       "id": "1tfcvkd",
       "title": "Is there a simple app for quickly creating tasks in GitHub Issues / Linear?",
