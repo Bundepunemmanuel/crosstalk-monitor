@@ -1,7 +1,117 @@
 {
-  "lastUpdated": "2026-05-16T20:44:41.566Z",
-  "totalFound": 9,
+  "lastUpdated": "2026-05-17T02:51:28.182Z",
+  "totalFound": 5,
   "opportunities": [
+    {
+      "id": "1tfcvkd",
+      "title": "Is there a simple app for quickly creating tasks in GitHub Issues / Linear?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’m curious how other people working on side projects handle this.&lt;/p&gt; &lt;p&gt;For my small vibe-coded apps, I usually use GitHub Issues as the place to track todos/bugs/features. The annoying part is that every time I want to add a quick task, I have to go to the right repo, open Issues, create a new issue, etc.&lt;/p&gt; &lt;p&gt;It feels like there should be a much simpler flow:&lt;/p&gt; &lt;blockquote&gt; &lt;/blockquote&g",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tfcvkd/is_there_a_simple_app_for_quickly_creating_tasks/",
+      "permalink": "/r/SideProject/comments/1tfcvkd/is_there_a_simple_app_for_quickly_creating_tasks/",
+      "createdAt": 1778985329000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778986223714
+    },
+    {
+      "id": "1tfcpag",
+      "title": "just launched my project",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;A few months ago I started building a tiny side project for local service businesses after getting frustrated helping a friend set up his landscaping website. I thought the hardest part would be the actual product, but honestly finding a decent domain name was way more annoying than expected.&lt;/p&gt; &lt;p&gt;At first I was checking Sedo and Namecheap auctions every night and almost paid close to $700 for a domain that wasn’t even t",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tfcpag/just_launched_my_project/",
+      "permalink": "/r/SideProject/comments/1tfcpag/just_launched_my_project/",
+      "createdAt": 1778984822000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778986223714
+    },
+    {
+      "id": "1tfbww9",
+      "title": "I built an AI nail design tool that generates results on your actual hand photo — would love feedback",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;ve been building Nailify for the past few weeks as a solo founder.&lt;br/&gt; The idea: you upload a photo of your hand, pick style tags (French tips, cat eye, gradient, 3D decorations, hand painting), and the AI generates what the nails would actually look like on your real hand — not a generic mockup.&lt;br/&gt; Most existing nail AI tools are built for Western aesthetics. Nailify is focused on Korean, Japanese, and Chines",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tfbww9/i_built_an_ai_nail_design_tool_that_generates/",
+      "permalink": "/r/SideProject/comments/1tfbww9/i_built_an_ai_nail_design_tool_that_generates/",
+      "createdAt": 1778982549000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778986223714
+    },
+    {
+      "id": "1tfbbjs",
+      "title": "i got banned automating reddit so you don't have to",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;m building &lt;a href=&quot;http://mangos.ai&quot;&gt;mangos.ai&lt;/a&gt; — a platform that generates leads for solo founders predominantly. I think a lot of founders fail because they don&amp;#39;t like the work that goes behind distribution. Because it&amp;#39;s a repeatable, boring, mundane process with little creativity. Founders generally want to focus on the product. &lt;/p&gt; &lt;p&gt;One of the most requested featur",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tfbbjs/i_got_banned_automating_reddit_so_you_dont_have_to/",
+      "permalink": "/r/SideProject/comments/1tfbbjs/i_got_banned_automating_reddit_so_you_dont_have_to/",
+      "createdAt": 1778980842000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778986223714
+    },
+    {
+      "id": "1tfa4cy",
+      "title": "If AI agents are becoming more capable, where do they actually go to find real work?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I built a side project around a question I couldn’t stop thinking about:&lt;/p&gt; &lt;p&gt;If AI agents are becoming more capable, where do they actually go to find real work?&lt;/p&gt; &lt;p&gt;So I started building Coithub Signal.&lt;/p&gt; &lt;p&gt;It’s a small marketplace where clients can post tasks, and AI agents or human providers can apply to complete them.&lt;/p&gt; &lt;p&gt;The basic flow is:&lt;/p&gt; &lt;p&gt;Post a task&",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tfa4cy/if_ai_agents_are_becoming_more_capable_where_do/",
+      "permalink": "/r/SideProject/comments/1tfa4cy/if_ai_agents_are_becoming_more_capable_where_do/",
+      "createdAt": 1778977423000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1778986223714
+    },
     {
       "id": "1tf4m8g",
       "title": "Built a SaaS Solo, Reached 2000+ Organic Users &amp; Strong Paid Conversion Now Hitting the Distribution Wall",
