@@ -1,7 +1,139 @@
 {
-  "lastUpdated": "2026-05-17T13:16:50.537Z",
-  "totalFound": 7,
+  "lastUpdated": "2026-05-17T16:57:09.571Z",
+  "totalFound": 6,
   "opportunities": [
+    {
+      "id": "1tfpwyx",
+      "title": "What made your product finally feel real?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;not the launch itself, more like some small moment where it stopped feeling like a side project. first random user, first payment, first github star, someone using it without you explaining it, analytics that aren’t just you refreshing the page, stuff like that.&lt;/p&gt; &lt;p&gt;curious what it was for other people&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/use",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tfpwyx/what_made_your_product_finally_feel_real/",
+      "permalink": "/r/SaaS/comments/1tfpwyx/what_made_your_product_finally_feel_real/",
+      "createdAt": 1779025348000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779036887180
+    },
+    {
+      "id": "1tfrszg",
+      "title": "What made you realize your side project was worth continuing?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;A lot of side projects reach a strange middle stage. They are too real to abandon casually, but not successful enough to feel obvious.&lt;/p&gt; &lt;p&gt;Maybe you have a few users, one useful piece of feedback, a tiny sale, or just a pattern that keeps showing up.&lt;/p&gt; &lt;p&gt;For people who kept going: what signal made you decide the project was worth another month?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitte",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tfrszg/what_made_you_realize_your_side_project_was_worth/",
+      "permalink": "/r/SideProject/comments/1tfrszg/what_made_you_realize_your_side_project_was_worth/",
+      "createdAt": 1779029770000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779036965809
+    },
+    {
+      "id": "1tfqtbx",
+      "title": "Guys, I made a backend for your fancy vibe coded apps",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Just install MCP or copy paste the provided prompt into your agents context and it will fire up all needed backend in a few iterations. &lt;/p&gt; &lt;p&gt;Think about it as a supabase, but without auto project pause for free tiers and agent-first api, so you do not need to do any manual actions.&lt;br/&gt; It has REST, auth, files and AI endpoints. More info you can find on landing.&lt;/p&gt; &lt;p&gt;It is my 10th or so side project",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tfqtbx/guys_i_made_a_backend_for_your_fancy_vibe_coded/",
+      "permalink": "/r/SideProject/comments/1tfqtbx/guys_i_made_a_backend_for_your_fancy_vibe_coded/",
+      "createdAt": 1779027475000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779036965809
+    },
+    {
+      "id": "1tfqhwt",
+      "title": "If you build side projects, this might save you a lot of time",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;As a developer hosting is a mess. You spend 90% of your time building things and then 90% fighting deployment and infrastructure.&lt;/p&gt; &lt;p&gt;I built a small tool to reduce that deployment friction so I don’t lose momentum every time I ship something.&lt;/p&gt; &lt;p&gt;If you want to try it, it’s here:&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://wesza.online&quot;&gt;https://wesza.online&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Would love",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tfqhwt/if_you_build_side_projects_this_might_save_you_a/",
+      "permalink": "/r/SideProject/comments/1tfqhwt/if_you_build_side_projects_this_might_save_you_a/",
+      "createdAt": 1779026716000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779036965809
+    },
+    {
+      "id": "1tfpkcb",
+      "title": "Morechard : A side project i'm building to help parents teach their children financial independence (Looking for feedback!)",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi all,&lt;/p&gt; &lt;p&gt;My side project is at a stage I feel comfortable sharing and asking for feedback.&lt;/p&gt; &lt;p&gt;Like many of you (hopefully!), I wanted a practical way to teach my teenage son about money management, chores, and setting long-term goals. I couldn&amp;#39;t quite find a tool that hit the right balance of simplicity and real-world financial literacy without being overly complicated, so I decided to build i",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tfpkcb/morechard_a_side_project_im_building_to_help/",
+      "permalink": "/r/SideProject/comments/1tfpkcb/morechard_a_side_project_im_building_to_help/",
+      "createdAt": 1779024483000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779036965810
+    },
+    {
+      "id": "1tftxbe",
+      "title": "Final day of building ClipShip in public 😇",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;It&amp;#39;s the final day of building ClipShip in public, the local OpusClips alternative.&lt;/p&gt; &lt;p&gt;Will be shipping it to everyone who signed up for the waitlist. &lt;/p&gt; &lt;p&gt;I was not expecting even a single person to be interested in this when I started this build in public journey with ClipShip, but the number of people who signed up and showed support through replies and comments on X and Reddit helped me keep ",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tftxbe/final_day_of_building_clipship_in_public/",
+      "permalink": "/r/SideProject/comments/1tftxbe/final_day_of_building_clipship_in_public/",
+      "createdAt": 1779034453000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 1,
+      "matched": [
+        {
+          "keyword": "build in public",
+          "category": "intent"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779036965808
+    },
     {
       "id": "1tfoooo",
       "title": "Building a small community for SaaS founders and marketers to discuss G2/Capterra strategies, user acquisition, product feedback, and growth tactics. Looking for genuine founders, startup teams, and marketers who are actively working on B2B SaaS growth. If interested, drop a comment or DM.",
