@@ -1,7 +1,169 @@
 {
-  "lastUpdated": "2026-05-18T08:02:28.029Z",
-  "totalFound": 8,
+  "lastUpdated": "2026-05-18T11:54:22.228Z",
+  "totalFound": 7,
   "opportunities": [
+    {
+      "id": "1tghb1i",
+      "title": "Need advice: How do indie founders receive international payments when Stripe isn’t available?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey everyone,&lt;/p&gt; &lt;p&gt;I’ve been building a side project.&lt;/p&gt; &lt;p&gt;I’m getting close to launching paid plans, but I’ve run into a frustrating problem: Stripe is currently invite-only in my country, so I can’t create an account yet.&lt;/p&gt; &lt;p&gt;As a solo founder, this is honestly discouraging. After spending months building and validating the product, I’m stuck on something as basic as getting paid by custome",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tghb1i/need_advice_how_do_indie_founders_receive/",
+      "permalink": "/r/SideProject/comments/1tghb1i/need_advice_how_do_indie_founders_receive/",
+      "createdAt": 1779096304000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 4,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        },
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779105198824
+    },
+    {
+      "id": "1tgiv7o",
+      "title": "How do you guys build in public?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I have been seeing a lot of posts from last year till now about this and have finally decided to start building in public. But I don&amp;#39;t know how to do it actually? I could go and watch a YouTube video but I just want to know some overview like if it&amp;#39;s worth it or some other nuances before diving in (Reddit is also more trustworthy than youtube). So, please give me advice on how to do it and how did you start.&lt;/p&gt; ",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tgiv7o/how_do_you_guys_build_in_public/",
+      "permalink": "/r/SaaS/comments/1tgiv7o/how_do_you_guys_build_in_public/",
+      "createdAt": 1779101245000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 3,
+      "matched": [
+        {
+          "keyword": "building in public",
+          "category": "audience"
+        },
+        {
+          "keyword": "build in public",
+          "category": "intent"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779105120960
+    },
+    {
+      "id": "1tgk37q",
+      "title": "Is anyone else finding that Google SEO forces you to build worse Uls just for traffic?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey everyone,&lt;/p&gt; &lt;p&gt;I&amp;#39;m a full-stack dev who recently launched a side project. wanted a beautiful, modern UX, so built it as a sleek single-page app style with modal overlays to keep everything fast and fluid. The problem? My conversion and user feedback were great, but my organic traffic and ad revenue took a massive hit because Google prefers traditional, multi-page, text-heavy layouts for indexing. It feels lik",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tgk37q/is_anyone_else_finding_that_google_seo_forces_you/",
+      "permalink": "/r/SaaS/comments/1tgk37q/is_anyone_else_finding_that_google_seo_forces_you/",
+      "createdAt": 1779104670000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779105120959
+    },
+    {
+      "id": "1tgjf75",
+      "title": "72 hours after Product Hunt #5. The story continues!",
+      "body": "&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/indiehackers/comments/1tgjf75/72_hours_after_product_hunt_5_the_story_continues/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/1xyizz99pv1h1.png?width=140&amp;amp;height=57&amp;amp;auto=webp&amp;amp;s=5300b4ec50412ba9a5f77579a31cb06ae228a6b6&quot; alt=&quot;72 hours after Product Hunt #5. The story continues!&quot; title=&quot;72 hours after Product Hunt #5. The story continues!&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&",
+      "url": "https://www.reddit.com/r/indiehackers/comments/1tgjf75/72_hours_after_product_hunt_5_the_story_continues/",
+      "permalink": "/r/indiehackers/comments/1tgjf75/72_hours_after_product_hunt_5_the_story_continues/",
+      "createdAt": 1779102833000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "indiehackers",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "indiehacker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779105140636
+    },
+    {
+      "id": "1tgibza",
+      "title": "Movies Deluxe - 25,000+ free &amp; public domain movies to discover and stream - my open source side project that I dreamed about for years",
+      "body": "&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/SideProject/comments/1tgibza/movies_deluxe_25000_free_public_domain_movies_to/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/bnpmbG00M2FndjFoMfpnUiELoJSlT-MPIZYze41uyndE6tdyxwBkAm8Jpymm.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=62c8b529c231babf82ae4983237b3ec9266671b0&quot; alt=&quot;Movies Deluxe - 25,000+ free &amp;amp; public domain movies to discover and stream - my open source side",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tgibza/movies_deluxe_25000_free_public_domain_movies_to/",
+      "permalink": "/r/SideProject/comments/1tgibza/movies_deluxe_25000_free_public_domain_movies_to/",
+      "createdAt": 1779099662000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779105198824
+    },
+    {
+      "id": "1tghbcd",
+      "title": "Western fitness apps are blind to Asian food. I launched an AI to fix that today, and my side project just hit #74 on the App Store.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’m a builder based in Singapore, and I’ve spent the last few months trying to solve a very specific local data problem: tracking macros for complex, mixed-plate Asian food.&lt;/p&gt; &lt;p&gt;Standard trackers fail miserably here. They look at Laksa, see noodles and shrimp, and spit out 400 kcal. They completely miss the hidden saturated fats in the coconut milk broth or the sugar-heavy sambal.&lt;/p&gt; &lt;p&gt;I built HawkerSense ",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tghbcd/western_fitness_apps_are_blind_to_asian_food_i/",
+      "permalink": "/r/SideProject/comments/1tghbcd/western_fitness_apps_are_blind_to_asian_food_i/",
+      "createdAt": 1779096332000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779105198824
+    },
+    {
+      "id": "1tggmpt",
+      "title": "Weekend project",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi guys, I am developer and looking at logs is half my work, tiered of old school log viewers, I made this side project over the weekend. Check out if you need modern AI enabled log viewer with all modern features at one place, its FREE. &lt;a href=&quot;https://github.com/Abhi-AlgoForge/log-viewer&quot;&gt;Git Repo&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddi",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tggmpt/weekend_project/",
+      "permalink": "/r/SideProject/comments/1tggmpt/weekend_project/",
+      "createdAt": 1779094044000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779105198824
+    },
     {
       "id": "1tgcuzr",
       "title": "Small milestone for the AI SEO SaaS I launched recently:",
