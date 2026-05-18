@@ -1,7 +1,249 @@
 {
-  "lastUpdated": "2026-05-18T18:00:59.013Z",
-  "totalFound": 0,
+  "lastUpdated": "2026-05-18T21:11:58.935Z",
+  "totalFound": 11,
   "opportunities": [
+    {
+      "id": "1th017q",
+      "title": "I built a tool that tracks whether your code still matches the original requirement",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey guys, I&amp;#39;m an engineer/lurker here who has built a new product called Stoney! I am the solo founder/engineer on this project.&lt;/p&gt; &lt;p&gt;I built this because requirement drift is one of those problems every dev team has but nobody has good tooling for. A requirement gets written, gets built, and then six months later something changes quietly and nobody connects it back to the original ticket. The failure mode I kep",
+      "url": "https://www.reddit.com/r/SaaS/comments/1th017q/i_built_a_tool_that_tracks_whether_your_code/",
+      "permalink": "/r/SaaS/comments/1th017q/i_built_a_tool_that_tracks_whether_your_code/",
+      "createdAt": 1779135802000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779138574835
+    },
+    {
+      "id": "1tgz9z9",
+      "title": "Nothing is more performative than a public launch",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Last week, I publicly launched my side project for the first time.&lt;/p&gt; &lt;p&gt;I thought the product was ready, but real users proved otherwise very quickly.&lt;/p&gt; &lt;p&gt;The feedback was brutal but useful:&lt;/p&gt; &lt;p&gt;- some parts of the onboarding were unclear&lt;/p&gt; &lt;p&gt;- the value proposition needed to be sharper&lt;/p&gt; &lt;p&gt;- some features made sense to me, but not to users&lt;/p&gt; &lt;p&gt;- ",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tgz9z9/nothing_is_more_performative_than_a_public_launch/",
+      "permalink": "/r/SaaS/comments/1tgz9z9/nothing_is_more_performative_than_a_public_launch/",
+      "createdAt": 1779134309000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779138574835
+    },
+    {
+      "id": "1tgx6jy",
+      "title": "URise – A Fair Launch Platform Where Every Product Gets Seen",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;strong&gt;URise&lt;/strong&gt; is a community-driven product launch platform where makers showcase their startups, gain real feedback, and reach early adopters - without pay-to-win algorithms.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Long Description:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;URise&lt;/strong&gt; (urise.dev) is built for indie makers, developers, and startup founders who want a transparent, visibility-first alternat",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tgx6jy/urise_a_fair_launch_platform_where_every_product/",
+      "permalink": "/r/SaaS/comments/1tgx6jy/urise_a_fair_launch_platform_where_every_product/",
+      "createdAt": 1779130696000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "maker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779138574835
+    },
+    {
+      "id": "1th00pm",
+      "title": "I built a daily Spanish riddle game inspired by Wordle",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi everyone,&lt;/p&gt; &lt;p&gt;I just launched a small side project I&amp;#39;ve been working on: a daily riddle game in Spanish, inspired by the format of Wordle.&lt;/p&gt; &lt;p&gt;Each day there&amp;#39;s a new traditional Spanish riddle (the kind that have been passed down for centuries in oral tradition), and you have 5 attempts to guess the answer. You can request up to 4 progressive hints if you get stuck.&lt;/p&gt; &lt;p&gt;T",
+      "url": "https://www.reddit.com/r/SideProject/comments/1th00pm/i_built_a_daily_spanish_riddle_game_inspired_by/",
+      "permalink": "/r/SideProject/comments/1th00pm/i_built_a_daily_spanish_riddle_game_inspired_by/",
+      "createdAt": 1779135774000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779138653835
+    },
+    {
+      "id": "1tgzp91",
+      "title": "the side project that enables all other side projects",
+      "body": "&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/SideProject/comments/1tgzp91/the_side_project_that_enables_all_other_side/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/yGr2uob6cqX4K04B-WSYfzzeZP0isTZBGYNKE4HbrDQ.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ddd0699b06410115e47acb4b282c8547a7a59486&quot; alt=&quot;the side project that enables all other side projects&quot; title=&quot;the side project that enables all other side project",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tgzp91/the_side_project_that_enables_all_other_side/",
+      "permalink": "/r/SideProject/comments/1tgzp91/the_side_project_that_enables_all_other_side/",
+      "createdAt": 1779135152000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779138653835
+    },
+    {
+      "id": "1tgxwri",
+      "title": "No Login Free Scan and MCP Connection",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Recently launched my first MCP server for my side project &lt;a href=&quot;https://geosource.ai/&quot;&gt;GeoSource&lt;/a&gt;. Feel free to run a free scan on your site without a signup to see what insights you can gain for the future of Generative Engine Optimization. Then feel free to sign up there is a forever free tier really looking to get feedback!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tgxwri/no_login_free_scan_and_mcp_connection/",
+      "permalink": "/r/SideProject/comments/1tgxwri/no_login_free_scan_and_mcp_connection/",
+      "createdAt": 1779131855000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779138653835
+    },
+    {
+      "id": "1tgu06x",
+      "title": "Why i stopped using AI builders (bolt/lovale) and went back to cursor",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I see everyone hypeing up bolt and lovale right now to build a saas in minutes. Dont get me wrong, it looks cool but I actually stopped using them for my own side projects. &lt;/p&gt; &lt;p&gt;The main issue is you just end up burning through ai credits way too fast. And the second you wanna do something custom, you realize you dont really have full control over the architecure. &lt;/p&gt; &lt;p&gt;My advice is to not build using bolt",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tgu06x/why_i_stopped_using_ai_builders_boltlovale_and/",
+      "permalink": "/r/SideProject/comments/1tgu06x/why_i_stopped_using_ai_builders_boltlovale_and/",
+      "createdAt": 1779125724000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779138653836
+    },
+    {
+      "id": "1tgt9x5",
+      "title": "More than 2 weeks live, 1 week posting on TikTok, zero installs. Roast my launch.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Solo founder, first iOS app. Built an iOS app for stopping urges (drinking, smoking, doom scrolling and record yourself sober, play it back when the urge hits).&lt;/p&gt; &lt;p&gt;Launched in App Store 2 weeks ago. Started posting on TikTok 1 week ago: @theimpulseapp. About 7-8 videos posted: text carousels, literary parodies, one street interview.&lt;/p&gt; &lt;p&gt;Stats: - TikTok views: 0-335 per video, one carousel hit 315 - 5 fol",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tgt9x5/more_than_2_weeks_live_1_week_posting_on_tiktok/",
+      "permalink": "/r/SideProject/comments/1tgt9x5/more_than_2_weeks_live_1_week_posting_on_tiktok/",
+      "createdAt": 1779124617000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779138653836
+    },
+    {
+      "id": "1tgtxh6",
+      "title": "Built a Chrome extension that upgrades weak ChatGPT prompts into detailed ones instantly",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I built a small side project called &lt;strong&gt;PromptForge&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;The idea came from a personal frustration:&lt;br/&gt; I use ChatGPT a lot for studying/programming, but weak prompts often lead to weak or irrelevant answers.&lt;/p&gt; &lt;p&gt;So instead of rewriting prompts manually every time, I made a Chrome extension that enhances them automatically.&lt;/p&gt; &lt;h1&gt;Features&lt;/h1&gt; &lt;ul&gt;",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tgtxh6/built_a_chrome_extension_that_upgrades_weak/",
+      "permalink": "/r/SideProject/comments/1tgtxh6/built_a_chrome_extension_that_upgrades_weak/",
+      "createdAt": 1779125627000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779138653836
+    },
+    {
+      "id": "1tgyhy2",
+      "title": "Day 3 - Trying to Build in Public",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Today was a slow day; I was not expecting it to be slow. I was so ready to finish my to-do list; however, the admin work and compliance never end. &lt;/p&gt; &lt;p&gt;We are making progress, though. We have improved the UI to fix the issues in the forms. We still have some issues with automated emails. Let&amp;#39;s give users the ability to edit them, and then we&amp;#39;ll move on to the next issue. &lt;/p&gt; &lt;p&gt;I am also wor",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tgyhy2/day_3_trying_to_build_in_public/",
+      "permalink": "/r/SideProject/comments/1tgyhy2/day_3_trying_to_build_in_public/",
+      "createdAt": 1779132742000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 1,
+      "matched": [
+        {
+          "keyword": "build in public",
+          "category": "intent"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779138653835
+    },
+    {
+      "id": "1tgw6bb",
+      "title": "4 weeks of Reddit ads, £150 spent, zero conversions. Full breakdown of what I tested and what I learned",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;ve been building SplitPost (&lt;a href=&quot;https://splitpost.io&quot;&gt;https://splitpost.io&lt;/a&gt;), an AI content repurposing tool with voice enforcement. Ran Reddit ads for 4 weeks to test whether paid acquisition works at this stage. Short answer: it doesn&amp;#39;t, at least not for this product and this audience. Here&amp;#39;s the full breakdown.&lt;/p&gt; &lt;p&gt;£5 day budget across &lt;a href=&quot;/r/freela",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tgw6bb/4_weeks_of_reddit_ads_150_spent_zero_conversions/",
+      "permalink": "/r/SideProject/comments/1tgw6bb/4_weeks_of_reddit_ads_150_spent_zero_conversions/",
+      "createdAt": 1779129012000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 1,
+      "matched": [
+        {
+          "keyword": "content repurposing tool",
+          "category": "intent"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779138653836
+    },
     {
       "id": "1tgnep9",
       "title": "Took 2 month to build a personal CA app to help people with there tax but now stuck in the distribution.",
