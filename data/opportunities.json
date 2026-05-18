@@ -1,7 +1,183 @@
 {
-  "lastUpdated": "2026-05-18T03:01:13.377Z",
-  "totalFound": 6,
+  "lastUpdated": "2026-05-18T08:02:28.029Z",
+  "totalFound": 8,
   "opportunities": [
+    {
+      "id": "1tgcuzr",
+      "title": "Small milestone for the AI SEO SaaS I launched recently:",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;114 visitors&lt;/p&gt; &lt;p&gt;311 pageviews&lt;/p&gt; &lt;p&gt;12 minute average session duration&lt;/p&gt; &lt;p&gt;Still tiny numbers obviously, but honestly seeing people actually spend time testing the platform feels incredibly motivating 😭&lt;/p&gt; &lt;p&gt;Currently focusing on improving the free SEO tools, simplifying the UX, and making the product more beginner-friendly for bloggers/content creators.&lt;/p&gt; &lt;/div&gt;",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tgcuzr/small_milestone_for_the_ai_seo_saas_i_launched/",
+      "permalink": "/r/SaaS/comments/1tgcuzr/small_milestone_for_the_ai_seo_saas_i_launched/",
+      "createdAt": 1779081517000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "content creator",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779091200214
+    },
+    {
+      "id": "1tgdg1t",
+      "title": "Transitioning from a builder to a founder mindset",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi dear Indiehacker community!&lt;/p&gt; &lt;p&gt;The past 2 weeks or so have been quite a transition for my mindset towards what to build. I used to build something I thought was cool and could &amp;quot;seemingly&amp;quot; solve a lot of problems, but when it came to distribution, I always hit a wall. People would react with nice words, they thought the product was awesome, my builder skills were great, but then... nothing. I realiz",
+      "url": "https://www.reddit.com/r/indiehackers/comments/1tgdg1t/transitioning_from_a_builder_to_a_founder_mindset/",
+      "permalink": "/r/indiehackers/comments/1tgdg1t/transitioning_from_a_builder_to_a_founder_mindset/",
+      "createdAt": 1779083396000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "indiehackers",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "indiehacker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779091222090
+    },
+    {
+      "id": "1tgcm69",
+      "title": "Do you think it’s actually easier to run a one-person business now, or has it become more overwhelming?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;On one side, we have AI tools, automation, no-code platforms, Shopify, content tools and easier access to online business infrastructure.&lt;/p&gt; &lt;p&gt;On the other side, there are now so many tools, subscriptions, workflows and “systems” that a lot of solopreneurs seem more confused than ever.&lt;/p&gt; &lt;p&gt;Curious how others feel about this.&lt;/p&gt; &lt;p&gt;Are modern tools making solo businesses easier to run, or are t",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1tgcm69/do_you_think_its_actually_easier_to_run_a/",
+      "permalink": "/r/Solopreneur/comments/1tgcm69/do_you_think_its_actually_easier_to_run_a/",
+      "createdAt": 1779080757000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solopreneur",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779091265090
+    },
+    {
+      "id": "1tgf0kw",
+      "title": "Built a prompt engineering resource after testing 50+ prompts systematically. Looking for feedback before wider launch.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey everyone,&lt;/p&gt; &lt;p&gt;I&amp;#39;ve been working on a side project for the past 3 months: a curated collection of 50 AI prompts specifically designed to be reusable instead of one-time templates.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;The problem I was trying to solve:&lt;/strong&gt; Most prompt lists are either too generic (&amp;quot;write a good email&amp;quot;) or too specific (&amp;quot;write an email for SaaS founders on Day ",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tgf0kw/built_a_prompt_engineering_resource_after_testing/",
+      "permalink": "/r/SideProject/comments/1tgf0kw/built_a_prompt_engineering_resource_after_testing/",
+      "createdAt": 1779088492000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779091284899
+    },
+    {
+      "id": "1tgeu3f",
+      "title": "Built a data labeling tool as a side project, it somehow has real users now",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Started it on a Tuesday night. My cat was on my keyboard.&lt;/p&gt; &lt;p&gt;I was annotating training data for a fine-tuning job at work and the whole process was just miserable. Clicking through hundreds of samples in a spreadsheet, copy pasting labels, losing track of where I left off. Every tool I found was either enterprise-priced or required setting up three different services just to run.&lt;/p&gt; &lt;p&gt;So I built my own th",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tgeu3f/built_a_data_labeling_tool_as_a_side_project_it/",
+      "permalink": "/r/SideProject/comments/1tgeu3f/built_a_data_labeling_tool_as_a_side_project_it/",
+      "createdAt": 1779087882000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779091284899
+    },
+    {
+      "id": "1tgeggj",
+      "title": "Side project website that's solving my need",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;From proposal to payment in one seamless flow. Dispach is the all-in-one platform built for freelancers who care about how they present to clients.&lt;/p&gt; &lt;p&gt;Check out the free demo it&amp;#39;s kinda sick actually. I made a IOS app with a partnering web app for freelancers or just out here trying to take some extra work. Targeted towards developers, creatives, law whatever you want. Build is being tweaked a lot. App is still",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tgeggj/side_project_website_thats_solving_my_need/",
+      "permalink": "/r/SideProject/comments/1tgeggj/side_project_website_thats_solving_my_need/",
+      "createdAt": 1779086640000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779091284899
+    },
+    {
+      "id": "1tgdizf",
+      "title": "My side project just crossed 30 users, feels unreal!",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;m building SignalDesk.&lt;/p&gt; &lt;p&gt;It just crossed 30 users 🎉.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;The Viral Loop here&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;You share your link&lt;/p&gt; &lt;p&gt;↓&lt;/p&gt; &lt;p&gt;Friend opens it and responds anonymously&lt;/p&gt; &lt;p&gt;↓&lt;/p&gt; &lt;p&gt;Friend lands on thank you page:&lt;/p&gt; &lt;p&gt;&amp;quot;Want to know what YOUR circle thinks of you?&amp;quot;&lt;/p&gt; &lt",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tgdizf/my_side_project_just_crossed_30_users_feels_unreal/",
+      "permalink": "/r/SideProject/comments/1tgdizf/my_side_project_just_crossed_30_users_feels_unreal/",
+      "createdAt": 1779083650000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779091284900
+    },
+    {
+      "id": "1tgau18",
+      "title": "What made your side project easier to explain?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;What helped the idea click for people: clearer copy, a better demo, simpler onboarding, or narrowing the audience?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Crescitaly&quot;&gt; /u/Crescitaly &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/SideProject/comments/1tgau18/what_made_your_side_project_easier_to_explain/&quot;&gt;[link",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tgau18/what_made_your_side_project_easier_to_explain/",
+      "permalink": "/r/SideProject/comments/1tgau18/what_made_your_side_project_easier_to_explain/",
+      "createdAt": 1779075514000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779091284900
+    },
     {
       "id": "1tg8n8s",
       "title": "Can we please stop calling the $1.8B Medvi story &quot;Solopreneurship&quot;? It’s a total illusion.",
