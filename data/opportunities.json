@@ -1,7 +1,183 @@
 {
-  "lastUpdated": "2026-05-18T11:54:22.228Z",
-  "totalFound": 7,
+  "lastUpdated": "2026-05-18T15:27:04.829Z",
+  "totalFound": 8,
   "opportunities": [
+    {
+      "id": "1tgnep9",
+      "title": "Took 2 month to build a personal CA app to help people with there tax but now stuck in the distribution.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’m a &amp;quot;0-code founder.&amp;quot; Three months ago, I didn&amp;#39;t know how to deploy a database or handle complex APIs. But I had a massive itch to build, and after weeks of sleepless nights and wrestling with AI tools, I finally completely finished my project: AXCIS LEDGER.&lt;/p&gt; &lt;p&gt;what it does : a personal AI Chartered Accountant (CA) designed for freelancers and solopreneurs. It answers financial/tax doubts, h",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tgnep9/took_2_month_to_build_a_personal_ca_app_to_help/",
+      "permalink": "/r/SaaS/comments/1tgnep9/took_2_month_to_build_a_personal_ca_app_to_help/",
+      "createdAt": 1779112537000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solopreneur",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779117879394
+    },
+    {
+      "id": "1tglq7a",
+      "title": "your A-player didnt get lazy. you just stopped giving a shit.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;your A-players will become B-players. its not if, its when.&lt;/p&gt; &lt;p&gt;the pattern is always the same. you find someone incredible, pay them well, give them freedom, good environment, you actually give a shit. for a while its magic. they crush it. you think ok finally someone I can trust.&lt;/p&gt; &lt;p&gt;then around year 2 it starts. the hunger disappears. side project pops up. the person who sent you ideas at 11pm now take",
+      "url": "https://www.reddit.com/r/Entrepreneur/comments/1tglq7a/your_aplayer_didnt_get_lazy_you_just_stopped/",
+      "permalink": "/r/Entrepreneur/comments/1tglq7a/your_aplayer_didnt_get_lazy_you_just_stopped/",
+      "createdAt": 1779108760000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "entrepreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779117918950
+    },
+    {
+      "id": "1tgkwoh",
+      "title": "Working and starting a business",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Foreign_Tower_7735&quot;&gt; /u/Foreign_Tower_7735 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;/r/Business_Ideas/comments/1tgkszj/working_and_starting_a_business/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Solopreneur/comments/1tgkwoh/working_and_starting_a_business/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1tgkwoh/working_and_starting_a_business/",
+      "permalink": "/r/Solopreneur/comments/1tgkwoh/working_and_starting_a_business/",
+      "createdAt": 1779106755000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solopreneur",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779117939077
+    },
+    {
+      "id": "1tgp4d5",
+      "title": "I built a reverse-audio party game because I couldn't find a decent one for to play with friends/family",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey everyone,&lt;/p&gt; &lt;p&gt;​By day, I work in IT, but over the last few months of evenings and weekends, I’ve been working on a mobile app side project just to scratch my own itch.&lt;/p&gt; &lt;p&gt;​My mates and I love those &amp;quot;reverse words&amp;quot; audio challenges you hear on TV and radio shows. I went looking for an app so we could play it over some drinks, but everything I found was just a basic &amp;quot;record y",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tgp4d5/i_built_a_reverseaudio_party_game_because_i/",
+      "permalink": "/r/SideProject/comments/1tgp4d5/i_built_a_reverseaudio_party_game_because_i/",
+      "createdAt": 1779116192000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779117958695
+    },
+    {
+      "id": "1tgo1ej",
+      "title": "My side project has hit over 1.2k stars on Github",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;At work, when I built amazing Claude configurations, it was super hard for me to distribute them and get my colleagues to use it. Figured this could be a common problem across orgs.&lt;/p&gt; &lt;p&gt;Most orgs stash their agent files in a GitHub repo and ask people to install agents/MCP from there, but like traditional software, if your development is not user-centric or based off usage pattern, your product is bound to die out from ",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tgo1ej/my_side_project_has_hit_over_12k_stars_on_github/",
+      "permalink": "/r/SideProject/comments/1tgo1ej/my_side_project_has_hit_over_12k_stars_on_github/",
+      "createdAt": 1779113877000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779117958696
+    },
+    {
+      "id": "1tgni6b",
+      "title": "Working on a side project called Sola, would love feedback",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey folks! I have been building a side project called Sola.&lt;br/&gt; It is an AI companion app designed to feel like a friend you can talk to, whether you want to vent, overthink, plan things out, or just get unstuck.&lt;/p&gt; &lt;p&gt;It is still early, but I would really appreciate it if some of you tried it and shared honest feedback on what feels useful, what feels off, and what is missing.&lt;/p&gt; &lt;p&gt;Would love any fee",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tgni6b/working_on_a_side_project_called_sola_would_love/",
+      "permalink": "/r/SideProject/comments/1tgni6b/working_on_a_side_project_called_sola_would_love/",
+      "createdAt": 1779112751000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779117958696
+    },
+    {
+      "id": "1tgmyzu",
+      "title": "What did you remove from your side project that made it better?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Sometimes simplifying helps more than adding. What did you cut that improved the product?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Crescitaly&quot;&gt; /u/Crescitaly &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/SideProject/comments/1tgmyzu/what_did_you_remove_from_your_side_project_that/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tgmyzu/what_did_you_remove_from_your_side_project_that/",
+      "permalink": "/r/SideProject/comments/1tgmyzu/what_did_you_remove_from_your_side_project_that/",
+      "createdAt": 1779111573000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779117958696
+    },
+    {
+      "id": "1tgl5rc",
+      "title": "I built LaunchShots — a free in-browser App Store screenshot maker because every alternative is paywalled",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey &lt;a href=&quot;/r/SideProject&quot;&gt;r/SideProject&lt;/a&gt; 👋&lt;/p&gt; &lt;p&gt;I&amp;#39;m an indie dev and every time I shipped an app I&amp;#39;d lose a weekend resizing screenshots, translating captions by hand, and re-exporting per device size. The Mac apps that automate this either cost $30/month or watermark the export until you upgrade.&lt;/p&gt; &lt;p&gt;So I built the tool I actually wanted: &lt;a href=&quot;https",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tgl5rc/i_built_launchshots_a_free_inbrowser_app_store/",
+      "permalink": "/r/SideProject/comments/1tgl5rc/i_built_launchshots_a_free_inbrowser_app_store/",
+      "createdAt": 1779107375000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "maker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779117958697
+    },
     {
       "id": "1tghb1i",
       "title": "Need advice: How do indie founders receive international payments when Stripe isn’t available?",
