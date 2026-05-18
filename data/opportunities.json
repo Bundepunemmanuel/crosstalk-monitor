@@ -1,7 +1,139 @@
 {
-  "lastUpdated": "2026-05-17T20:48:38.049Z",
-  "totalFound": 4,
+  "lastUpdated": "2026-05-18T03:01:13.377Z",
+  "totalFound": 6,
   "opportunities": [
+    {
+      "id": "1tg8n8s",
+      "title": "Can we please stop calling the $1.8B Medvi story &quot;Solopreneurship&quot;? It’s a total illusion.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;You’ve probably seen the massive hype surrounding the Medvi story recently. The media is obsessed with it, claiming it fulfills Sam Altman&amp;#39;s prediction of a one person billion dollar company started with barely any money in a living room.&lt;/p&gt; &lt;p&gt;As a solo bootstrap founder grinding through the actual, unglamorus stages of building a SaaS, this story is frustrating. When you look past the headlines, calling this &am",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tg8n8s/can_we_please_stop_calling_the_18b_medvi_story/",
+      "permalink": "/r/SaaS/comments/1tg8n8s/can_we_please_stop_calling_the_18b_medvi_story/",
+      "createdAt": 1779069420000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solopreneur",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779073122804
+    },
+    {
+      "id": "1tg7t48",
+      "title": "Codex is finally on mobile (Free for all plans). Here is what you can actually do with it on the go.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey everyone,&lt;/p&gt; &lt;p&gt;So, Codex just quietly made its way to mobile, and the best part is that it’s available across all plans—including the free tier.&lt;/p&gt; &lt;p&gt;I’ve spent the last couple of days testing it to see if writing code and prompting from a phone is actually a viable workflow for side projects, or if it’s just a frustrating gimmick. Surprisingly, it’s highly usable if you know how to leverage it.&lt;/p&g",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tg7t48/codex_is_finally_on_mobile_free_for_all_plans/",
+      "permalink": "/r/SideProject/comments/1tg7t48/codex_is_finally_on_mobile_free_for_all_plans/",
+      "createdAt": 1779067124000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779073200175
+    },
+    {
+      "id": "1tg7f9d",
+      "title": "I got tired of my audiobook production workflow, so I built a local desktop tool to replace it",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I host my own audiobook library and I’ve been making side project audiobooks for a while, some using ElevenLabs for TTS, some recording my own narration. The workflow, switching between so many apps and platforms drove me up the wall.&lt;/p&gt; &lt;p&gt;Every book meant bouncing between Audacity for splitting recordings into chapters, ChapterForge for packaging the M4B, mp3tag for fixing metadata, ElevenLabs’ web UI for TTS (with no r",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tg7f9d/i_got_tired_of_my_audiobook_production_workflow/",
+      "permalink": "/r/SideProject/comments/1tg7f9d/i_got_tired_of_my_audiobook_production_workflow/",
+      "createdAt": 1779066074000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779073200175
+    },
+    {
+      "id": "1tg6ccx",
+      "title": "I built a free word cloud generator where every word can link to a URL",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’ve been working on a small side project and wanted to share it here.&lt;/p&gt; &lt;p&gt;It’s a &lt;a href=&quot;https://wordbulb.com/word-cloud-generator&quot;&gt;free word cloud generator&lt;/a&gt; — but with a twist:&lt;br/&gt; 👉 you can &lt;strong&gt;turn each word into a clickable link&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;So instead of just a visual, it becomes something interactive.&lt;/p&gt; &lt;p&gt;A few things it can do:&lt;/",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tg6ccx/i_built_a_free_word_cloud_generator_where_every/",
+      "permalink": "/r/SideProject/comments/1tg6ccx/i_built_a_free_word_cloud_generator_where_every/",
+      "createdAt": 1779063117000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779073200175
+    },
+    {
+      "id": "1tg4ibt",
+      "title": "Built 2 AI document tools — one for contractors, one for real estate agents — looking for feedback",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Been working on a side project for the past few weeks and finally have something worth sharing.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What I built:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Two AI-powered document generators for people who spend way too much time on paperwork.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Tool 1 — GC Document Generator (for general contractors)&lt;/strong&gt; Generates professional proposals, change orders, subcontractor scope",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tg4ibt/built_2_ai_document_tools_one_for_contractors_one/",
+      "permalink": "/r/SideProject/comments/1tg4ibt/built_2_ai_document_tools_one_for_contractors_one/",
+      "createdAt": 1779058357000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779073200176
+    },
+    {
+      "id": "1tg48v8",
+      "title": "New Bike Side Project",
+      "body": "&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/SideProject/comments/1tg48v8/new_bike_side_project/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/b203bGhnYjl6cjFoMU7GWHBgr93dPDN_HPd99pQCFdbEk2p9P95JB_aT9iV-.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=621d6ba7fe6cdf23fb9eec1e6e41f4fd56480111&quot; alt=&quot;New Bike Side Project&quot; title=&quot;New Bike Side Project&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tg48v8/new_bike_side_project/",
+      "permalink": "/r/SideProject/comments/1tg48v8/new_bike_side_project/",
+      "createdAt": 1779057690000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779073200176
+    },
     {
       "id": "1tg1a90",
       "title": "Are there any investors here?",
