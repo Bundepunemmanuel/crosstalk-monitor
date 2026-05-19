@@ -285,12 +285,6 @@ function engagementLabel(score) {
   return { label: "💬 Low", color: "#64748b" };
 }
 
-function engagementLabel(score) {
-  if (score >= 7) return { label: "🔥 High", color: "#00ff88" };
-  if (score >= 5) return { label: "⚡ Medium", color: "#ffd166" };
-  return { label: "💬 Low", color: "#64748b" };
-}
-
 function AskRedditFeed({ groqKey, karmaOpportunities, lastUpdated, loading }) {
   const [done, setDone] = useState(() => {
     try { return new Set(JSON.parse(localStorage.getItem("karma_done_ids") || "[]")); }
