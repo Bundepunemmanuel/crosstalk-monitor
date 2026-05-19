@@ -1,7 +1,73 @@
 {
-  "lastUpdated": "2026-05-18T21:11:58.935Z",
-  "totalFound": 11,
+  "lastUpdated": "2026-05-19T02:57:26.933Z",
+  "totalFound": 3,
   "opportunities": [
+    {
+      "id": "1th9s6v",
+      "title": "we built an AI co-founder that does all the stuff you don't want to. free beta is live. YC and VC backed.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;every solopreneur has a list.&lt;/p&gt; &lt;p&gt;not the list of things they love doing. the list of things that have to get done but that are not why they went solo in the first place. writing ad copy. managing campaigns. generating lead lists. sending cold email. updating the CRM. building the website. configuring payments. tracking analytics. all of it necessary. none of it the reason you built something for yourself.&lt;/p&gt; &lt",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1th9s6v/we_built_an_ai_cofounder_that_does_all_the_stuff/",
+      "permalink": "/r/Solopreneur/comments/1th9s6v/we_built_an_ai_cofounder_that_does_all_the_stuff/",
+      "createdAt": 1779158614000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solopreneur",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779159363924
+    },
+    {
+      "id": "1th5raj",
+      "title": "I launched a side project that turns messy school emails into family tasks/reminders. Is the wedge clear?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I launched v1 of Solenne and I’m trying to get blunt feedback on the positioning.&lt;/p&gt; &lt;p&gt;It’s a tool for parents who are buried in school emails, flyers, PDFs, coach updates, newsletters, permission slips, fees, and schedule changes.&lt;/p&gt; &lt;p&gt;The app is live. A parent can sign up, forward a school message, and Solenne turns it into a reviewable family plan:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;calendar items&lt;/li&gt;",
+      "url": "https://www.reddit.com/r/SideProject/comments/1th5raj/i_launched_a_side_project_that_turns_messy_school/",
+      "permalink": "/r/SideProject/comments/1th5raj/i_launched_a_side_project_that_turns_messy_school/",
+      "createdAt": 1779148305000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779159383835
+    },
+    {
+      "id": "1th5oce",
+      "title": "Uploading large video files are messy",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I just made uploading video quite fast, So, you don&amp;#39;t have to wait to watch it upload first&lt;/p&gt; &lt;p&gt;Those who don&amp;#39;t know I&amp;#39;m building a bulk video editor for content creators.&lt;/p&gt; &lt;p&gt;Here is my &lt;a href=&quot;https://batchedits.com&quot;&gt;SaaS&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/shayannadeem",
+      "url": "https://www.reddit.com/r/SideProject/comments/1th5oce/uploading_large_video_files_are_messy/",
+      "permalink": "/r/SideProject/comments/1th5oce/uploading_large_video_files_are_messy/",
+      "createdAt": 1779148101000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "content creator",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779159383835
+    },
     {
       "id": "1th017q",
       "title": "I built a tool that tracks whether your code still matches the original requirement",
