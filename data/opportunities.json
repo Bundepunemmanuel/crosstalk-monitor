@@ -1,7 +1,29 @@
 {
-  "lastUpdated": "2026-05-19T02:57:26.933Z",
-  "totalFound": 3,
+  "lastUpdated": "2026-05-19T04:31:41.975Z",
+  "totalFound": 1,
   "opportunities": [
+    {
+      "id": "1thc2mi",
+      "title": "Feeling played by a “struggling” SaaS founder lesson learned",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I run Acme SaaS Consulting solo, helping founders with product strategy. Last month, a solo founder reached out claiming she was “barely scraping by” and asked for a discounted rate. Feeling sympathetic, I gave her 25% off my usual $6k fee. I thought I was helping someone bootstrap their dream but honestly, I let my sympathy run away with me and didn’t bother to check any background.&lt;/p&gt; &lt;p&gt;Fast forward to yesterday. I was",
+      "url": "https://www.reddit.com/r/SaaS/comments/1thc2mi/feeling_played_by_a_struggling_saas_founder/",
+      "permalink": "/r/SaaS/comments/1thc2mi/feeling_played_by_a_struggling_saas_founder/",
+      "createdAt": 1779164909000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779164960001
+    },
     {
       "id": "1th9s6v",
       "title": "we built an AI co-founder that does all the stuff you don't want to. free beta is live. YC and VC backed.",
