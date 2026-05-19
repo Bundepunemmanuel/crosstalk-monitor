@@ -1,7 +1,161 @@
 {
-  "lastUpdated": "2026-05-19T11:02:08.849Z",
-  "totalFound": 8,
+  "lastUpdated": "2026-05-19T14:57:12.676Z",
+  "totalFound": 7,
   "opportunities": [
+    {
+      "id": "1tho8lo",
+      "title": "I’m looking for 15 beta testers for Flash7, an AI-powered financial management tool built for freelancers and solopreneurs, an AI-powered financial management tool built for freelancers and solopreneurs who deal with receipts, invoices, bookkeeping, and so on.",
+      "body": "&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/SaaS/comments/1tho8lo/im_looking_for_15_beta_testers_for_flash7_an/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/gcks877lp32h1.png?width=140&amp;amp;height=84&amp;amp;auto=webp&amp;amp;s=5965cc077b3f7875f7fecede91f275a64ecf5bda&quot; alt=&quot;I’m looking for 15 beta testers for Flash7, an AI-powered financial management tool built for freelancers and solopreneurs, an AI-powered financial management tool built fo",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tho8lo/im_looking_for_15_beta_testers_for_flash7_an/",
+      "permalink": "/r/SaaS/comments/1tho8lo/im_looking_for_15_beta_testers_for_flash7_an/",
+      "createdAt": 1779199999000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solopreneur",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779202491389
+    },
+    {
+      "id": "1thnv4t",
+      "title": "Pain is real. People agree. Nobody converts. What am I missing?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;ve been building DooCloud, a tool that takes you from schema → API → deployed in under 5 minutes. No DevOps. No infra headaches. For solo founders and early startups.&lt;/p&gt; &lt;p&gt;I&amp;#39;ve posted in a few communities about it. The responses are encouraging: &amp;quot;yes, this is a real pain,&amp;quot; &amp;quot;I hate DevOps,&amp;quot; &amp;quot;this would&amp;#39;ve saved me weeks.&amp;quot; Upvotes. Kind replies",
+      "url": "https://www.reddit.com/r/SaaS/comments/1thnv4t/pain_is_real_people_agree_nobody_converts_what_am/",
+      "permalink": "/r/SaaS/comments/1thnv4t/pain_is_real_people_agree_nobody_converts_what_am/",
+      "createdAt": 1779199200000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779202491389
+    },
+    {
+      "id": "1thot88",
+      "title": "Solo founder Rtriv : a freemium iOS app that unifies bookmarks across 8 socials and adds friction to your scroll",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi everyone,&lt;/p&gt; &lt;p&gt;Solo founder from France here, just shipped Rtriv.&lt;/p&gt; &lt;p&gt;The problem I&amp;#39;m solving:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Saves scattered across 8 social networks (Insta, TikTok, X, YouTube, Pinterest, LinkedIn, Reddit, Threads, Medium, Substack)&lt;/li&gt; &lt;li&gt;Most saved posts never reopened (everyone has 100+ Instagram saves they&amp;#39;ve never touched)&lt;/li&gt; &lt;li&gt;Endless",
+      "url": "https://www.reddit.com/r/SideProject/comments/1thot88/solo_founder_rtriv_a_freemium_ios_app_that/",
+      "permalink": "/r/SideProject/comments/1thot88/solo_founder_rtriv_a_freemium_ios_app_that/",
+      "createdAt": 1779201226000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779202569467
+    },
+    {
+      "id": "1thol5a",
+      "title": "I built an always-on retro broadcast station that turns live headlines into radio bulletins",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I just started building a strange little side project called WIRE-38.&lt;/p&gt; &lt;p&gt;It’s basically an automated “longwave service” that:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;ingests live headlines&lt;/li&gt; &lt;li&gt;rewrites them into condensed radio copy&lt;/li&gt; &lt;li&gt;generates announcer narration&lt;/li&gt; &lt;li&gt;assembles broadcasts automatically&lt;/li&gt; &lt;li&gt;outputs continuous vintage-style bulletins&lt;/li&gt;",
+      "url": "https://www.reddit.com/r/SideProject/comments/1thol5a/i_built_an_alwayson_retro_broadcast_station_that/",
+      "permalink": "/r/SideProject/comments/1thol5a/i_built_an_alwayson_retro_broadcast_station_that/",
+      "createdAt": 1779200745000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779202569467
+    },
+    {
+      "id": "1thnyvz",
+      "title": "My focus is to show you what happens to your short links, instead of boasting how many clicks it received",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;At this stage it&amp;#39;s more than just a side project; I now work on it full-time. &lt;a href=&quot;https://zyp.sh/try-free&quot;&gt;&lt;strong&gt;Zyp&lt;/strong&gt;&lt;/a&gt; is a short url redirector tool that focuses on human clicks rather that previews/bot clicks. I&amp;#39;ve learnt that there are many bot tools out there and marketers struggle to tell if someone actual clicks their links or was it just bots. Zyp does not bloc",
+      "url": "https://www.reddit.com/r/SideProject/comments/1thnyvz/my_focus_is_to_show_you_what_happens_to_your/",
+      "permalink": "/r/SideProject/comments/1thnyvz/my_focus_is_to_show_you_what_happens_to_your/",
+      "createdAt": 1779199412000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779202569467
+    },
+    {
+      "id": "1thmo8f",
+      "title": "I got tired of subscription pricing for things you only need once, so I built a one-time privacy policy generator",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi, I&amp;#39;m a software engineer based in Berlin who works in enterprise software by day. I know how overcomplicated and overpriced this space is. As a side project, I wanted to build something that is the complete opposite of all that. No subscriptions, no accounts, no recurring fees. Just pay once, and own it forever.&lt;/p&gt; &lt;p&gt;So I built PureDoc. Answer a few questions, pay $49 once, and your privacy policy, terms and c",
+      "url": "https://www.reddit.com/r/SideProject/comments/1thmo8f/i_got_tired_of_subscription_pricing_for_things/",
+      "permalink": "/r/SideProject/comments/1thmo8f/i_got_tired_of_subscription_pricing_for_things/",
+      "createdAt": 1779196545000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779202569468
+    },
+    {
+      "id": "1thkcfg",
+      "title": "Drop your most bonkers side projects",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Share your projects and what tools have you used to make them. I&amp;#39;ll rate how bonkers they are.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Meher_Nolan&quot;&gt; /u/Meher_Nolan &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/SideProject/comments/1thkcfg/drop_your_most_bonkers_side_projects/&quot;&gt;[link]&lt;/a&gt;&lt;/spa",
+      "url": "https://www.reddit.com/r/SideProject/comments/1thkcfg/drop_your_most_bonkers_side_projects/",
+      "permalink": "/r/SideProject/comments/1thkcfg/drop_your_most_bonkers_side_projects/",
+      "createdAt": 1779190952000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779202569468
+    },
     {
       "id": "1thi8dv",
       "title": "How realistic is making the first $100 with iOS apps in 2026?",
