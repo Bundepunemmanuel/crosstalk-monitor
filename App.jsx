@@ -279,8 +279,11 @@ function AskRedditCard({ post, groqKey, engLabel, engColor }) {
   );
 }
 
-// Score AskReddit posts for engagement potential
-function scoreAskReddit(title) {
+function engagementLabel(score) {
+  if (score >= 7) return { label: "🔥 High", color: "#00ff88" };
+  if (score >= 5) return { label: "⚡ Medium", color: "#ffd166" };
+  return { label: "💬 Low", color: "#64748b" };
+}
   const t = title.toLowerCase();
   let score = 0;
 
@@ -339,82 +342,24 @@ function engagementLabel(score) {
   return { label: "💬 Low", color: "#64748b" };
 }
 
-function AskRedditFeed({ groqKey }) {
-  const [posts, setPosts] = useState([]);
-  const [loading, setLoading] = useState(false);
-  const [lastFetch, setLastFetch] = useState(null);
-  const [error, setError] = useState(null);
+function AskRedditFeed({ groqKey, karmaOpportunities, lastUpdated, loading }) {
+  const [done, setDone] = useState(() => {
+    try { return new Set(JSON.parse(localStorage.getItem("karma_done_ids") || "[]")); }
+    catch { return new Set(); }
+  });
 
-  const fetchPosts = useCallback(async () => {
-    setLoading(true);
-    setError(null);
-    try {
-      const all = [];
-      for (const sort of ["hot", "new"]) {
-        // Use corsproxy.io as fallback if allorigins fails
-        const redditUrl = "https://www.reddit.com/r/AskReddit/" + sort + "/.rss?limit=50";
-        const proxyUrl = "https://api.allorigins.win/get?url=" + encodeURIComponent(redditUrl);
+  const markDone = (id) => {
+    setDone((prev) => {
+      const next = new Set(prev);
+      next.add(id);
+      localStorage.setItem("karma_done_ids", JSON.stringify([...next]));
+      return next;
+    });
+  };
 
-        let xml = "";
-        try {
-          const res = await fetch(proxyUrl);
-          if (res.ok) {
-            const json = await res.json();
-            xml = json.contents ?? "";
-          }
-        } catch {
-          // Try backup proxy
-          try {
-            const res2 = await fetch("https://corsproxy.io/?" + encodeURIComponent(redditUrl));
-            if (res2.ok) xml = await res2.text();
-          } catch { continue; }
-        }
-
-        if (!xml) continue;
-
-        for (const match of xml.matchAll(/<entry>([\s\S]*?)<\/entry>/g)) {
-          const e = match[1];
-          const title = (e.match(/<title[^>]*>([\s\S]*?)<\/title>/) || [])[1]
-            ?.replace(/<!\[CDATA\[|\]\]>/g, "")?.trim() ?? "";
-          const link = (e.match(/<link[^>]*href="([^"]+)"/) || [])[1]?.trim() ?? "";
-          const updated = (e.match(/<updated>([\s\S]*?)<\/updated>/) || [])[1]?.trim() ?? "";
-          const idMatch = link.match(/comments\/([a-z0-9]+)\//);
-          const id = idMatch?.[1] ?? Math.random().toString(36).slice(2);
-
-          if (!title || !link) continue;
-
-          const engScore = scoreAskReddit(title);
-          if (engScore === 0) continue; // skip filtered posts
-
-          const createdAt = updated ? new Date(updated).getTime() : Date.now();
-          all.push({ id, title, body: "", url: link, createdAt, engScore });
-        }
-      }
-
-      // Deduplicate
-      const seen = new Set();
-      const deduped = all.filter((p) => {
-        if (seen.has(p.id)) return false;
-        seen.add(p.id);
-        return true;
-      });
-
-      // Sort by engagement score, show top 25
-      const sorted = deduped.sort((a, b) => b.engScore - a.engScore).slice(0, 25);
-
-      if (sorted.length === 0) {
-        setError("No posts loaded. Reddit may be blocking the proxy. Try refreshing in a moment.");
-      }
-
-      setPosts(sorted);
-      setLastFetch(new Date());
-    } catch (e) {
-      setError("Failed to load: " + e.message);
-    }
-    finally { setLoading(false); }
-  }, []);
-
-  useEffect(() => { fetchPosts(); }, [fetchPosts]);
+  const visible = karmaOpportunities
+    .filter((p) => !done.has(p.id))
+    .sort((a, b) => b.engScore - a.engScore);
 
   return (
     <div>
@@ -422,16 +367,16 @@ function AskRedditFeed({ groqKey }) {
         <div>
           <p style={{ margin: 0, fontSize: "13px", fontWeight: 700, color: "#f97316" }}>Karma Builder — r/AskReddit</p>
           <p style={{ margin: "2px 0 0", fontSize: "11px", color: "#475569" }}>
-            Ranked by engagement potential. Reply early → ride the upvotes.
-            {lastFetch ? " Fetched " + timeAgo(lastFetch.getTime()) : ""}
+            Ranked by engagement potential. Reply early to ride upvotes.
           </p>
+          {lastUpdated && (
+            <p style={{ margin: "2px 0 0", fontSize: "11px", color: "#475569" }}>
+              Last scan: {new Date(lastUpdated).toLocaleString()}
+            </p>
+          )}
         </div>
-        <button onClick={fetchPosts} disabled={loading} style={{ padding: "7px 14px", borderRadius: "7px", fontSize: "12px", fontWeight: 700, cursor: loading ? "not-allowed" : "pointer", background: "#1e293b", color: "#f97316", border: "1px solid #f9731644" }}>
-          {loading ? "Loading..." : "Refresh ↻"}
-        </button>
       </div>
 
-      {/* Legend */}
       <div style={{ display: "flex", gap: "12px", marginBottom: "14px", flexWrap: "wrap" }}>
         {[{ label: "🔥 High potential", color: "#00ff88" }, { label: "⚡ Medium", color: "#ffd166" }, { label: "💬 Low", color: "#64748b" }].map((l) => (
           <span key={l.label} style={{ fontSize: "10px", fontWeight: 700, color: l.color }}>{l.label}</span>
@@ -439,18 +384,30 @@ function AskRedditFeed({ groqKey }) {
       </div>
 
       {!groqKey && <p style={{ fontSize: "12px", color: "#fbbf24", marginBottom: "12px" }}>Add Groq API key in Settings to draft replies</p>}
-      {loading && <p style={{ textAlign: "center", padding: "40px 0", color: "#475569", fontSize: "13px" }}>Loading AskReddit posts...</p>}
-      {!loading && error && (
-        <div style={{ padding: "14px", borderRadius: "10px", background: "#ff4d6d11", border: "1px solid #ff4d6d33", marginBottom: "14px" }}>
-          <p style={{ margin: 0, fontSize: "13px", color: "#f87171" }}>{error}</p>
+
+      {loading && <p style={{ textAlign: "center", padding: "40px 0", color: "#475569", fontSize: "13px" }}>Loading...</p>}
+
+      {!loading && visible.length === 0 && (
+        <div style={{ textAlign: "center", padding: "60px 0", color: "#475569" }}>
+          <p style={{ fontSize: "28px" }}>🎯</p>
+          <p style={{ fontSize: "13px", margin: "6px 0 0" }}>No karma posts yet.</p>
+          <p style={{ fontSize: "11px", margin: "4px 0 0" }}>Run the GitHub Action to fetch AskReddit posts.</p>
         </div>
       )}
-      {!loading && !error && posts.length === 0 && (
-        <p style={{ textAlign: "center", padding: "40px 0", color: "#475569", fontSize: "13px" }}>No posts found. Try refreshing.</p>
-      )}
-      {posts.map((p) => {
+
+      {visible.map((p) => {
         const eng = engagementLabel(p.engScore);
-        return <AskRedditCard key={p.id} post={p} groqKey={groqKey} engLabel={eng.label} engColor={eng.color} />;
+        return (
+          <div key={p.id} style={{ position: "relative" }}>
+            <AskRedditCard post={p} groqKey={groqKey} engLabel={eng.label} engColor={eng.color} />
+            <button
+              onClick={() => markDone(p.id)}
+              style={{ position: "absolute", top: "14px", right: "14px", padding: "4px 10px", borderRadius: "6px", fontSize: "11px", fontWeight: 600, cursor: "pointer", background: "transparent", color: "#334155", border: "1px solid #1e293b" }}
+            >
+              Done
+            </button>
+          </div>
+        );
       })}
     </div>
   );
@@ -548,6 +505,7 @@ function SettingsPanel({ groqKey, setGroqKey, subreddits, setSubreddits, keyword
 export default function App() {
   const [tab, setTab] = useState("feed");
   const [opportunities, setOpportunities] = useState([]);
+  const [karmaOpportunities, setKarmaOpportunities] = useState([]);
   const [lastUpdated, setLastUpdated] = useState(null);
   const [loading, setLoading] = useState(true);
   const [fetchError, setFetchError] = useState(null);
@@ -579,7 +537,7 @@ export default function App() {
     setLoading(true);
     fetch(GITHUB_RAW_URL + "?t=" + Date.now())
       .then((r) => { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
-      .then((data) => { setOpportunities(data.opportunities || []); setLastUpdated(data.lastUpdated); setLoading(false); })
+      .then((data) => { setOpportunities(data.opportunities || []); setKarmaOpportunities(data.karmaOpportunities || []); setLastUpdated(data.lastUpdated); setLoading(false); })
       .catch((e) => { setFetchError(e.message); setLoading(false); });
   }, []);
 
@@ -655,7 +613,7 @@ export default function App() {
           </>
         )}
 
-        {tab === "karma" && <AskRedditFeed groqKey={groqKey} />}
+        {tab === "karma" && <AskRedditFeed groqKey={groqKey} karmaOpportunities={karmaOpportunities} lastUpdated={lastUpdated} loading={loading} />}
 
         {tab === "settings" && (
           <SettingsPanel
