@@ -1,7 +1,165 @@
 {
-  "lastUpdated": "2026-05-19T18:05:54.697Z",
-  "totalFound": 17,
+  "lastUpdated": "2026-05-19T21:19:56.572Z",
+  "totalFound": 7,
   "opportunities": [
+    {
+      "id": "1thwxlr",
+      "title": "Building a gamification API and second-guessing my own framework foundation. Octalysis vs Hexad vs SDT, which would you bet on?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Solo founder here, building in public &lt;a href=&quot;http://Hatched.live&quot;&gt;Hatched.live&lt;/a&gt;, a gamification API for B2B SaaS. The idea is to give product teams an engagement layer that adapts to their users instead of bolting on generic points and badges.&lt;/p&gt; &lt;p&gt;Here is the thing keeping me up at night.&lt;/p&gt; &lt;p&gt;When I look at what I have shipped so far, it feels like a widget. A pretty one, but st",
+      "url": "https://www.reddit.com/r/SaaS/comments/1thwxlr/building_a_gamification_api_and_secondguessing_my/",
+      "permalink": "/r/SaaS/comments/1thwxlr/building_a_gamification_api_and_secondguessing_my/",
+      "createdAt": 1779217671000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 4,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        },
+        {
+          "keyword": "building in public",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779225452477
+    },
+    {
+      "id": "1thvs26",
+      "title": "Built an AI cover letter tool as a side project. Now I actually want real users.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Founder here, disclosing affiliation per sub rules. &lt;/p&gt; &lt;p&gt;I spent 30 years in finance ops, not software. But I’ve been deep in AI and Python tooling at work for the past couple years and when my son started his job search I figured I’d build something instead of watching him suffer through cover letters one by one.&lt;/p&gt; &lt;p&gt;CoverDraft.ai is live. Paste your resume and the job posting, get a tailored cover lette",
+      "url": "https://www.reddit.com/r/SaaS/comments/1thvs26/built_an_ai_cover_letter_tool_as_a_side_project/",
+      "permalink": "/r/SaaS/comments/1thvs26/built_an_ai_cover_letter_tool_as_a_side_project/",
+      "createdAt": 1779215384000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779225452477
+    },
+    {
+      "id": "1thz11q",
+      "title": "Just Adding One More Side Project AI Form Builder (Part of my Shadcn Builder Trilogy)",
+      "body": "&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/SideProject/comments/1thz11q/just_adding_one_more_side_project_ai_form_builder/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/yDdfDHx189FX3xWZk1eS4-wE5q1_DGJnPTiW7ZyYGOQ.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d5b269aa52f84af75060e98a378a8a3ec436780b&quot; alt=&quot;Just Adding One More Side Project AI Form Builder (Part of my Shadcn Builder Trilogy)&quot; title=&quot;Just Adding One",
+      "url": "https://www.reddit.com/r/SideProject/comments/1thz11q/just_adding_one_more_side_project_ai_form_builder/",
+      "permalink": "/r/SideProject/comments/1thz11q/just_adding_one_more_side_project_ai_form_builder/",
+      "createdAt": 1779221951000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779225532111
+    },
+    {
+      "id": "1thvvu7",
+      "title": "How I Optimized My Landing Page Stack in 2026 (And a Verified 50% Carrd Promo Code for the Community)",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I wanted to share a quick breakdown of my recent side project stack. Like many of you, I use Carrd for launching fast, responsive MVPs and landing pages. It’s hands-down the best tool for validating ideas without breaking the bank.&lt;/p&gt; &lt;p&gt;While optimizing my latest build this month (May 2026), I managed to secure an official, high-tier partnership discount that I wanted to pass along to anyone looking to launch their next ",
+      "url": "https://www.reddit.com/r/SideProject/comments/1thvvu7/how_i_optimized_my_landing_page_stack_in_2026_and/",
+      "permalink": "/r/SideProject/comments/1thvvu7/how_i_optimized_my_landing_page_stack_in_2026_and/",
+      "createdAt": 1779215597000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779225532113
+    },
+    {
+      "id": "1thvs62",
+      "title": "We're building a platform to decentralize hardware",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;My friends and I have been spending a lot of time working on a side project, rentagpu.ai. The basic idea: there’s an insane amount of unused compute sitting around right now. People have 4090s, RTX Pros, Mac Studios, A100s, clusters, all mostly idle outside of a few hours a day.&lt;/p&gt; &lt;p&gt;At the same time, access to compute is becoming one of the biggest bottlenecks for developers, researchers, startups, students, basically a",
+      "url": "https://www.reddit.com/r/SideProject/comments/1thvs62/were_building_a_platform_to_decentralize_hardware/",
+      "permalink": "/r/SideProject/comments/1thvs62/were_building_a_platform_to_decentralize_hardware/",
+      "createdAt": 1779215390000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779225532113
+    },
+    {
+      "id": "1ti0642",
+      "title": "Day 4 - Trying to Build in Public",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;We have made considerable improvements in the forms.&lt;br/&gt; Our PR article is coming along nicely, should be published in the next few days.&lt;/p&gt; &lt;p&gt;FYI, Google launched a guide on AEO content optimization. I was thinking of breaking it down and adding some tips to it that might help others. &lt;/p&gt; &lt;p&gt;Questions: Should I make a lead magnet out of it and get emails from businesses or other creators, and when Bl",
+      "url": "https://www.reddit.com/r/SaaS/comments/1ti0642/day_4_trying_to_build_in_public/",
+      "permalink": "/r/SaaS/comments/1ti0642/day_4_trying_to_build_in_public/",
+      "createdAt": 1779224350000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 1,
+      "matched": [
+        {
+          "keyword": "build in public",
+          "category": "intent"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779225452476
+    },
+    {
+      "id": "1ti065w",
+      "title": "Day 4 - Trying to Build in Public",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;We have made considerable improvements in the forms.&lt;br/&gt; Our PR article is coming along nicely, should be published in the next few days.&lt;/p&gt; &lt;p&gt;FYI, Google launched a guide on AEO content optimization. I was thinking of breaking it down and adding some tips to it that might help others. &lt;/p&gt; &lt;p&gt;Questions: Should I make a lead magnet out of it and get emails from businesses or other creators, and when Bl",
+      "url": "https://www.reddit.com/r/SideProject/comments/1ti065w/day_4_trying_to_build_in_public/",
+      "permalink": "/r/SideProject/comments/1ti065w/day_4_trying_to_build_in_public/",
+      "createdAt": 1779224353000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 1,
+      "matched": [
+        {
+          "keyword": "build in public",
+          "category": "intent"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779225532111
+    },
     {
       "id": "1thu8q2",
       "title": "I built an AI board pack commentary generator for finance teams",
