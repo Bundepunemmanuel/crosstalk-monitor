@@ -53,10 +53,8 @@ function scorePost(title, body) {
   return { score, matched };
 }
 
-// Score AskReddit posts for karma/engagement potential
 function scoreAskReddit(title) {
   const t = title.toLowerCase();
-
   const skipWords = ["weekly", "daily thread", "mod ", "announcement", "megathread"];
   for (const s of skipWords) { if (t.includes(s)) return 0; }
 
@@ -151,7 +149,6 @@ async function fetchAskReddit() {
   console.log("\n[SCAN] r/AskReddit (karma builder)");
   const all = [];
   const seen = new Set();
-
   for (const sort of ["hot", "new"]) {
     const posts = await fetchRSS("AskReddit", sort);
     await sleep(DELAY_MS);
@@ -163,10 +160,7 @@ async function fetchAskReddit() {
       all.push({ ...post, engScore });
     }
   }
-
-  return all
-    .sort((a, b) => b.engScore - a.engScore)
-    .slice(0, 25);
+  return all.sort((a, b) => b.engScore - a.engScore).slice(0, 25);
 }
 
 // ─── MAIN ─────────────────────────────────────────────────────────────────────
@@ -174,6 +168,7 @@ async function fetchAskReddit() {
 async function run() {
   console.log("[START] Reddit monitor running...");
 
+  // Load existing data
   let existing = [];
   let existingKarma = [];
   try {
@@ -183,7 +178,9 @@ async function run() {
     existingKarma = parsed.karmaOpportunities ?? [];
   } catch { existing = []; existingKarma = []; }
 
-  const existingIds = new Set(existing.map((p) => p.id));
+  // ── FIX: only skip posts marked as done, not ALL existing posts ──
+  // This ensures new runs always re-evaluate fresh posts
+  const doneIds = new Set(existing.filter((p) => p.done).map((p) => p.id));
   const found = new Map();
 
   // ── Scan Crosstalk subreddits ──
@@ -195,7 +192,7 @@ async function run() {
     await sleep(DELAY_MS);
 
     for (const post of [...newPosts, ...hotPosts]) {
-      if (!post?.id || found.has(post.id) || existingIds.has(post.id)) continue;
+      if (!post?.id || found.has(post.id) || doneIds.has(post.id)) continue;
       const { score, matched } = scorePost(post.title, post.body);
       if (score === 0) continue;
       found.set(post.id, {
@@ -210,14 +207,15 @@ async function run() {
   console.log(`\n[FOUND] ${found.size} matching Crosstalk posts`);
 
   // ── Scan AskReddit for karma ──
-  const karmaposts = await fetchAskReddit();
-  console.log(`[FOUND] ${karmaposts.length} AskReddit karma posts`);
+  const karmaPosts = await fetchAskReddit();
+  console.log(`[FOUND] ${karmaPosts.length} AskReddit karma posts`);
 
-  // ── Merge Crosstalk opportunities ──
-  const sevenDaysAgo = Date.now() - 7 * 24 * 60 * 60 * 1000;
-  const kept = existing.filter((p) => !p.done || p.fetchedAt > sevenDaysAgo);
+  // ── Build final opportunities list ──
+  // New posts first, then existing undone posts, deduplicated
   const newList = [...found.values()].sort((a, b) => b.score - a.score);
-  const merged = [...newList, ...kept];
+  const existingUndone = existing.filter((p) => !p.done);
+  const merged = [...newList, ...existingUndone];
+
   const seen2 = new Set();
   const deduped = merged.filter((p) => {
     if (seen2.has(p.id)) return false;
@@ -225,10 +223,11 @@ async function run() {
     return true;
   });
 
-  // ── Merge karma posts (keep existing ones not yet done) ──
-  const existingKarmaIds = new Set(karmaposts.map((p) => p.id));
-  const keptKarma = existingKarma.filter((p) => !p.done && !existingKarmaIds.has(p.id));
-  const mergedKarma = [...karmaposts, ...keptKarma].slice(0, 40);
+  // ── Build final karma list ──
+  // Always replace with fresh AskReddit posts, keep undone old ones not in new batch
+  const newKarmaIds = new Set(karmaPosts.map((p) => p.id));
+  const keptKarma = existingKarma.filter((p) => !p.done && !newKarmaIds.has(p.id));
+  const mergedKarma = [...karmaPosts, ...keptKarma].slice(0, 40);
 
   // ── Save ──
   fs.mkdirSync(path.dirname(DATA_PATH), { recursive: true });
@@ -239,7 +238,7 @@ async function run() {
     karmaOpportunities: mergedKarma,
   }, null, 2));
 
-  console.log(`\n[DONE] ${newList.length} new Crosstalk posts. ${deduped.length} total. ${mergedKarma.length} karma posts.`);
+  console.log(`[DONE] ${newList.length} new posts. ${deduped.length} total. ${mergedKarma.length} karma posts.`);
 }
 
 run().catch((err) => {
