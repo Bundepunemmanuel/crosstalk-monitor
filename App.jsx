@@ -284,57 +284,6 @@ function engagementLabel(score) {
   if (score >= 5) return { label: "⚡ Medium", color: "#ffd166" };
   return { label: "💬 Low", color: "#64748b" };
 }
-  const t = title.toLowerCase();
-  let score = 0;
-
-  // Proven viral question formats
-  const viralFormats = [
-    "what is the most", "what are the most", "what was the most",
-    "men of reddit", "women of reddit", "people of reddit",
-    "people who", "those who", "anyone who",
-    "what's your", "what is your", "whats your",
-    "have you ever", "did you ever",
-    "what do you", "how do you",
-    "why do you", "when did you",
-    "what would you", "if you could",
-    "what made you", "what was it like",
-  ];
-  for (const f of viralFormats) { if (t.includes(f)) { score += 3; break; } }
-
-  // Emotional trigger words that drive engagement
-  const emotional = [
-    "embarrassing", "embarrassed", "awkward", "regret", "regrets",
-    "proud", "terrifying", "terrified", "scary", "horrifying",
-    "crazy", "insane", "wild", "shocking", "unbelievable",
-    "honest", "honestly", "truth", "reality", "actually",
-    "worst", "best", "funniest", "strangest", "weirdest",
-    "secret", "never told", "finally", "confess", "admit",
-  ];
-  for (const e of emotional) { if (t.includes(e)) { score += 2; break; } }
-
-  // Relatable universal topics
-  const relatable = [
-    "job", "work", "boss", "coworker", "office",
-    "relationship", "partner", "date", "dating", "ex",
-    "family", "parent", "mom", "dad", "sibling", "childhood",
-    "money", "salary", "debt", "rich", "poor",
-    "school", "teacher", "college", "student",
-    "friend", "friendship", "social",
-    "food", "eating", "drink",
-    "sleep", "tired", "habit",
-  ];
-  for (const r of relatable) { if (t.includes(r)) { score += 1; break; } }
-
-  // Short punchy titles perform better
-  if (title.length < 80) score += 2;
-  else if (title.length < 120) score += 1;
-
-  // Filter out low quality
-  const skipWords = ["weekly", "daily thread", "mod ", "announcement", "megathread", "ama:", "[serious]"];
-  for (const s of skipWords) { if (t.includes(s)) return 0; }
-
-  return score;
-}
 
 function engagementLabel(score) {
   if (score >= 7) return { label: "🔥 High", color: "#00ff88" };
