@@ -1,7 +1,381 @@
 {
-  "lastUpdated": "2026-05-19T14:57:12.676Z",
-  "totalFound": 7,
+  "lastUpdated": "2026-05-19T18:05:54.697Z",
+  "totalFound": 17,
   "opportunities": [
+    {
+      "id": "1thu8q2",
+      "title": "I built an AI board pack commentary generator for finance teams",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;FP&amp;amp;A/Commercial Finance Analyst here. I was tired of spending hours writing the same monthly commentary. variance up, costs down etc. It got quite repetitive! &lt;/p&gt; &lt;p&gt;Built BoardPack Pro to do it in minutes. Input your P&amp;amp;L and KPIs, get board ready commentary. Can export into a PDF, PPT and Excel! Would appreciate any feedback and how to best grow this? &lt;/p&gt; &lt;p&gt;Built it as a side project/a bit o",
+      "url": "https://www.reddit.com/r/SaaS/comments/1thu8q2/i_built_an_ai_board_pack_commentary_generator_for/",
+      "permalink": "/r/SaaS/comments/1thu8q2/i_built_an_ai_board_pack_commentary_generator_for/",
+      "createdAt": 1779212366000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779213812367
+    },
+    {
+      "id": "1thtbrp",
+      "title": "I got sick of dodgy download sites and Adobe Media Encoder, so I built my own desktop app. Looking for people to get involved!",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey guys,&lt;/p&gt; &lt;p&gt;For the last few months, I’ve been working on a side project. It’s a Windows desktop app built for video editors, clippers, and creators.&lt;/p&gt; &lt;p&gt;Honestly, I only built this because my own workflow was driving me crazy. I was so tired of using sketchy, ad-filled websites just to grab source clips, waiting forever on Adobe Media Encoder, and juggling Handbrake just to compress a file. I just want",
+      "url": "https://www.reddit.com/r/SaaS/comments/1thtbrp/i_got_sick_of_dodgy_download_sites_and_adobe/",
+      "permalink": "/r/SaaS/comments/1thtbrp/i_got_sick_of_dodgy_download_sites_and_adobe/",
+      "createdAt": 1779210523000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779213812367
+    },
+    {
+      "id": "1thsq2l",
+      "title": "What I built when I realized I was using 5 tools per job application",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Solo founder. Spent the last 4 months building a Chrome extension to solve a workflow problem most people don&amp;#39;t articulate clearly:&lt;br/&gt; Applying to ONE job in 2026 involves at minimum:&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Open the JD on LinkedIn, Wellfound, Indeed, Greenhouse, or a company careers page&lt;/li&gt; &lt;li&gt;Copy-paste the JD into Jobscan or Skillsyncer to check ATS compatibility&lt;/li&gt; &lt;li&gt;Open Rezi ",
+      "url": "https://www.reddit.com/r/SaaS/comments/1thsq2l/what_i_built_when_i_realized_i_was_using_5_tools/",
+      "permalink": "/r/SaaS/comments/1thsq2l/what_i_built_when_i_realized_i_was_using_5_tools/",
+      "createdAt": 1779209319000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779213812367
+    },
+    {
+      "id": "1thuqzj",
+      "title": "I launched a hosted MCP server 5 days ago — solo founder, MBA in marketing, no CS degree. Here's what I learned about MCP distribution",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Background: 18 months ago I was an export agent at a cargo company with zero coding background. MBA in marketing. Built solo at night using Claude as my engineering team.&lt;/p&gt; &lt;p&gt;5 days ago I shipped Hooklayer — a hosted MCP server with 7 chainable tools for TikTok viral content intelligence. Now live on Anthropic&amp;#39;s official MCP Registry, Glama, Smithery (98/100 quality), mcpservers.org.&lt;/p&gt; &lt;p&gt;The diffe",
+      "url": "https://www.reddit.com/r/SideProject/comments/1thuqzj/i_launched_a_hosted_mcp_server_5_days_ago_solo/",
+      "permalink": "/r/SideProject/comments/1thuqzj/i_launched_a_hosted_mcp_server_5_days_ago_solo/",
+      "createdAt": 1779213362000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779213891243
+    },
+    {
+      "id": "1thufco",
+      "title": "I built a tool that scraps the guesswork from SaaS ideation by turning web complaints into validated blueprints",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey everyone,&lt;/p&gt; &lt;p&gt;Like most of us here, I’ve spent months building side projects in the past only to launch them to absolute crickets. It’s a terrible feeling. We get an idea, get hyper-focused on the tech stack, ship it, and realize nobody asked for it.&lt;/p&gt; &lt;p&gt;I wanted to solve my own problem, so I built &lt;strong&gt;PainSignal&lt;/strong&gt; (&lt;a href=&quot;https://painsignal.cloud/&quot;&gt;https://pai",
+      "url": "https://www.reddit.com/r/SideProject/comments/1thufco/i_built_a_tool_that_scraps_the_guesswork_from/",
+      "permalink": "/r/SideProject/comments/1thufco/i_built_a_tool_that_scraps_the_guesswork_from/",
+      "createdAt": 1779212734000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779213891243
+    },
+    {
+      "id": "1thu9i0",
+      "title": "I built a rough AI tee generator for pets / memes / inside jokes. Is the core loop fun or confusing?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’m testing a small side project: upload a pet photo, meme, photo, or inside joke, and it generates 6 tee design directions + a shirt mockup.&lt;/p&gt; &lt;p&gt;I’m not sure if the fun part is: 1. making fake merch for your friend group 2. turning pets into meme shirts 3. remixing existing templates&lt;/p&gt; &lt;p&gt;Would love blunt feedback on whether the first 30 seconds make sense.&lt;/p&gt; &lt;p&gt;Demo: &lt;a href=&quot;https:",
+      "url": "https://www.reddit.com/r/SideProject/comments/1thu9i0/i_built_a_rough_ai_tee_generator_for_pets_memes/",
+      "permalink": "/r/SideProject/comments/1thu9i0/i_built_a_rough_ai_tee_generator_for_pets_memes/",
+      "createdAt": 1779212410000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779213891243
+    },
+    {
+      "id": "1thttrm",
+      "title": "Started as a side project, rejected by YC, went on to hit 2B here are the startups that got told no and kept going anyway",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;This one&amp;#39;s for everyone building something on the side while YC applications open and close every few months.&lt;/p&gt; &lt;p&gt;There&amp;#39;s this unseen pressure in the indie/side project world that &amp;quot;real&amp;quot; startups go through accelerators. That if YC doesn&amp;#39;t pick you, your idea probably isn&amp;#39;t worth pursuing. I want to push back on that with actual examples.&lt;/p&gt; &lt;p&gt;&lt;strong&gt",
+      "url": "https://www.reddit.com/r/SideProject/comments/1thttrm/started_as_a_side_project_rejected_by_yc_went_on/",
+      "permalink": "/r/SideProject/comments/1thttrm/started_as_a_side_project_rejected_by_yc_went_on/",
+      "createdAt": 1779211543000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779213891243
+    },
+    {
+      "id": "1thtbjw",
+      "title": "Built an AI narrative story maker because life lacks adventure, looking for feedback",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;So I built this little thing called an AI narrative story maker and I want to be honest about why.&lt;/p&gt; &lt;p&gt;I grew up on fantasy books, manga, manhwa, anime, JRPGs, MMOs, and like every kid who reads too much, I spent half my brain wondering what I would do if I were in there. What would I do at that tavern? Which side would I pick? Would I trust the cursed knight? Childish, sure, but if you&amp;#39;re reading this you&amp;#",
+      "url": "https://www.reddit.com/r/SideProject/comments/1thtbjw/built_an_ai_narrative_story_maker_because_life/",
+      "permalink": "/r/SideProject/comments/1thtbjw/built_an_ai_narrative_story_maker_because_life/",
+      "createdAt": 1779210511000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "maker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779213891243
+    },
+    {
+      "id": "1ths802",
+      "title": "Building an AI IELTS evaluator made me realize how hard scoring Writing actually is",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Over the last few months I’ve been building an AI-powered IELTS practice/evaluation platform as a side project.&lt;/p&gt; &lt;p&gt;At first I thought:&lt;/p&gt; &lt;p&gt;“Just send the essay to GPT and get a band score.”&lt;/p&gt; &lt;p&gt;Turns out it’s MUCH harder than that 😅&lt;/p&gt; &lt;p&gt;Biggest problems I ran into:&lt;/p&gt; &lt;p&gt;- inconsistent Task Response scoring&lt;/p&gt; &lt;p&gt;- generic repetitive feedback&lt;/p",
+      "url": "https://www.reddit.com/r/SideProject/comments/1ths802/building_an_ai_ielts_evaluator_made_me_realize/",
+      "permalink": "/r/SideProject/comments/1ths802/building_an_ai_ielts_evaluator_made_me_realize/",
+      "createdAt": 1779208288000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779213891243
+    },
+    {
+      "id": "1thqzvj",
+      "title": "I wrote about why GA4 is the wrong tool for indie projects",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Spent time breaking down exactly why GA4 fails solo founders and reviewed the privacy-first alternatives fairly, including tools I compete with. Would love feedback from people who&amp;#39;ve dealt with this. &lt;a href=&quot;http://statjot.com/blog/google-analytics-alternative&quot;&gt;statjot.com/blog/google-analytics-alternative&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;h",
+      "url": "https://www.reddit.com/r/SideProject/comments/1thqzvj/i_wrote_about_why_ga4_is_the_wrong_tool_for_indie/",
+      "permalink": "/r/SideProject/comments/1thqzvj/i_wrote_about_why_ga4_is_the_wrong_tool_for_indie/",
+      "createdAt": 1779205787000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779213891244
+    },
+    {
+      "id": "1thqzf2",
+      "title": "How my personal side project accidentally became my main project",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’m a 60-year-old engineer/founder/startup vet, and I’ve been building software for a long time.&lt;/p&gt; &lt;p&gt;Earlier in my career, I started NetZero with some friends - the free internet service that helped millions of Americans get online during the Web 1.0 dial-up era.&lt;/p&gt; &lt;p&gt;A couple decades later, I’m still coding and building.&lt;/p&gt; &lt;p&gt;This started as a personal side project.&lt;/p&gt; &lt;p&gt;I was ",
+      "url": "https://www.reddit.com/r/SideProject/comments/1thqzf2/how_my_personal_side_project_accidentally_became/",
+      "permalink": "/r/SideProject/comments/1thqzf2/how_my_personal_side_project_accidentally_became/",
+      "createdAt": 1779205760000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779213891244
+    },
+    {
+      "id": "1thqwev",
+      "title": "I built a Python CLI that generates Shakespearean, corporate, Gen Z and sarcastic insults with heat scoring and rhyme detection. Here are some of the outputs.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Been working on a side project called Roast Machine.&lt;/p&gt; &lt;p&gt;It generates insults across 6 tones from the command line:&lt;/p&gt; &lt;p&gt;😐 Sarcastic — dry, deadpan, weaponised politeness&lt;/p&gt; &lt;p&gt;🎭 Shakespearean — thee, thou, and ruin&lt;/p&gt; &lt;p&gt;💼 Corporate — passive-aggressive office speak&lt;/p&gt; &lt;p&gt;💀 Gen Z — chaotic internet energy &lt;/p&gt; &lt;p&gt;🎬 Dramatic — every word is a monologu",
+      "url": "https://www.reddit.com/r/SideProject/comments/1thqwev/i_built_a_python_cli_that_generates_shakespearean/",
+      "permalink": "/r/SideProject/comments/1thqwev/i_built_a_python_cli_that_generates_shakespearean/",
+      "createdAt": 1779205584000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779213891244
+    },
+    {
+      "id": "1thqsdm",
+      "title": "Let’s see 1k in a year",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi, I am Gazi, a student of Daejin University, South Korea.&lt;/p&gt; &lt;p&gt;I have been trying to build something that might give me a bit of financial freedom and i also love doing.&lt;/p&gt; &lt;p&gt;I started off with Wordpress blog and my niece is travel - &lt;a href=&quot;https://unravelkorea.com/&quot;&gt;unravelkorea.com&lt;/a&gt; is my first side project. It still makes money but not huge that can give me financial freedom.",
+      "url": "https://www.reddit.com/r/SideProject/comments/1thqsdm/lets_see_1k_in_a_year/",
+      "permalink": "/r/SideProject/comments/1thqsdm/lets_see_1k_in_a_year/",
+      "createdAt": 1779205359000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779213891244
+    },
+    {
+      "id": "1thqbhz",
+      "title": "Looking for contributors: Mnemo - persistent memory for AI coding agents",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’ve been building Mnemo as a side project — it gives AI coding agents persistent memory so they stop forgetting everything between sessions. No cloud, no API keys, fully local.&lt;/p&gt; &lt;p&gt;The problem it solves:&lt;/p&gt; &lt;p&gt;Every new chat session, your AI agent has zero context. You re-explain your architecture, re-discover the same bugs, re-teach the same conventions. Mnemo fixes this by silently capturing decisions as",
+      "url": "https://www.reddit.com/r/SideProject/comments/1thqbhz/looking_for_contributors_mnemo_persistent_memory/",
+      "permalink": "/r/SideProject/comments/1thqbhz/looking_for_contributors_mnemo_persistent_memory/",
+      "createdAt": 1779204386000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779213891244
+    },
+    {
+      "id": "1thpfuz",
+      "title": "Can't find a good idea for your next side project? This &quot;problem-matching&quot; concept is thought-provoking.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;How many of us have been there? You&amp;#39;re itching to start a new side project, learn a new skill, or just build something cool, but the hardest part is often figuring out what to build. The dreaded &amp;quot;I want to create a web app but I don&amp;#39;t know which idea to pursue&amp;quot; scenario. I recently came across a really innovative concept for tackling this, and I wanted to share it here for discussion: It&amp;#39;s env",
+      "url": "https://www.reddit.com/r/SideProject/comments/1thpfuz/cant_find_a_good_idea_for_your_next_side_project/",
+      "permalink": "/r/SideProject/comments/1thpfuz/cant_find_a_good_idea_for_your_next_side_project/",
+      "createdAt": 1779202567000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779213891244
+    },
+    {
+      "id": "1thpk54",
+      "title": "Let's promote",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Here are my side projects:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://www.google.com/search?q=nxgntools.com&quot;&gt;NextGen Tools&lt;/a&gt; - A product hunt alternative | Launch your apps here&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://clearity.nxgntools.com/home&quot;&gt;Clearity&lt;/a&gt; - Self help CBT journal&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Comment yours below. Thanks.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &",
+      "url": "https://www.reddit.com/r/SideProject/comments/1thpk54/lets_promote/",
+      "permalink": "/r/SideProject/comments/1thpk54/lets_promote/",
+      "createdAt": 1779202816000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779213891244
+    },
+    {
+      "id": "1thtzd7",
+      "title": "How are we as digital marketers starting to factor LLM discoverability into our content strategies?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;The agency I work at was recently passing around a recent study from Semrush, and it had some interesting insights for B2B brands. As AI tools become a bigger discovery engine for buyers, execs, and decision-makers, our content isn’t just being consumed by people, it’s being indexed and reinterpreted by LLMs too.&lt;/p&gt; &lt;p&gt;One of the biggest takeaways (and you’re probably already seeing this in your own AI search results): Li",
+      "url": "https://www.reddit.com/r/linkedin/comments/1thtzd7/how_are_we_as_digital_marketers_starting_to/",
+      "permalink": "/r/linkedin/comments/1thtzd7/how_are_we_as_digital_marketers_starting_to/",
+      "createdAt": 1779211854000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "linkedin",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "maker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779213929595
+    },
     {
       "id": "1tho8lo",
       "title": "I’m looking for 15 beta testers for Flash7, an AI-powered financial management tool built for freelancers and solopreneurs, an AI-powered financial management tool built for freelancers and solopreneurs who deal with receipts, invoices, bookkeeping, and so on.",
