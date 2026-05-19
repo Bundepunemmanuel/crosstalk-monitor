@@ -1,7 +1,95 @@
 {
-  "lastUpdated": "2026-05-19T04:31:41.975Z",
-  "totalFound": 1,
+  "lastUpdated": "2026-05-19T07:45:36.375Z",
+  "totalFound": 4,
   "opportunities": [
+    {
+      "id": "1thfrig",
+      "title": "I made a Scrabble Solver",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Just for fun, I&amp;#39;ve been working on a side project that&amp;#39;ll show you your 10 highest-scoring possible moves based on your current board and rack:) I&amp;#39;ve got all the logic worked out, and command line interactions. Now I&amp;#39;m just doing some unit tests/refactoring before I put some gui to it. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/us",
+      "url": "https://www.reddit.com/r/SideProject/comments/1thfrig/i_made_a_scrabble_solver/",
+      "permalink": "/r/SideProject/comments/1thfrig/i_made_a_scrabble_solver/",
+      "createdAt": 1779176596000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779176671992
+    },
+    {
+      "id": "1thefz1",
+      "title": "Founders and indie hackers — what browser problems slow down your work?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;ul&gt; &lt;li&gt;Do you context switch between multiple projects in the browser daily?&lt;/li&gt; &lt;li&gt;How do you keep research, tools, and docs organized per project?&lt;/li&gt; &lt;li&gt;Do you wish your browser knew which project you were working on?&lt;/li&gt; &lt;li&gt;What would a browser built specifically for builders look like to you?&lt;/li&gt; &lt;/ul&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt",
+      "url": "https://www.reddit.com/r/SideProject/comments/1thefz1/founders_and_indie_hackers_what_browser_problems/",
+      "permalink": "/r/SideProject/comments/1thefz1/founders_and_indie_hackers_what_browser_problems/",
+      "createdAt": 1779172163000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "indie hacker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779176671993
+    },
+    {
+      "id": "1thckiy",
+      "title": "What’s the startup you still think about even though you abandoned it?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’ve noticed something weird about side projects.&lt;/p&gt; &lt;p&gt;The successful ones get remembered forever.&lt;/p&gt; &lt;p&gt;But the abandoned ones usually disappear completely — even though they often contain the most honest founder stories.&lt;/p&gt; &lt;p&gt;I’m not talking about:&lt;/p&gt; &lt;p&gt;“haha my idea failed.”&lt;/p&gt; &lt;p&gt;I mean projects that:&lt;/p&gt; &lt;p&gt;- almost worked&lt;/p&gt; &lt;p&gt;- got rea",
+      "url": "https://www.reddit.com/r/SideProject/comments/1thckiy/whats_the_startup_you_still_think_about_even/",
+      "permalink": "/r/SideProject/comments/1thckiy/whats_the_startup_you_still_think_about_even/",
+      "createdAt": 1779166379000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779176671993
+    },
+    {
+      "id": "1thdlc3",
+      "title": "Why is everything AI…",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’ve logged in for the first time in a couple of months. I work in film, so I naturally follow a lot of filmmakers from around the world. Most of which are now fully immersed into implementing AI into filmmaking. &lt;/p&gt; &lt;p&gt;Sorry not just implementing, fully creating the piece of work. &lt;/p&gt; &lt;p&gt;“You can’t call them AI film now, they are just… Films” &lt;/p&gt; &lt;p&gt;I’m seeing this slop on every post, people are",
+      "url": "https://www.reddit.com/r/linkedin/comments/1thdlc3/why_is_everything_ai/",
+      "permalink": "/r/linkedin/comments/1thdlc3/why_is_everything_ai/",
+      "createdAt": 1779169466000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "linkedin",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "maker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779176711017
+    },
     {
       "id": "1thc2mi",
       "title": "Feeling played by a “struggling” SaaS founder lesson learned",
