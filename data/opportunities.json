@@ -1,7 +1,29 @@
 {
-  "lastUpdated": "2026-05-20T02:57:46.012Z",
-  "totalFound": 7,
+  "lastUpdated": "2026-05-20T07:43:28.628Z",
+  "totalFound": 1,
   "opportunities": [
+    {
+      "id": "1tiaf45",
+      "title": "My between-jobs side project to help tech workers know what they're worth.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I started &lt;a href=&quot;https://proving.app&quot;&gt;Proving&lt;/a&gt; as a side-project while I was between jobs to try and help people get paid fairly and stay up-to-date on the state of the tech industry. This is a nights &amp;amp; weekends project for me. Currently a paid product with a 7-day free trial but I&amp;#39;m considering either lowering the price or going full free with value-add upsells. Not looking to get rich, most",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tiaf45/my_betweenjobs_side_project_to_help_tech_workers/",
+      "permalink": "/r/SideProject/comments/1tiaf45/my_betweenjobs_side_project_to_help_tech_workers/",
+      "createdAt": 1779249842000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779262945576
+    },
     {
       "id": "1ti6ful",
       "title": "How did you get your first users organically as a solo founder?",
