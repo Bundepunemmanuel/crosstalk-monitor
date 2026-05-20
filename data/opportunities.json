@@ -1,6 +1,2226 @@
 {
-  "lastUpdated": null,
-  "totalFound": 0,
-  "opportunities": []
+  "lastUpdated": "2026-05-20T21:40:41.721Z",
+  "totalFound": 87,
+  "opportunities": [
+    {
+      "id": "1ti6ful",
+      "title": "How did you get your first users organically as a solo founder?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’m a solo developer currently building a mobile app and planning to launch in about 3 weeks. I decided to start with Android first, then move to iOS later since my budget is limited.&lt;/p&gt; &lt;p&gt;I’m curious how other solopreneurs got their first organic users without spending much money on ads.&lt;/p&gt; &lt;p&gt;Did you use Reddit, TikTok, SEO, communities, content marketing, referrals, Product Hunt, or something else?&lt;/p&",
+      "url": "https://www.reddit.com/r/SaaS/comments/1ti6ful/how_did_you_get_your_first_users_organically_as_a/",
+      "permalink": "/r/SaaS/comments/1ti6ful/how_did_you_get_your_first_users_organically_as_a/",
+      "createdAt": 1779239320000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 4,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        },
+        {
+          "keyword": "solopreneur",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313067874
+    },
+    {
+      "id": "1tizg6l",
+      "title": "Launched on Product Hunt, got 200 upvotes, and then... radio silence. Anyone else hit this wall?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;So I launched my side project a few months back. Spent weeks prepping the PH post, got all my friends to upvote it, hit #3 for the day, felt like a king for about 6 hours.&lt;/p&gt; &lt;p&gt;Then the next day happened. Then the next week. Then a month.&lt;/p&gt; &lt;p&gt;Crickets.&lt;/p&gt; &lt;p&gt;I kept building. Added features people asked for. Fixed bugs. But there&amp;#39;s no place to &lt;em&gt;show&lt;/em&gt; that work. PH is ",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tizg6l/launched_on_product_hunt_got_200_upvotes_and_then/",
+      "permalink": "/r/SaaS/comments/1tizg6l/launched_on_product_hunt_got_200_upvotes_and_then/",
+      "createdAt": 1779312001000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313067871
+    },
+    {
+      "id": "1tiwtkp",
+      "title": "I built a SaaS that makes marketing as easy as vibe coding",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;m 16 and I&amp;#39;ve been building in SaaS for a little over a year now.&lt;/p&gt; &lt;p&gt;Here&amp;#39;s what I noticed: Claude Code and Cursor completely changed how solo founders ship product. You describe what you want, the AI handles 90% of the work, you review and approve. Nobody calls this &amp;quot;lazy&amp;quot; anymore it&amp;#39;s just the new default.&lt;/p&gt; &lt;p&gt;But marketing? Still completely manual. S",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tiwtkp/i_built_a_saas_that_makes_marketing_as_easy_as/",
+      "permalink": "/r/SaaS/comments/1tiwtkp/i_built_a_saas_that_makes_marketing_as_easy_as/",
+      "createdAt": 1779306608000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313067871
+    },
+    {
+      "id": "1tituxb",
+      "title": "need help setting up Lemonsqeezy anyone from India",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;h1&gt;need help setting up anyone from India&lt;/h1&gt; &lt;p&gt;Pls dm or comment I want to understand few things&lt;/p&gt; &lt;p&gt;i dont have GST or registered business Just an indie hacker, any other alternative&lt;/p&gt; &lt;p&gt;rezorpay and dodopayments both asking for GST&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Creepy_Intention837&quot;&gt; /u/Creepy_",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tituxb/need_help_setting_up_lemonsqeezy_anyone_from_india/",
+      "permalink": "/r/SaaS/comments/1tituxb/need_help_setting_up_lemonsqeezy_anyone_from_india/",
+      "createdAt": 1779300624000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "indie hacker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313067871
+    },
+    {
+      "id": "1tisrk8",
+      "title": "Built an AI tool to automate Saas launches across different Authoritative directories",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi everyone,&lt;/p&gt; &lt;p&gt;a weeks ago I was building building a Saas platform for writers but distribution became the hardest part because I was a solo founder and I wanted to launch across different distribution platforms like etc to improve my visibility but it was so exhaustive so I built which I used to launch across different directories.&lt;/p&gt; &lt;p&gt;AI that makes it simple for submission. I found a cofounder to help",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tisrk8/built_an_ai_tool_to_automate_saas_launches_across/",
+      "permalink": "/r/SaaS/comments/1tisrk8/built_an_ai_tool_to_automate_saas_launches_across/",
+      "createdAt": 1779298396000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313067872
+    },
+    {
+      "id": "1tis6lt",
+      "title": "I made an easy to use diagram tool that’s quick to get started with",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’m starting a side project with a friend, and while choosing tools for planning and flow diagramming, I realized most popular diagramming tools feel too bloated when all we want is to lay down ideas quickly.&lt;/p&gt; &lt;p&gt;So I built a small browser-based tool which I called Ideagram for sketching interaction flows quickly.&lt;/p&gt; &lt;p&gt;The idea is pretty simple: instead of giving you a bunch of shapes, templates, and forma",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tis6lt/i_made_an_easy_to_use_diagram_tool_thats_quick_to/",
+      "permalink": "/r/SaaS/comments/1tis6lt/i_made_an_easy_to_use_diagram_tool_thats_quick_to/",
+      "createdAt": 1779297219000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313067872
+    },
+    {
+      "id": "1tiqb9b",
+      "title": "The problem is probably real, but visibility isn't converting to signups. What did you change?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;m a solo founder. Shipped a niche B2C SaaS a few weeks ago, developed for ~2 months — a logbook / record-keeping tool for a motorsport hobby, small and well-defined market.&lt;/p&gt; &lt;p&gt;Distribution is where I&amp;#39;m stuck, and I want to sanity-check my thinking with people who&amp;#39;ve actually been through it.&lt;/p&gt; &lt;p&gt;Here&amp;#39;s the specific thing bugging me. I&amp;#39;ve been reading the communit",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tiqb9b/the_problem_is_probably_real_but_visibility_isnt/",
+      "permalink": "/r/SaaS/comments/1tiqb9b/the_problem_is_probably_real_but_visibility_isnt/",
+      "createdAt": 1779293402000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313067872
+    },
+    {
+      "id": "1tcmvc6",
+      "title": "r/SaaS v2 is Building in Public - month 1",
+      "body": "&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/SaaS/comments/1tcmvc6/rsaas_v2_is_building_in_public_month_1/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/4rgzpy90111h1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=fa5755c4b91aa6ec2cb5e1d3944f4010410f64a1&quot; alt=&quot;r/SaaS v2 is Building in Public - month 1&quot; title=&quot;r/SaaS v2 is Building in Public - month 1&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div c",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tcmvc6/rsaas_v2_is_building_in_public_month_1/",
+      "permalink": "/r/SaaS/comments/1tcmvc6/rsaas_v2_is_building_in_public_month_1/",
+      "createdAt": 1778731295000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "building in public",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313067873
+    },
+    {
+      "id": "1tgjf75",
+      "title": "72 hours after Product Hunt #5. The story continues!",
+      "body": "&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/indiehackers/comments/1tgjf75/72_hours_after_product_hunt_5_the_story_continues/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/1xyizz99pv1h1.png?width=140&amp;amp;height=57&amp;amp;auto=webp&amp;amp;s=5300b4ec50412ba9a5f77579a31cb06ae228a6b6&quot; alt=&quot;72 hours after Product Hunt #5. The story continues!&quot; title=&quot;72 hours after Product Hunt #5. The story continues!&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&",
+      "url": "https://www.reddit.com/r/indiehackers/comments/1tgjf75/72_hours_after_product_hunt_5_the_story_continues/",
+      "permalink": "/r/indiehackers/comments/1tgjf75/72_hours_after_product_hunt_5_the_story_continues/",
+      "createdAt": 1779102833000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "indiehackers",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "indiehacker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313090555
+    },
+    {
+      "id": "1tgdg1t",
+      "title": "Transitioning from a builder to a founder mindset",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi dear Indiehacker community!&lt;/p&gt; &lt;p&gt;The past 2 weeks or so have been quite a transition for my mindset towards what to build. I used to build something I thought was cool and could &amp;quot;seemingly&amp;quot; solve a lot of problems, but when it came to distribution, I always hit a wall. People would react with nice words, they thought the product was awesome, my builder skills were great, but then... nothing. I realiz",
+      "url": "https://www.reddit.com/r/indiehackers/comments/1tgdg1t/transitioning_from_a_builder_to_a_founder_mindset/",
+      "permalink": "/r/indiehackers/comments/1tgdg1t/transitioning_from_a_builder_to_a_founder_mindset/",
+      "createdAt": 1779083396000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "indiehackers",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "indiehacker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313090555
+    },
+    {
+      "id": "1tdt6s9",
+      "title": "We got #5 on Product Hunt yesterday. Here’s the real how and the results.",
+      "body": "&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/indiehackers/comments/1tdt6s9/we_got_5_on_product_hunt_yesterday_heres_the_real/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/W2srdWPMx3cUb6ysnIwrRzJD2Rm7rbBGIho67uqL0kE.png?width=140&amp;amp;height=70&amp;amp;auto=webp&amp;amp;s=446605217568ac566b1a3a07c5e77a68376735e0&quot; alt=&quot;We got #5 on Product Hunt yesterday. Here’s the real how and the results.&quot; title=&quot;We got #5 on Product Hunt ye",
+      "url": "https://www.reddit.com/r/indiehackers/comments/1tdt6s9/we_got_5_on_product_hunt_yesterday_heres_the_real/",
+      "permalink": "/r/indiehackers/comments/1tdt6s9/we_got_5_on_product_hunt_yesterday_heres_the_real/",
+      "createdAt": 1778843663000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "indiehackers",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "indiehacker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313090555
+    },
+    {
+      "id": "1tdpg1s",
+      "title": "month 1 building in public. 0 to 128 waitlist signups. here's what actually worked.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;My product is &lt;a href=&quot;http://vibepromote.vercel.app&quot;&gt;Vibe Promote&lt;/a&gt; marketing automation tool for app and saas founders who love building but hate marketing &lt;/p&gt; &lt;p&gt;week 1- 4 signups. posted on reddit twice. both flopped&lt;/p&gt; &lt;p&gt;week 2- 9 signups. started replying to threads instead of posting. way better.&lt;/p&gt; &lt;p&gt;week 3: 54 signups. changed my positioning from vague to specif",
+      "url": "https://www.reddit.com/r/indiehackers/comments/1tdpg1s/month_1_building_in_public_0_to_128_waitlist/",
+      "permalink": "/r/indiehackers/comments/1tdpg1s/month_1_building_in_public_0_to_128_waitlist/",
+      "createdAt": 1778831573000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "indiehackers",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "building in public",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313090555
+    },
+    {
+      "id": "1t9yc6i",
+      "title": "230+ Free Services offered by other founders. This week you got AI Automation, Find first 10 users, Promo video for your SaaS, Tik Tok outreach, Market research, Conversion bottleneck analysis, SEO consulting and more...",
+      "body": "&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/indiehackers/comments/1t9yc6i/230_free_services_offered_by_other_founders_this/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/kSKNFH3hf8Y85aG2tRQk2rdqvGYcHbSqtDZaUrz6pfU.png?width=140&amp;amp;height=70&amp;amp;auto=webp&amp;amp;s=89dd6768f87cc8c1925b4d3eb9b17b2bd402cd50&quot; alt=&quot;230+ Free Services offered by other founders. This week you got AI Automation, Find first 10 users, Promo video for your ",
+      "url": "https://www.reddit.com/r/indiehackers/comments/1t9yc6i/230_free_services_offered_by_other_founders_this/",
+      "permalink": "/r/indiehackers/comments/1t9yc6i/230_free_services_offered_by_other_founders_this/",
+      "createdAt": 1778492334000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "indiehackers",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "indiehacker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313090556
+    },
+    {
+      "id": "1t92le5",
+      "title": "Benchmarked every paid tool directory with DR &gt; 60 (May 2026)",
+      "body": "&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/indiehackers/comments/1t92le5/benchmarked_every_paid_tool_directory_with_dr_60/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/s4p844yn7a0h1.png?width=140&amp;amp;height=105&amp;amp;auto=webp&amp;amp;s=62caa402c1579d63bcfa4462dbd4a449abe8aa1c&quot; alt=&quot;Benchmarked every paid tool directory with DR &amp;gt; 60 (May 2026)&quot; title=&quot;Benchmarked every paid tool directory with DR &amp;gt; 60 (May 2026)&quo",
+      "url": "https://www.reddit.com/r/indiehackers/comments/1t92le5/benchmarked_every_paid_tool_directory_with_dr_60/",
+      "permalink": "/r/indiehackers/comments/1t92le5/benchmarked_every_paid_tool_directory_with_dr_60/",
+      "createdAt": 1778406608000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "indiehackers",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "indiehacker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313090556
+    },
+    {
+      "id": "1t8okoz",
+      "title": "trying to hit 10K MRR in 3 months as a 16/yo. here is the plan.",
+      "body": "&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/indiehackers/comments/1t8okoz/trying_to_hit_10k_mrr_in_3_months_as_a_16yo_here/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/b6vlf6ziq60h1.png?width=140&amp;amp;height=83&amp;amp;auto=webp&amp;amp;s=81e7c9129ff3f6b314e7b847b2691115097e5515&quot; alt=&quot;trying to hit 10K MRR in 3 months as a 16/yo. here is the plan.&quot; title=&quot;trying to hit 10K MRR in 3 months as a 16/yo. here is the plan.&quot; /&gt; &l",
+      "url": "https://www.reddit.com/r/indiehackers/comments/1t8okoz/trying_to_hit_10k_mrr_in_3_months_as_a_16yo_here/",
+      "permalink": "/r/indiehackers/comments/1t8okoz/trying_to_hit_10k_mrr_in_3_months_as_a_16yo_here/",
+      "createdAt": 1778364453000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "indiehackers",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "indiehacker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313090556
+    },
+    {
+      "id": "1t82ugp",
+      "title": "I made an app that saves highlights from physical books on your phone",
+      "body": "&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/indiehackers/comments/1t82ugp/i_made_an_app_that_saves_highlights_from_physical/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/MWE1djYwaWNsMzBoMcYRLRuJ3q4vJUsE4hIpqN5vO7ntHoPaNPEu7oymqtcR.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=adecc64d5e4fa668daf9475d764e259664c6af20&quot; alt=&quot;I made an app that saves highlights from physical books on your phone&quot; title=&quot;I made an app ",
+      "url": "https://www.reddit.com/r/indiehackers/comments/1t82ugp/i_made_an_app_that_saves_highlights_from_physical/",
+      "permalink": "/r/indiehackers/comments/1t82ugp/i_made_an_app_that_saves_highlights_from_physical/",
+      "createdAt": 1778327426000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "indiehackers",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "indiehacker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313090556
+    },
+    {
+      "id": "1t82ti7",
+      "title": "made a tool that remembers where your screenshots came from",
+      "body": "&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/indiehackers/comments/1t82ti7/made_a_tool_that_remembers_where_your_screenshots/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/aHVjenRtN3VuMzBoMagAgnAoerYVwLNeWbXI8YEhY9c5CIrk_nM2QgjteT0A.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=abae4fee7bb2fee0c88a9e584bb9977bb77bb33d&quot; alt=&quot;made a tool that remembers where your screenshots came from&quot; title=&quot;made a tool that remembe",
+      "url": "https://www.reddit.com/r/indiehackers/comments/1t82ti7/made_a_tool_that_remembers_where_your_screenshots/",
+      "permalink": "/r/indiehackers/comments/1t82ti7/made_a_tool_that_remembers_where_your_screenshots/",
+      "createdAt": 1778327344000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "indiehackers",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "indiehacker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313090556
+    },
+    {
+      "id": "1t661yf",
+      "title": "We have made a loom video for our upcoming launch and would love some honest feedback.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey guys, &lt;/p&gt; &lt;p&gt;We are preparing for a indiehackers/ph launch of our product for fundraising. Friends and family all say that they like it, but something feels off and we cant put our finger on it. &lt;/p&gt; &lt;p&gt;Would really appreciate honest feedback about the video (and the product, if possible)? &lt;/p&gt; &lt;p&gt;Will be happy to give out some free packages for good feedback! &lt;/p&gt; &lt;p&gt;Video: &lt;a h",
+      "url": "https://www.reddit.com/r/indiehackers/comments/1t661yf/we_have_made_a_loom_video_for_our_upcoming_launch/",
+      "permalink": "/r/indiehackers/comments/1t661yf/we_have_made_a_loom_video_for_our_upcoming_launch/",
+      "createdAt": 1778148300000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "indiehackers",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "indiehacker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313090556
+    },
+    {
+      "id": "1t5qwbg",
+      "title": "Show HN: I built QuickForge – 3 client-side browser tools (PDF merger, invoice generator, character counter)",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Navid926&quot;&gt; /u/Navid926 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://gregarious-beijinho-69a0b9.netlify.app&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/indiehackers/comments/1t5qwbg/show_hn_i_built_quickforge_3_clientside_browser/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/indiehackers/comments/1t5qwbg/show_hn_i_built_quickforge_3_clientside_browser/",
+      "permalink": "/r/indiehackers/comments/1t5qwbg/show_hn_i_built_quickforge_3_clientside_browser/",
+      "createdAt": 1778103770000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "indiehackers",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "indiehacker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313090556
+    },
+    {
+      "id": "1t4k4su",
+      "title": "My &quot;builder trap&quot; experience and how I try to learn from it",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Recently I&amp;#39;ve been a bit more active on Reddit, as I&amp;#39;m building another startup. I made a &lt;a href=&quot;https://www.reddit.com/r/indiehackers/comments/1t10a29/feedback_tips_needed_on_my_new_in_progress_solo/&quot;&gt;post recently&lt;/a&gt; where I asked for feedback of an early version of that app and a lot of people mentioned that it looked like I was falling into the &amp;quot;builder trap&amp;quot;. As I&amp;#39",
+      "url": "https://www.reddit.com/r/indiehackers/comments/1t4k4su/my_builder_trap_experience_and_how_i_try_to_learn/",
+      "permalink": "/r/indiehackers/comments/1t4k4su/my_builder_trap_experience_and_how_i_try_to_learn/",
+      "createdAt": 1777997735000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "indiehackers",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "indiehacker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313090556
+    },
+    {
+      "id": "1t4eqho",
+      "title": "How I built an ai assistant for websites, two weeks update",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Two weeks ago, I made a &lt;a href=&quot;https://www.reddit.com/r/indiehackers/comments/1sqrsgv/i_saw_clicky_go_viral_on_twitter_so_i_built_the/&quot;&gt;post here&lt;/a&gt; which interested many people, writing about how I built a tool, which is an ai assistant that can be embedded into any website and guides user visually step-by-step through your website, helping them finding what they wanted to do(e.g. &amp;quot;Where is the billi",
+      "url": "https://www.reddit.com/r/indiehackers/comments/1t4eqho/how_i_built_an_ai_assistant_for_websites_two/",
+      "permalink": "/r/indiehackers/comments/1t4eqho/how_i_built_an_ai_assistant_for_websites_two/",
+      "createdAt": 1777985945000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "indiehackers",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "indiehacker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313090557
+    },
+    {
+      "id": "1t2ndjj",
+      "title": "Added Google Business Profile management to our social media API, and the client dropped out",
+      "body": "&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/indiehackers/comments/1t2ndjj/added_google_business_profile_management_to_our/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/7v71daq2mxyg1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=8bf3a090288ba05860fff3b437be7594c08de4d0&quot; alt=&quot;Added Google Business Profile management to our social media API, and the client dropped out&quot; title=&quot;Added Google Business Profile management to our s",
+      "url": "https://www.reddit.com/r/indiehackers/comments/1t2ndjj/added_google_business_profile_management_to_our/",
+      "permalink": "/r/indiehackers/comments/1t2ndjj/added_google_business_profile_management_to_our/",
+      "createdAt": 1777819503000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "indiehackers",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "indiehacker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313090557
+    },
+    {
+      "id": "1t10a29",
+      "title": "Feedback + tips needed on my new (in progress) solo built project 🙏",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey dear IndieHacker community 👋&lt;/p&gt; &lt;p&gt;I&amp;#39;m currently building a new product called &amp;quot;LiveInterp&amp;quot; which is a live interpretation tool for in-person events, like churches, conferences etc. It works very simply with a &amp;quot;speaker&amp;quot; and a &amp;quot;listener&amp;quot;, where the speaker creates an account and gets a room number assigned, the listener just needs to type in the speaker&amp",
+      "url": "https://www.reddit.com/r/indiehackers/comments/1t10a29/feedback_tips_needed_on_my_new_in_progress_solo/",
+      "permalink": "/r/indiehackers/comments/1t10a29/feedback_tips_needed_on_my_new_in_progress_solo/",
+      "createdAt": 1777657080000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "indiehackers",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "indiehacker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313090557
+    },
+    {
+      "id": "1t0m969",
+      "title": "I got tired of fixing captions manually, so I tried making something — would love honest feedback",
+      "body": "&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/indiehackers/comments/1t0m969/i_got_tired_of_fixing_captions_manually_so_i/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/AqQl45ed2H9FF_7a8-rdsqkf6YVFHnra2PwE7YI72VA.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=59828327aa99a4253e9f3aa5df1797db2d9a76e8&quot; alt=&quot;I got tired of fixing captions manually, so I tried making something — would love honest feedback&quot; title=&quot;I got ti",
+      "url": "https://www.reddit.com/r/indiehackers/comments/1t0m969/i_got_tired_of_fixing_captions_manually_so_i/",
+      "permalink": "/r/indiehackers/comments/1t0m969/i_got_tired_of_fixing_captions_manually_so_i/",
+      "createdAt": 1777620008000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "indiehackers",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "indiehacker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313090557
+    },
+    {
+      "id": "1szx2dw",
+      "title": "I'm unemployed so I've built this to help me",
+      "body": "&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/indiehackers/comments/1szx2dw/im_unemployed_so_ive_built_this_to_help_me/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/tzw9lwm64cyg1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9474c3949960d169e921f1bdd788ddfa5597deb2&quot; alt=&quot;I'm unemployed so I've built this to help me&quot; title=&quot;I'm unemployed so I've built this to help me&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_O",
+      "url": "https://www.reddit.com/r/indiehackers/comments/1szx2dw/im_unemployed_so_ive_built_this_to_help_me/",
+      "permalink": "/r/indiehackers/comments/1szx2dw/im_unemployed_so_ive_built_this_to_help_me/",
+      "createdAt": 1777557917000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "indiehackers",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "indiehacker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313090557
+    },
+    {
+      "id": "1sy3y5o",
+      "title": "&quot;Build fast, fail fast&quot; has always felt wrong to me. Agreed?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey, indiehackers!&lt;/p&gt; &lt;p&gt;I work at an AI startup validation platform. We spend a lot of time talking to early-stage founders, and one pattern keeps coming up.&lt;/p&gt; &lt;p&gt;The &amp;quot;build fast&amp;quot; mantra has become so normalized that founders treat it as permission to skip validation entirely. The assumption is: ship something, the market will correct you.&lt;/p&gt; &lt;p&gt;But by the time the market corr",
+      "url": "https://www.reddit.com/r/indiehackers/comments/1sy3y5o/build_fast_fail_fast_has_always_felt_wrong_to_me/",
+      "permalink": "/r/indiehackers/comments/1sy3y5o/build_fast_fail_fast_has_always_felt_wrong_to_me/",
+      "createdAt": 1777388522000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "indiehackers",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "indiehacker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313090557
+    },
+    {
+      "id": "1sxq2zu",
+      "title": "My post blew up 🎉 private beta full, first 50 get 28% off",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;strong&gt;A few days ago I shared this post:&lt;/strong&gt; &lt;a href=&quot;https://www.reddit.com/r/indiehackers/s/t6pLkYftrm&quot;&gt;https://www.reddit.com/r/indiehackers/s/t6pLkYftrm&lt;/a&gt;&lt;/p&gt; &lt;p&gt;How 3 simple emails saved me over $1K. The problem isn&amp;#39;t writing the emails, it&amp;#39;s knowing who to send them to and when.&lt;/p&gt; &lt;p&gt;So That&amp;#39;s why I built DropFix a tool that automaticall",
+      "url": "https://www.reddit.com/r/indiehackers/comments/1sxq2zu/my_post_blew_up_private_beta_full_first_50_get_28/",
+      "permalink": "/r/indiehackers/comments/1sxq2zu/my_post_blew_up_private_beta_full_first_50_get_28/",
+      "createdAt": 1777347664000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "indiehackers",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "indiehacker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313090557
+    },
+    {
+      "id": "1sxol8e",
+      "title": "Offering 40% equity in my iOS game to the right influencer: looking for a co-owner, not a sponsor",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi,&lt;/p&gt; &lt;p&gt;I’m an indie iOS developer looking to partner with a niche content creator as a co-owner of my mobile game.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;The deal:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;You bring: An engaged, niche audience (minimum 1M combined followers across social platforms) and light promotion, think 2–3 reels on IG or TikToks per month. No need to change your content style or niche.&lt;/li&gt; &",
+      "url": "https://www.reddit.com/r/indiehackers/comments/1sxol8e/offering_40_equity_in_my_ios_game_to_the_right/",
+      "permalink": "/r/indiehackers/comments/1sxol8e/offering_40_equity_in_my_ios_game_to_the_right/",
+      "createdAt": 1777343554000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "indiehackers",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "content creator",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313090557
+    },
+    {
+      "id": "1src1fj",
+      "title": "Need advice conductor.build be vscode",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hello Indiehackers,&lt;/p&gt; &lt;p&gt;I’m working hard taking inspiration from people in this community and I badly need advice on IDE.&lt;/p&gt; &lt;p&gt;I coded in college and then never touched. I spent 4-5 months on Scrimba to learn to code&lt;/p&gt; &lt;p&gt;Build project -1 (not naming so to avoid self-promotion). I did on VScode and $20 claude code. I was delighted but that’s not a personal pain point.&lt;/p&gt; &lt;p&gt;I saw",
+      "url": "https://www.reddit.com/r/indiehackers/comments/1src1fj/need_advice_conductorbuild_be_vscode/",
+      "permalink": "/r/indiehackers/comments/1src1fj/need_advice_conductorbuild_be_vscode/",
+      "createdAt": 1776741875000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "indiehackers",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "indiehacker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313090557
+    },
+    {
+      "id": "1smtafn",
+      "title": "How do I find out why people visited my website are not signing up?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey guys, is there a way for me to find out why are people not signing up after they landed on the website?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/kelvinyinnyxian&quot;&gt; /u/kelvinyinnyxian &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/indiehackers/comments/1smtafn/how_do_i_find_out_why_people_visited_my_website/&quot;&gt",
+      "url": "https://www.reddit.com/r/indiehackers/comments/1smtafn/how_do_i_find_out_why_people_visited_my_website/",
+      "permalink": "/r/indiehackers/comments/1smtafn/how_do_i_find_out_why_people_visited_my_website/",
+      "createdAt": 1776313802000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "indiehackers",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "indiehacker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313090557
+    },
+    {
+      "id": "1sl7xpt",
+      "title": "I am a solo entrepreneur , learnt one new thing . What I found changed how I look at websites . Want to share with all indiehackers.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;so this is a 6-7 month old story that I kept to myself because honestly it felt too niche to share.&lt;br/&gt; I do read along building my own stuff. the usual loop. find client, write code, deliver, get paid, chill,read things, repeat. the reading part is where this started.I came across an article on something called bot psychology. not the usual AI productivity content. actual research on how AI agents make decisions when evaluatin",
+      "url": "https://www.reddit.com/r/indiehackers/comments/1sl7xpt/i_am_a_solo_entrepreneur_learnt_one_new_thing/",
+      "permalink": "/r/indiehackers/comments/1sl7xpt/i_am_a_solo_entrepreneur_learnt_one_new_thing/",
+      "createdAt": 1776171424000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "indiehackers",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "indiehacker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313090557
+    },
+    {
+      "id": "1sl7a8j",
+      "title": "170+ things that founders of other startups are willing to do for your startup so that it takes off!",
+      "body": "&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/indiehackers/comments/1sl7a8j/170_things_that_founders_of_other_startups_are/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/96xfi4skg5vg1.png?width=140&amp;amp;height=140&amp;amp;crop=1:1,smart&amp;amp;auto=webp&amp;amp;s=2298ec2783e94f0be5ef912582d8a6692356b7e8&quot; alt=&quot;170+ things that founders of other startups are willing to do for your startup so that it takes off!&quot; title=&quot;170+ things that fo",
+      "url": "https://www.reddit.com/r/indiehackers/comments/1sl7a8j/170_things_that_founders_of_other_startups_are/",
+      "permalink": "/r/indiehackers/comments/1sl7a8j/170_things_that_founders_of_other_startups_are/",
+      "createdAt": 1776169769000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "indiehackers",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "indiehacker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313090557
+    },
+    {
+      "id": "1shonxg",
+      "title": "I almost fired my AI CTO yesterday. My AI COO talked me out of it.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;m building &lt;a href=&quot;https://www.sundayback.app/&quot;&gt;Sunday Back&lt;/a&gt;, an AI workforce platform for solo founders. Instead of hiring department heads, you run AI agents in those roles. My team is Reid (COO), Nova (CMO), and Axel (CTO). All AI.&lt;/p&gt; &lt;p&gt;Yesterday I had a direct Claude Code session to fix a bunch of frontend issues. Fast, clean, no reminders. Things got done.&lt;/p&gt; &lt;p&gt;Then ",
+      "url": "https://www.reddit.com/r/indiehackers/comments/1shonxg/i_almost_fired_my_ai_cto_yesterday_my_ai_coo/",
+      "permalink": "/r/indiehackers/comments/1shonxg/i_almost_fired_my_ai_cto_yesterday_my_ai_coo/",
+      "createdAt": 1775832473000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "indiehackers",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313090557
+    },
+    {
+      "id": "1pk2rzb",
+      "title": "📣✅New Human Verification System for our subreddit!",
+      "body": "&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/indiehackers/comments/1pk2rzb/new_human_verification_system_for_our_subreddit/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/dmF3YzVuNjB3bDZnMWu-sacKPc9_QqjVSr9o2lqAXsrcizo1VkLofC2bmyIz.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=3ab11fac462e24d7dc643cc6a7fba89f0f3d0478&quot; alt=&quot;📣✅New Human Verification System for our subreddit!&quot; title=&quot;📣✅New Human Verification System f",
+      "url": "https://www.reddit.com/r/indiehackers/comments/1pk2rzb/new_human_verification_system_for_our_subreddit/",
+      "permalink": "/r/indiehackers/comments/1pk2rzb/new_human_verification_system_for_our_subreddit/",
+      "createdAt": 1765472617000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "indiehackers",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "indiehacker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313090557
+    },
+    {
+      "id": "1pj44es",
+      "title": "NEW RULES for the IndieHackers subreddit. - Getting the quality back.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Howdy.&lt;/p&gt; &lt;p&gt;We had some internal talks, and after looking at the current state of subreddits in the software and SaaS space, we decided to implement an automoderator that will catch bad actors and either remove their posts or put them on a cooldown.&lt;/p&gt; &lt;p&gt;We care about this subreddit and the progress that has been made here. Sadly, the moment any community introduces benefits or visibility, it attracts peopl",
+      "url": "https://www.reddit.com/r/indiehackers/comments/1pj44es/new_rules_for_the_indiehackers_subreddit_getting/",
+      "permalink": "/r/indiehackers/comments/1pj44es/new_rules_for_the_indiehackers_subreddit_getting/",
+      "createdAt": 1765377335000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "indiehackers",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "indiehacker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313090557
+    },
+    {
+      "id": "1tglq7a",
+      "title": "your A-player didnt get lazy. you just stopped giving a shit.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;your A-players will become B-players. its not if, its when.&lt;/p&gt; &lt;p&gt;the pattern is always the same. you find someone incredible, pay them well, give them freedom, good environment, you actually give a shit. for a while its magic. they crush it. you think ok finally someone I can trust.&lt;/p&gt; &lt;p&gt;then around year 2 it starts. the hunger disappears. side project pops up. the person who sent you ideas at 11pm now take",
+      "url": "https://www.reddit.com/r/Entrepreneur/comments/1tglq7a/your_aplayer_didnt_get_lazy_you_just_stopped/",
+      "permalink": "/r/Entrepreneur/comments/1tglq7a/your_aplayer_didnt_get_lazy_you_just_stopped/",
+      "createdAt": 1779108760000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "entrepreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313112090
+    },
+    {
+      "id": "1t5elh4",
+      "title": "I tracked what AI chatbots recommend in my niche for 3 months. it made no sense",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;ve been working on a side project for a few months. mostly focused on SEO, getting listed in directories, the usual stuff.&lt;/p&gt; &lt;p&gt;about 3 months ago I randomly started typing product category queries into ChatGPT and Perplexity to see if my product showed up. I hadn&amp;#39;t optimized for it or anything, just curious.&lt;/p&gt; &lt;p&gt;it did show up on one platform. but not the others. a competitor with worse ",
+      "url": "https://www.reddit.com/r/Entrepreneur/comments/1t5elh4/i_tracked_what_ai_chatbots_recommend_in_my_niche/",
+      "permalink": "/r/Entrepreneur/comments/1t5elh4/i_tracked_what_ai_chatbots_recommend_in_my_niche/",
+      "createdAt": 1778077760000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "entrepreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313112091
+    },
+    {
+      "id": "1tizf19",
+      "title": "There’s (already) an app for that",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/samdbeckham&quot;&gt; /u/samdbeckham &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;/r/micro_saas/comments/1tizep4/theres_already_an_app_for_that/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Solopreneur/comments/1tizf19/theres_already_an_app_for_that/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1tizf19/theres_already_an_app_for_that/",
+      "permalink": "/r/Solopreneur/comments/1tizf19/theres_already_an_app_for_that/",
+      "createdAt": 1779311935000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solopreneur",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313134337
+    },
+    {
+      "id": "1tirstj",
+      "title": "What has been your biggest roadblock in landing your first 10 customers through social media?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Getting those first 10 users is usually the hardest part of the solo founder journey. I spent weeks manually scrolling through subreddits and Twitter threads trying to find anyone who actually needed what I was building. Most people just talk about the problem in general terms, and by the time you find a real lead, you have already wasted hours of your workday.&lt;/p&gt; &lt;p&gt;I found that keyword alerts were pretty useless because",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1tirstj/what_has_been_your_biggest_roadblock_in_landing/",
+      "permalink": "/r/Solopreneur/comments/1tirstj/what_has_been_your_biggest_roadblock_in_landing/",
+      "createdAt": 1779296432000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313134337
+    },
+    {
+      "id": "1tir70j",
+      "title": "Looking for startup founders willing to pressure-test and better define their ideas using AI (free)",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/agiloop&quot;&gt; /u/agiloop &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;/r/founder/comments/1thyqzn/looking_for_startup_founders_willing_to/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Solopreneur/comments/1tir70j/looking_for_startup_founders_willing_to/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1tir70j/looking_for_startup_founders_willing_to/",
+      "permalink": "/r/Solopreneur/comments/1tir70j/looking_for_startup_founders_willing_to/",
+      "createdAt": 1779295188000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solopreneur",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313134337
+    },
+    {
+      "id": "1tijyd6",
+      "title": "I'm currently making ~$80/month from a grocery app. Here's why I'm not quitting.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;~$80/month sounds like nothing. And it kind of is. But 8 months ago it was $0.&lt;/p&gt; &lt;p&gt;I&amp;#39;m a product designer originally. My day job role kept shifting until it wasn&amp;#39;t the job I signed up for and I tried to adapt until I was laid off. Good thing I have this app as a side project so now I&amp;#39;m going full-time on this. I used to hand specs to developers. Now I shipped my own app, designed it and developed",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1tijyd6/im_currently_making_80month_from_a_grocery_app/",
+      "permalink": "/r/Solopreneur/comments/1tijyd6/im_currently_making_80month_from_a_grocery_app/",
+      "createdAt": 1779279521000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313134337
+    },
+    {
+      "id": "1tifm4l",
+      "title": "Anybody makes content for apps? Using AI?",
+      "body": "&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/Solopreneur/comments/1tifm4l/anybody_makes_content_for_apps_using_ai/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/lwK4_Y2cagr8mIB22_6Zc_7UuaoEmm2lnGmK3NoLAI4.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=5f18e3de43bc375ce1e1ff1b57bbef245de39c41&quot; alt=&quot;Anybody makes content for apps? Using AI?&quot; title=&quot;Anybody makes content for apps? Using AI?&quot; /&gt; &lt;/a&gt; &lt;",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1tifm4l/anybody_makes_content_for_apps_using_ai/",
+      "permalink": "/r/Solopreneur/comments/1tifm4l/anybody_makes_content_for_apps_using_ai/",
+      "createdAt": 1779266456000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solopreneur",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313134337
+    },
+    {
+      "id": "1th9s6v",
+      "title": "we built an AI co-founder that does all the stuff you don't want to. free beta is live. YC and VC backed.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;every solopreneur has a list.&lt;/p&gt; &lt;p&gt;not the list of things they love doing. the list of things that have to get done but that are not why they went solo in the first place. writing ad copy. managing campaigns. generating lead lists. sending cold email. updating the CRM. building the website. configuring payments. tracking analytics. all of it necessary. none of it the reason you built something for yourself.&lt;/p&gt; &lt",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1th9s6v/we_built_an_ai_cofounder_that_does_all_the_stuff/",
+      "permalink": "/r/Solopreneur/comments/1th9s6v/we_built_an_ai_cofounder_that_does_all_the_stuff/",
+      "createdAt": 1779158614000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solopreneur",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313134337
+    },
+    {
+      "id": "1tgkwoh",
+      "title": "Working and starting a business",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Foreign_Tower_7735&quot;&gt; /u/Foreign_Tower_7735 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;/r/Business_Ideas/comments/1tgkszj/working_and_starting_a_business/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Solopreneur/comments/1tgkwoh/working_and_starting_a_business/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1tgkwoh/working_and_starting_a_business/",
+      "permalink": "/r/Solopreneur/comments/1tgkwoh/working_and_starting_a_business/",
+      "createdAt": 1779106755000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solopreneur",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313134337
+    },
+    {
+      "id": "1tgcm69",
+      "title": "Do you think it’s actually easier to run a one-person business now, or has it become more overwhelming?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;On one side, we have AI tools, automation, no-code platforms, Shopify, content tools and easier access to online business infrastructure.&lt;/p&gt; &lt;p&gt;On the other side, there are now so many tools, subscriptions, workflows and “systems” that a lot of solopreneurs seem more confused than ever.&lt;/p&gt; &lt;p&gt;Curious how others feel about this.&lt;/p&gt; &lt;p&gt;Are modern tools making solo businesses easier to run, or are t",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1tgcm69/do_you_think_its_actually_easier_to_run_a/",
+      "permalink": "/r/Solopreneur/comments/1tgcm69/do_you_think_its_actually_easier_to_run_a/",
+      "createdAt": 1779080757000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solopreneur",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313134338
+    },
+    {
+      "id": "1tg1a90",
+      "title": "Are there any investors here?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I am looking for an investor for my cryptocurrency mining business.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/PercivalS9&quot;&gt; /u/PercivalS9 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Solopreneur/comments/1tg1a90/are_there_any_investors_here/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1tg1a90/are_there_any_investors_here/",
+      "permalink": "/r/Solopreneur/comments/1tg1a90/are_there_any_investors_here/",
+      "createdAt": 1779050693000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solopreneur",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313134338
+    },
+    {
+      "id": "1tezpzx",
+      "title": "I studied how YC picks ideas. Here's what I wish I knew before I wasted 2 years building the wrong things.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;So I went deep into YC&amp;#39;s published frameworks, partners&amp;#39; essays, batch founder interviews, all of it. And honestly it changed how I think about idea validation as a solo builder. &lt;/p&gt; &lt;p&gt;The important things is when you&amp;#39;re a solopreneur: you don&amp;#39;t have a team to compensate for a bad idea. So picking the right problem is literally everything. &lt;/p&gt; &lt;p&gt;YC basically says good ideas c",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1tezpzx/i_studied_how_yc_picks_ideas_heres_what_i_wish_i/",
+      "permalink": "/r/Solopreneur/comments/1tezpzx/i_studied_how_yc_picks_ideas_heres_what_i_wish_i/",
+      "createdAt": 1778951913000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solopreneur",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313134338
+    },
+    {
+      "id": "1tet1zo",
+      "title": "Stop using keyword alerts to find leads on Reddit (it's a time sink)",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Most solo founders waste a lot of time setting up keyword trackers for their niche. The problem is that keywords like marketing tool or lead gen usually just surface spam, blog posts, or other founders pitching their own stuff. If you want to find people who are actually ready to buy, you have to look for semantic intent rather than just specific words. &lt;/p&gt; &lt;p&gt;I spent months manually scrolling through subreddits trying to",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1tet1zo/stop_using_keyword_alerts_to_find_leads_on_reddit/",
+      "permalink": "/r/Solopreneur/comments/1tet1zo/stop_using_keyword_alerts_to_find_leads_on_reddit/",
+      "createdAt": 1778936424000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313134338
+    },
+    {
+      "id": "1teplyn",
+      "title": "I am currently looking for writers to contribute Substack guest posts to two of my new series. One is called “They Move the Needle,” and the other is “They Learned a Lesson.”",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Pipe-Silly&quot;&gt; /u/Pipe-Silly &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;/r/SaaS/comments/1taifue/i_am_currently_looking_for_writers_to_contribute/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Solopreneur/comments/1teplyn/i_am_currently_looking_for_writers_to_contribute/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1teplyn/i_am_currently_looking_for_writers_to_contribute/",
+      "permalink": "/r/Solopreneur/comments/1teplyn/i_am_currently_looking_for_writers_to_contribute/",
+      "createdAt": 1778926417000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solopreneur",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313134338
+    },
+    {
+      "id": "1te2onj",
+      "title": "I read the YC Summer 2026 RFS and built 120 concrete startup ideas around the categories that can actually be started as side projects. Here they are.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;ve started doing this exercise from Summer 2026 YC batch to read the RFS, filter for categories that don&amp;#39;t require hardware, regulatory licenses, or a co-founder army, and map out what a real v1 looks like.&lt;/p&gt; &lt;p&gt;Summer 2026 was trickier than usual. Out of 15 categories, 8 are legitimately hard tech counter-drone swarms, lunar manufacturing, inference chips for space. You can&amp;#39;t side-project those",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1te2onj/i_read_the_yc_summer_2026_rfs_and_built_120/",
+      "permalink": "/r/Solopreneur/comments/1te2onj/i_read_the_yc_summer_2026_rfs_and_built_120/",
+      "createdAt": 1778865213000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313134338
+    },
+    {
+      "id": "1tdzlib",
+      "title": "What major feature have you pushed this week?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I pushed the &amp;quot;Collections&amp;quot; feature in BiteTube. What it does is you can create your account and then start adding your own playlists of videos which you can share with other people. Most beneficial for content creators because it pushes your content more organically.&lt;/p&gt; &lt;p&gt;Users also have a new &amp;quot;Profile&amp;quot; page now where you can check out your number of likes, dislikes and shares on all o",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1tdzlib/what_major_feature_have_you_pushed_this_week/",
+      "permalink": "/r/Solopreneur/comments/1tdzlib/what_major_feature_have_you_pushed_this_week/",
+      "createdAt": 1778858691000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "content creator",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313134338
+    },
+    {
+      "id": "1tdyfah",
+      "title": "I’ve been publishing a free AI tools newsletter for 5 weeks. Here’s what the data actually looks like.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Gonna be honest, I didn’t expect to be sharing numbers this small. But small numbers with context are more useful than no numbers at all.&lt;br/&gt; Week 5 update on The AI Edge, a free weekly newsletter reviewing AI tools for freelancers and solopreneurs.&lt;br/&gt; Subscribers: 11&lt;br/&gt; Open rate: 41.38%&lt;br/&gt; Industry average open rate: 20-25%&lt;br/&gt; The subscriber number is humbling. The open rate tells a different s",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1tdyfah/ive_been_publishing_a_free_ai_tools_newsletter/",
+      "permalink": "/r/Solopreneur/comments/1tdyfah/ive_been_publishing_a_free_ai_tools_newsletter/",
+      "createdAt": 1778856200000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solopreneur",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313134338
+    },
+    {
+      "id": "1tdpu9f",
+      "title": "Help on user acquisition?",
+      "body": "&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/Solopreneur/comments/1tdpu9f/help_on_user_acquisition/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/AGusL6xmuNizWnj5ko0QjoyaoHyd0z9E6SozaUqTFp8.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=7d73c35feb3a6229a41af930b3acf37ab21e6c4c&quot; alt=&quot;Help on user acquisition?&quot; title=&quot;Help on user acquisition?&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div ",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1tdpu9f/help_on_user_acquisition/",
+      "permalink": "/r/Solopreneur/comments/1tdpu9f/help_on_user_acquisition/",
+      "createdAt": 1778832870000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solopreneur",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313134338
+    },
+    {
+      "id": "1tdoh0n",
+      "title": "The content workflow that helped me get my first paying user became my second project",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I got my first real paying user for my app today!! What makes it meaningful is the timing.&lt;/p&gt; &lt;p&gt;After launching my first iOS app as a solo founder, I realized my biggest struggle was not only development. It was figuring out how to talk about the product in a way that made people remember it.&lt;/p&gt; &lt;p&gt;At first I mostly posted about what the app does. Then I started asking a different question: what is the found",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1tdoh0n/the_content_workflow_that_helped_me_get_my_first/",
+      "permalink": "/r/Solopreneur/comments/1tdoh0n/the_content_workflow_that_helped_me_get_my_first/",
+      "createdAt": 1778828287000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313134338
+    },
+    {
+      "id": "1td21ai",
+      "title": "Realizing most founder content problems are actually narrative problems",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Days ago I posted here about something unexpected I discovered while building my first app as a non-technical solo founder: content marketing started feeling mentally harder than product development itself.&lt;/p&gt; &lt;p&gt;Not because I had no ideas. But because every platform wanted a different version of me.TikTok wanted emotional immediacy. X wanted compressed observations. LinkedIn wanted career narrative. Reddit hated obvious ",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1td21ai/realizing_most_founder_content_problems_are/",
+      "permalink": "/r/Solopreneur/comments/1td21ai/realizing_most_founder_content_problems_are/",
+      "createdAt": 1778773369000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313134338
+    },
+    {
+      "id": "1tcqr3s",
+      "title": "What are b2b payments and how the modern stack actually works",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Had a client ask me what are b2b payments last week because their current solution is expensive and they wanted to understand why. Figured I&amp;#39;d write up how the modern stack works for solopreneurs here who might hit the same question.&lt;/p&gt; &lt;p&gt;B2b payments are payments between two businesses, usually for invoices, supplier transactions, or cross border settlement. The modern version runs on a few layers, the end custo",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1tcqr3s/what_are_b2b_payments_and_how_the_modern_stack/",
+      "permalink": "/r/Solopreneur/comments/1tcqr3s/what_are_b2b_payments_and_how_the_modern_stack/",
+      "createdAt": 1778743438000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solopreneur",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313134338
+    },
+    {
+      "id": "1tc9ow4",
+      "title": "Is agentic banking the next step for solopreneurs. I started managing my business bank account through AI agents",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I use Claude for most of my business already. Proposals, client emails, content even some light project management but recently I started connecting it to my bank through MCP and thats where things got interesting&lt;/p&gt; &lt;p&gt;Right now Claude handles my invoicing, flags overdue payments, tracks expenses and does basic bookkeeping by talking to my bank and QuickBooks in the same conversation. I basically just tell it what needs ",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1tc9ow4/is_agentic_banking_the_next_step_for_solopreneurs/",
+      "permalink": "/r/Solopreneur/comments/1tc9ow4/is_agentic_banking_the_next_step_for_solopreneurs/",
+      "createdAt": 1778699624000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solopreneur",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313134338
+    },
+    {
+      "id": "1tc8tuv",
+      "title": "Try Ternbase, it awesome",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Install ollama and TernBase, and have unlimited access to open source models running in your local machine for your AI workflows.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/moniv999&quot;&gt; /u/moniv999 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Solopreneur/comments/1tc8tuv/try_ternbase_it_awesome/&quot;&gt;[link]&lt;/a&gt;",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1tc8tuv/try_ternbase_it_awesome/",
+      "permalink": "/r/Solopreneur/comments/1tc8tuv/try_ternbase_it_awesome/",
+      "createdAt": 1778697854000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solopreneur",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313134338
+    },
+    {
+      "id": "1tbu9xq",
+      "title": "Launching SaaSOffers.tech on Product Hunt today, just hit front page of Indie Hackers",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I started SaaSOffers around as a verified deals platform for ambitious startups. No ads, no funding, just Reddit and writing. Posted about it on Indie Hackers this morning and it climbed to the top of the front page&lt;/p&gt; &lt;p&gt;If you&amp;#39;ve ever launched on PH, I&amp;#39;d genuinely love to hear what worked for you on launch day. And if the project sounds useful, an upvote would mean a lot&lt;/p&gt; &lt;p&gt;Happy to retur",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1tbu9xq/launching_saasofferstech_on_product_hunt_today/",
+      "permalink": "/r/Solopreneur/comments/1tbu9xq/launching_saasofferstech_on_product_hunt_today/",
+      "createdAt": 1778663704000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "indie hacker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313134338
+    },
+    {
+      "id": "1tavqmq",
+      "title": "The hardest part of solo marketing is switching roles, not writing",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I have been thinking about why content marketing feels so draining as a solo founder.&lt;/p&gt; &lt;p&gt;It is not just writing. It is switching roles constantly.&lt;/p&gt; &lt;p&gt;One minute you are building the product. Then you are support. Then you are a marketer. Then an editor. Then a distribution person. Then you are supposed to analyze what worked and do it again next week.&lt;/p&gt; &lt;p&gt;That role switching feels more ex",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1tavqmq/the_hardest_part_of_solo_marketing_is_switching/",
+      "permalink": "/r/Solopreneur/comments/1tavqmq/the_hardest_part_of_solo_marketing_is_switching/",
+      "createdAt": 1778575892000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313134338
+    },
+    {
+      "id": "1taul12",
+      "title": "Solo founder realization: content marketing is sometimes harder than building the product",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I launched my first iOS app this year with no technical background. Before this, I spent 8 years working in traditional magazines as an editor and writer.&lt;/p&gt; &lt;p&gt;I expected coding to be the hardest part.&lt;/p&gt; &lt;p&gt;Honestly? Content marketing has been mentally harder.&lt;/p&gt; &lt;p&gt;Not because I lack ideas — but because every platform requires a different version of yourself:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Tik",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1taul12/solo_founder_realization_content_marketing_is/",
+      "permalink": "/r/Solopreneur/comments/1taul12/solo_founder_realization_content_marketing_is/",
+      "createdAt": 1778571928000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313134338
+    },
+    {
+      "id": "1ta2o8g",
+      "title": "How building my first product helped me build the next ones",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Infamous_Sentence_67&quot;&gt; /u/Infamous_Sentence_67 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;/r/vibecoding/comments/1ta2lm4/how_building_my_first_product_helped_me_build_the/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Solopreneur/comments/1ta2o8g/how_building_my_first_product_helped_me_build_the/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1ta2o8g/how_building_my_first_product_helped_me_build_the/",
+      "permalink": "/r/Solopreneur/comments/1ta2o8g/how_building_my_first_product_helped_me_build_the/",
+      "createdAt": 1778504583000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solopreneur",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313134338
+    },
+    {
+      "id": "1ta0lvj",
+      "title": "Been tracking my emotions for 15 days and it's changing how I work (as a solopreneur)",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey guys, wanted to share something that&amp;#39;s been a quiet game-changer for my mental health and productivity.&lt;/p&gt; &lt;p&gt;For years I thought my productivity slumps were just &amp;quot;part of the grind.&amp;quot; Turns out they were directly tied to my emotional state. I was anxious on Mondays, fried by Wednesdays, and coasting Fridays. Didn&amp;#39;t see it until I started tracking.&lt;/p&gt; &lt;p&gt;I built an emotion",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1ta0lvj/been_tracking_my_emotions_for_15_days_and_its/",
+      "permalink": "/r/Solopreneur/comments/1ta0lvj/been_tracking_my_emotions_for_15_days_and_its/",
+      "createdAt": 1778499298000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solopreneur",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313134338
+    },
+    {
+      "id": "1t9v2xu",
+      "title": "YC just accepted 22 solo founders into their Winter 2026 batch. That's 11% of the entire program. I went through every single one of them. Here's what they all had in common.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I spent the better part of two weeks going through all 196 companies in the YC W26 batch the Winter 2026 cohort that had its Demo Day on March 24, 2026. I wasn&amp;#39;t looking for the flashiest companies or the biggest raises. I was specifically looking at the 22 founders who got in without a co-founder, because I&amp;#39;m building alone and I wanted to understand whether the &amp;quot;YC needs two co-founders&amp;quot; rule is act",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1t9v2xu/yc_just_accepted_22_solo_founders_into_their/",
+      "permalink": "/r/Solopreneur/comments/1t9v2xu/yc_just_accepted_22_solo_founders_into_their/",
+      "createdAt": 1778481112000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313134338
+    },
+    {
+      "id": "1t9d5el",
+      "title": "Harsh lessons I learned while marketing on Instagram in 2025",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/bustawolf09&quot;&gt; /u/bustawolf09 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;/r/SocialMediaMarketing/comments/1t6vilg/harsh_lessons_i_learned_while_marketing_on/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Solopreneur/comments/1t9d5el/harsh_lessons_i_learned_while_marketing_on/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1t9d5el/harsh_lessons_i_learned_while_marketing_on/",
+      "permalink": "/r/Solopreneur/comments/1t9d5el/harsh_lessons_i_learned_while_marketing_on/",
+      "createdAt": 1778434087000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solopreneur",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313134338
+    },
+    {
+      "id": "1t8wzhn",
+      "title": "Went through all 15 categories of the Summer 2026 YC RFS, here's which ones a solo founder can actually build",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Not affiliated with YC, just someone who spends too much time researching this stuff.&lt;/p&gt; &lt;p&gt;The Summer 2026 RFS dropped and I went through every category. Sharing a breakdown because I couldn&amp;#39;t find one place that actually answered the practical question: which of these can a small team realistically build?&lt;/p&gt; &lt;p&gt;Quick answer: 7 of 15 are software-first and buildable by a 1-3 person team.&lt;/p&gt; &l",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1t8wzhn/went_through_all_15_categories_of_the_summer_2026/",
+      "permalink": "/r/Solopreneur/comments/1t8wzhn/went_through_all_15_categories_of_the_summer_2026/",
+      "createdAt": 1778387933000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313134339
+    },
+    {
+      "id": "1t8i51n",
+      "title": "I built a purely native screen recorder for macOS that auto-zooms based on where you actually click, no manual editing",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey r/Solopreneur ,&lt;/p&gt; &lt;p&gt;I&amp;#39;ve been building a native macOS screen recorder for the past year and finally shipped it. Wanted to share it here and get honest feedback from real users.&lt;/p&gt; &lt;p&gt;The problem I kept running into: I&amp;#39;d record a demo or tutorial, watch it back, and realize the important parts were tiny on screen. Then I&amp;#39;d spend 20 minutes adding zoom keyframes manually in another",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1t8i51n/i_built_a_purely_native_screen_recorder_for_macos/",
+      "permalink": "/r/Solopreneur/comments/1t8i51n/i_built_a_purely_native_screen_recorder_for_macos/",
+      "createdAt": 1778356488000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solopreneur",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313134339
+    },
+    {
+      "id": "1t7xglu",
+      "title": "Your mind is for having ideas, not holding them.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;As a solopreneur, you are the CEO, the intern, and the IT department all at once. The biggest threat to your business isn&amp;#39;t a lack of tools or market data, it&amp;#39;s &lt;strong&gt;mental drag&lt;/strong&gt;. We often think the answer to being overwhelmed is to &amp;quot;learn more&amp;quot; or add another productivity framework. But clarity doesn&amp;#39;t come from adding more insight; it comes from clearing enough room to",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1t7xglu/your_mind_is_for_having_ideas_not_holding_them/",
+      "permalink": "/r/Solopreneur/comments/1t7xglu/your_mind_is_for_having_ideas_not_holding_them/",
+      "createdAt": 1778309815000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solopreneur",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313134339
+    },
+    {
+      "id": "1t7wwfz",
+      "title": "Solopreneurs 🗣️ Drop your product 👇🏼 what are you working on?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/alielknight&quot;&gt; /u/alielknight &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Solopreneur/comments/1t7wwfz/solopreneurs_drop_your_product_what_are_you/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Solopreneur/comments/1t7wwfz/solopreneurs_drop_your_product_what_are_you/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1t7wwfz/solopreneurs_drop_your_product_what_are_you/",
+      "permalink": "/r/Solopreneur/comments/1t7wwfz/solopreneurs_drop_your_product_what_are_you/",
+      "createdAt": 1778307949000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solopreneur",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313134339
+    },
+    {
+      "id": "1tizkee",
+      "title": "‎Video Collage Maker: ReelGrid",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Built a new app called ReelGrid for mixing photos + videos into clean layouts for socials.&lt;/p&gt; &lt;p&gt;Would genuinely love feedback while it’s still early. iPhone only right now. Running a temporary one-off payment option during launch.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/No_Cookie_5247&quot;&gt; /u/No_Cookie_5247 &lt;/a&gt; &lt;br/&gt; &lt;sp",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tizkee/video_collage_maker_reelgrid/",
+      "permalink": "/r/SideProject/comments/1tizkee/video_collage_maker_reelgrid/",
+      "createdAt": 1779312243000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "maker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313156308
+    },
+    {
+      "id": "1tiwwp7",
+      "title": "I built an AI academic assistant for Master &amp; PhD students — 6 months of work, here’s what I learned",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’m a solo founder and I spent the last 6 months building ScholarmindPro, an AI research assistant specifically designed for academic writing (thesis, dissertations).&lt;/p&gt; &lt;p&gt;Most AI tools just generate text. I wanted something different — a structured scientific workflow, real statistical analysis (SPSS-like), APA/MLA/Vancouver bibliography, and built-in plagiarism detection.&lt;/p&gt; &lt;p&gt;The hardest part wasn’t the ",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tiwwp7/i_built_an_ai_academic_assistant_for_master_phd/",
+      "permalink": "/r/SideProject/comments/1tiwwp7/i_built_an_ai_academic_assistant_for_master_phd/",
+      "createdAt": 1779306787000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313156308
+    },
+    {
+      "id": "1tiwacp",
+      "title": "Solo Founder Tech Stack Audit: The tools keeping my outbound infrastructure from melting in 2026",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Been tracking my operational efficiency over the last two quarters as a solo founder and I realized I was spending roughly 15 hrs a week just fixing broken workflows and bouncing between apps. I decided to strip everything down and do a strict resource allocation audit.&lt;/p&gt; &lt;p&gt;Here is the exact setup I’m running to handle data, building and my outreach workflow automation without pulling my hair out.&lt;/p&gt; &lt;p&gt;Dev",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tiwacp/solo_founder_tech_stack_audit_the_tools_keeping/",
+      "permalink": "/r/SideProject/comments/1tiwacp/solo_founder_tech_stack_audit_the_tools_keeping/",
+      "createdAt": 1779305493000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313156308
+    },
+    {
+      "id": "1tisgq7",
+      "title": "Built an AI atomation tool to save days of Saas distribution/Launching",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi everyone,&lt;/p&gt; &lt;p&gt;a weeks ago I was building building a Saas platform for writers but distribution became the hardest part because I was a solo founder and I wanted to launch across different distribution platforms like BetaList, Saashub etc to improve my visibility but it was so exhaustive so I built fastlaunch which I used to launch across different directories.&lt;/p&gt; &lt;p&gt;AI that makes it simple for submission",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tisgq7/built_an_ai_atomation_tool_to_save_days_of_saas/",
+      "permalink": "/r/SideProject/comments/1tisgq7/built_an_ai_atomation_tool_to_save_days_of_saas/",
+      "createdAt": 1779297783000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313156309
+    },
+    {
+      "id": "1tisfhp",
+      "title": "I am building an open-source CLI for AI red-team campaigns",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Sharing a side project called RedThread:&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://github.com/matheusht/redthread&quot;&gt;https://github.com/matheusht/redthread&lt;/a&gt;&lt;/p&gt; &lt;p&gt;It is an open-source CLI for testing LLM apps and agents before they go live. The project is mostly for builders/security people who want repeatable red-team runs instead of one-off prompt poking.&lt;/p&gt; &lt;p&gt;What it does:&lt;/p&gt; &lt;u",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tisfhp/i_am_building_an_opensource_cli_for_ai_redteam/",
+      "permalink": "/r/SideProject/comments/1tisfhp/i_am_building_an_opensource_cli_for_ai_redteam/",
+      "createdAt": 1779297714000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313156309
+    },
+    {
+      "id": "1tirz6a",
+      "title": "I made an easy to use diagram tool that’s quick to get started with",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’m starting a side project with a friend, and while choosing tools for planning and flow diagramming, I realized most popular diagramming tools feel too bloated when all we want is to lay down ideas quickly.&lt;/p&gt; &lt;p&gt;So I built a small browser-based tool which I called Ideagram for sketching interaction flows quickly.&lt;/p&gt; &lt;p&gt;The idea is pretty simple: instead of giving you a bunch of shapes, templates, and forma",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tirz6a/i_made_an_easy_to_use_diagram_tool_thats_quick_to/",
+      "permalink": "/r/SideProject/comments/1tirz6a/i_made_an_easy_to_use_diagram_tool_thats_quick_to/",
+      "createdAt": 1779296796000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313156309
+    },
+    {
+      "id": "1tir3pi",
+      "title": "REALISTIC POKEDEX - A side project I did using Google AI Studio.",
+      "body": "&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/SideProject/comments/1tir3pi/realistic_pokedex_a_side_project_i_did_using/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/dzZvaGs5Nm1rYjJoMWTlNg0uP4NheTypusILo1d3GA3dJTUa32S5jkNgxRLb.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=78a78332b36731a047fa79bd2b74e16da644bff9&quot; alt=&quot;REALISTIC POKEDEX - A side project I did using Google AI Studio.&quot; title=&quot;REALISTIC POKEDEX - A sid",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tir3pi/realistic_pokedex_a_side_project_i_did_using/",
+      "permalink": "/r/SideProject/comments/1tir3pi/realistic_pokedex_a_side_project_i_did_using/",
+      "createdAt": 1779294999000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313156309
+    },
+    {
+      "id": "1tihezw",
+      "title": "The side projects that actually turn into products usually start with one boring rule",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Most side projects fail for the same reason. They start with excitement and end with ambiguity.&lt;/p&gt; &lt;p&gt;At the beginning, everything feels possible. You have ideas, energy, maybe even a stack of inspiration saved on your phone. But after a few days, the project starts to drift because there is no clear decision on what problem it solves, who it is for, and what “done” actually means.&lt;/p&gt; &lt;p&gt;The side projects tha",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tihezw/the_side_projects_that_actually_turn_into/",
+      "permalink": "/r/SideProject/comments/1tihezw/the_side_projects_that_actually_turn_into/",
+      "createdAt": 1779272409000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313156309
+    },
+    {
+      "id": "1tin9hh",
+      "title": "Side project went Live yesterday",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi everyone, I’ve been in the crypto space for about 4-5 years now and honestly could never crack the code. Would see people 20x-50x and just like everyone else I would try to chase that anomaly. After loosing money, by either buying the wrong coin by getting influenced by these “crypto gurus” or just buying into the hype. I started looking in more on what some of the most successful traders do. I came across this concept of setting b",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tin9hh/side_project_went_live_yesterday/",
+      "permalink": "/r/SideProject/comments/1tin9hh/side_project_went_live_yesterday/",
+      "createdAt": 1779287070000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313156310
+    },
+    {
+      "id": "1tifel7",
+      "title": "Built a netflix like experience for youtube series!",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Built a side project called BingeTube — an OTT-style, distraction-less way to watch YouTube series.&lt;/p&gt; &lt;p&gt;Track progress, binge channels in order, skip watched videos, and discover curated collections like actual shows instead of endlessly scrolling recommendations.&lt;/p&gt; &lt;p&gt;Beta is almost complete. Currently polishing stability before launch.&lt;/p&gt; &lt;p&gt;link: &lt;a href=&quot;https://bingetube.io&quot;&",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tifel7/built_a_netflix_like_experience_for_youtube_series/",
+      "permalink": "/r/SideProject/comments/1tifel7/built_a_netflix_like_experience_for_youtube_series/",
+      "createdAt": 1779265722000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313156310
+    },
+    {
+      "id": "1tij2ks",
+      "title": "At what building point did you realize your side project was actually worth pursuing seriously?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Most projects start as weekend experiments with no real expectations. But at some point something shifts when you get a first paying customer, a stranger using it on their own or just a growing conviction that you were solving a real problem.&lt;/p&gt; &lt;p&gt;That moment looks different for everyone. What was yours?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/us",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tij2ks/at_what_building_point_did_you_realize_your_side/",
+      "permalink": "/r/SideProject/comments/1tij2ks/at_what_building_point_did_you_realize_your_side/",
+      "createdAt": 1779277219000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313156310
+    },
+    {
+      "id": "1tiqv4t",
+      "title": "A user went from free credits to paid credits today, and it made my week",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Today I got my first paid user for my side project.&lt;/p&gt; &lt;p&gt;The user signed up, used the free trial credits, bought more credits, and kept working. A few hours later they topped up again.&lt;/p&gt; &lt;p&gt;It was not a huge amount of money. I am excited that someone had a real job to do, tried the product, hit the free limit, paid, and continued using it.&lt;/p&gt; &lt;p&gt;I dug through the usage ledger afterward:&lt;/p&g",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tiqv4t/a_user_went_from_free_credits_to_paid_credits/",
+      "permalink": "/r/SideProject/comments/1tiqv4t/a_user_went_from_free_credits_to_paid_credits/",
+      "createdAt": 1779294509000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313156311
+    },
+    {
+      "id": "1tiocu3",
+      "title": "[purplefree] - Comparing manual Reddit lead hunting vs automated semantic monitoring for solo founders",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I used to spend my Sunday nights manually scrolling through subreddits to find people asking for tools I was building. It was a massive time sink and usually ended in me getting distracted by random threads. Most founders I talk to either do this manual grind or they use keyword alerts that flood their inbox with 90% garbage because keywords don&amp;#39;t understand context.&lt;/p&gt; &lt;p&gt;I built purplefree to see if I could auto",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tiocu3/purplefree_comparing_manual_reddit_lead_hunting/",
+      "permalink": "/r/SideProject/comments/1tiocu3/purplefree_comparing_manual_reddit_lead_hunting/",
+      "createdAt": 1779289348000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313156311
+    },
+    {
+      "id": "1thtzd7",
+      "title": "How are we as digital marketers starting to factor LLM discoverability into our content strategies?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;The agency I work at was recently passing around a recent study from Semrush, and it had some interesting insights for B2B brands. As AI tools become a bigger discovery engine for buyers, execs, and decision-makers, our content isn’t just being consumed by people, it’s being indexed and reinterpreted by LLMs too.&lt;/p&gt; &lt;p&gt;One of the biggest takeaways (and you’re probably already seeing this in your own AI search results): Li",
+      "url": "https://www.reddit.com/r/linkedin/comments/1thtzd7/how_are_we_as_digital_marketers_starting_to/",
+      "permalink": "/r/linkedin/comments/1thtzd7/how_are_we_as_digital_marketers_starting_to/",
+      "createdAt": 1779211854000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "linkedin",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "maker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313199434
+    },
+    {
+      "id": "1thdlc3",
+      "title": "Why is everything AI…",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’ve logged in for the first time in a couple of months. I work in film, so I naturally follow a lot of filmmakers from around the world. Most of which are now fully immersed into implementing AI into filmmaking. &lt;/p&gt; &lt;p&gt;Sorry not just implementing, fully creating the piece of work. &lt;/p&gt; &lt;p&gt;“You can’t call them AI film now, they are just… Films” &lt;/p&gt; &lt;p&gt;I’m seeing this slop on every post, people are",
+      "url": "https://www.reddit.com/r/linkedin/comments/1thdlc3/why_is_everything_ai/",
+      "permalink": "/r/linkedin/comments/1thdlc3/why_is_everything_ai/",
+      "createdAt": 1779169466000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "linkedin",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "maker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313199434
+    },
+    {
+      "id": "1tiyl36",
+      "title": "Day 5 - Trying to build in Public",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;What a DISASTER! We updated the UI, fixed the form, and then pushed the patch, and now no button is working. Gotta fix this sh*t now.&lt;/p&gt; &lt;p&gt;Had a good day though, did a good workout, practiced Salsa, I am happy, met friends, and that breakup hurts less. &lt;/p&gt; &lt;p&gt;I am learning programmatic SEO with Claude and ChatGPT to scale my SEO, and I&amp;#39;ll test it on the marketing agency website using a subdomain. Let",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tiyl36/day_5_trying_to_build_in_public/",
+      "permalink": "/r/SaaS/comments/1tiyl36/day_5_trying_to_build_in_public/",
+      "createdAt": 1779310254000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 1,
+      "matched": [
+        {
+          "keyword": "build in public",
+          "category": "intent"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313067871
+    },
+    {
+      "id": "1tiykwx",
+      "title": "Day 5 - Trying to build in Public",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;What a DISASTER! We updated the UI, fixed the form, and then pushed the patch, and now no button is working. Gotta fix this sh*t now.&lt;/p&gt; &lt;p&gt;Had a good day though, did a good workout, practiced Salsa, I am happy, met friends, and that breakup hurts less. &lt;/p&gt; &lt;p&gt;I am learning programmatic SEO with Claude and ChatGPT to scale my SEO, and I&amp;#39;ll test it on the marketing agency website using a subdomain. Let",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tiykwx/day_5_trying_to_build_in_public/",
+      "permalink": "/r/SideProject/comments/1tiykwx/day_5_trying_to_build_in_public/",
+      "createdAt": 1779310244000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 1,
+      "matched": [
+        {
+          "keyword": "build in public",
+          "category": "intent"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313156308
+    },
+    {
+      "id": "1t5wrj0",
+      "title": "Need help with my ads",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Need honest feedback from people experienced with Reddit Ads because I’m confused by what I’m seeing.&lt;/p&gt; &lt;p&gt;I’m running Reddit traffic ads for a local California plumbing / trenchless sewer company.&lt;/p&gt; &lt;p&gt;The ad metrics themselves don’t look terrible:&lt;/p&gt; &lt;p&gt;But the website behavior makes almost no sense.&lt;/p&gt; &lt;p&gt;Users arrive on the site and stay around 1 minute to 1 minute 20 seconds o",
+      "url": "https://www.reddit.com/r/marketing/comments/1t5wrj0/need_help_with_my_ads/",
+      "permalink": "/r/marketing/comments/1t5wrj0/need_help_with_my_ads/",
+      "createdAt": 1778118608000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "marketing",
+      "score": 1,
+      "matched": [
+        {
+          "keyword": "reddit traffic",
+          "category": "intent"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779313178093
+    }
+  ],
+  "karmaOpportunities": [
+    {
+      "id": "1ti2mme",
+      "title": "People who've witnessed a wedding objection that actually worked: What happened?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Efficient_Cat_4812&quot;&gt; /u/Efficient_Cat_4812 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1ti2mme/people_whove_witnessed_a_wedding_objection_that/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1ti2mme/people_whove_witnessed_a_wedding_objection_that/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1ti2mme/people_whove_witnessed_a_wedding_objection_that/",
+      "permalink": "/r/AskReddit/comments/1ti2mme/people_whove_witnessed_a_wedding_objection_that/",
+      "createdAt": 1779229809000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 7
+    },
+    {
+      "id": "1timt3g",
+      "title": "What do you miss most about high school?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Trick-Equipment1828&quot;&gt; /u/Trick-Equipment1828 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1timt3g/what_do_you_miss_most_about_high_school/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1timt3g/what_do_you_miss_most_about_high_school/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1timt3g/what_do_you_miss_most_about_high_school/",
+      "permalink": "/r/AskReddit/comments/1timt3g/what_do_you_miss_most_about_high_school/",
+      "createdAt": 1779286077000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 6
+    },
+    {
+      "id": "1tizx6x",
+      "title": "Uber drivers of reddit: what is your wildest experience you've ever had when you were driving a costumer to their location?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/TrickyIntern5572&quot;&gt; /u/TrickyIntern5572 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tizx6x/uber_drivers_of_reddit_what_is_your_wildest/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tizx6x/uber_drivers_of_reddit_what_is_your_wildest/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1tizx6x/uber_drivers_of_reddit_what_is_your_wildest/",
+      "permalink": "/r/AskReddit/comments/1tizx6x/uber_drivers_of_reddit_what_is_your_wildest/",
+      "createdAt": 1779313017000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 6
+    },
+    {
+      "id": "1tizka9",
+      "title": "What's your childhood story about already dead things?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Dream_Pretend1902&quot;&gt; /u/Dream_Pretend1902 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tizka9/whats_your_childhood_story_about_already_dead/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tizka9/whats_your_childhood_story_about_already_dead/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1tizka9/whats_your_childhood_story_about_already_dead/",
+      "permalink": "/r/AskReddit/comments/1tizka9/whats_your_childhood_story_about_already_dead/",
+      "createdAt": 1779312236000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 6
+    },
+    {
+      "id": "1tizjvr",
+      "title": "What made you realize your relationship was over?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/daddymcmuff&quot;&gt; /u/daddymcmuff &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tizjvr/what_made_you_realize_your_relationship_was_over/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tizjvr/what_made_you_realize_your_relationship_was_over/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1tizjvr/what_made_you_realize_your_relationship_was_over/",
+      "permalink": "/r/AskReddit/comments/1tizjvr/what_made_you_realize_your_relationship_was_over/",
+      "createdAt": 1779312211000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 6
+    },
+    {
+      "id": "1tizaff",
+      "title": "What is your favourite food ?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Infamous_Chicken_62&quot;&gt; /u/Infamous_Chicken_62 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tizaff/what_is_your_favourite_food/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tizaff/what_is_your_favourite_food/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1tizaff/what_is_your_favourite_food/",
+      "permalink": "/r/AskReddit/comments/1tizaff/what_is_your_favourite_food/",
+      "createdAt": 1779311659000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 6
+    },
+    {
+      "id": "1tij7gu",
+      "title": "What’s the strangest example of collective internet delusion you’ve witnessed?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Alert-Translator2590&quot;&gt; /u/Alert-Translator2590 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tij7gu/whats_the_strangest_example_of_collective/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tij7gu/whats_the_strangest_example_of_collective/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1tij7gu/whats_the_strangest_example_of_collective/",
+      "permalink": "/r/AskReddit/comments/1tij7gu/whats_the_strangest_example_of_collective/",
+      "createdAt": 1779277601000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 5
+    },
+    {
+      "id": "1titf50",
+      "title": "People who work in hotels/hospitals/airports: what’s something the public doesn’t know?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Few_Light462&quot;&gt; /u/Few_Light462 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1titf50/people_who_work_in_hotelshospitalsairports_whats/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1titf50/people_who_work_in_hotelshospitalsairports_whats/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1titf50/people_who_work_in_hotelshospitalsairports_whats/",
+      "permalink": "/r/AskReddit/comments/1titf50/people_who_work_in_hotelshospitalsairports_whats/",
+      "createdAt": 1779299746000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 5
+    },
+    {
+      "id": "1titml6",
+      "title": "What is the worst advice people keep repeating?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Different-Store8093&quot;&gt; /u/Different-Store8093 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1titml6/what_is_the_worst_advice_people_keep_repeating/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1titml6/what_is_the_worst_advice_people_keep_repeating/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1titml6/what_is_the_worst_advice_people_keep_repeating/",
+      "permalink": "/r/AskReddit/comments/1titml6/what_is_the_worst_advice_people_keep_repeating/",
+      "createdAt": 1779300158000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 5
+    },
+    {
+      "id": "1tim219",
+      "title": "How do you get through situational anxiety?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/PaleConference4205&quot;&gt; /u/PaleConference4205 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tim219/how_do_you_get_through_situational_anxiety/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tim219/how_do_you_get_through_situational_anxiety/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1tim219/how_do_you_get_through_situational_anxiety/",
+      "permalink": "/r/AskReddit/comments/1tim219/how_do_you_get_through_situational_anxiety/",
+      "createdAt": 1779284429000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 5
+    },
+    {
+      "id": "1tiqf4a",
+      "title": "What do you like about yourself?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/CelebrationFar2804&quot;&gt; /u/CelebrationFar2804 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tiqf4a/what_do_you_like_about_yourself/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tiqf4a/what_do_you_like_about_yourself/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1tiqf4a/what_do_you_like_about_yourself/",
+      "permalink": "/r/AskReddit/comments/1tiqf4a/what_do_you_like_about_yourself/",
+      "createdAt": 1779293623000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 5
+    },
+    {
+      "id": "1tiylh1",
+      "title": "What is your favorite radio station in the GTA games?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/csch1992&quot;&gt; /u/csch1992 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tiylh1/what_is_your_favorite_radio_station_in_the_gta/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tiylh1/what_is_your_favorite_radio_station_in_the_gta/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1tiylh1/what_is_your_favorite_radio_station_in_the_gta/",
+      "permalink": "/r/AskReddit/comments/1tiylh1/what_is_your_favorite_radio_station_in_the_gta/",
+      "createdAt": 1779310277000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 5
+    },
+    {
+      "id": "1tizpz6",
+      "title": "What made you realize you were out of shape?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/dad_of_kevin&quot;&gt; /u/dad_of_kevin &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tizpz6/what_made_you_realize_you_were_out_of_shape/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tizpz6/what_made_you_realize_you_were_out_of_shape/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1tizpz6/what_made_you_realize_you_were_out_of_shape/",
+      "permalink": "/r/AskReddit/comments/1tizpz6/what_made_you_realize_you_were_out_of_shape/",
+      "createdAt": 1779312569000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 5
+    },
+    {
+      "id": "1tipi6b",
+      "title": "What would you do if you won a lottery ?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Helen_Bond&quot;&gt; /u/Helen_Bond &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tipi6b/what_would_you_do_if_you_won_a_lottery/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tipi6b/what_would_you_do_if_you_won_a_lottery/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1tipi6b/what_would_you_do_if_you_won_a_lottery/",
+      "permalink": "/r/AskReddit/comments/1tipi6b/what_would_you_do_if_you_won_a_lottery/",
+      "createdAt": 1779291729000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 5
+    },
+    {
+      "id": "1tiyw5f",
+      "title": "Texas Children's Hospital is opening the country's first detransition clinic, how do you feel about this reddit?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/friskytranscatgirl&quot;&gt; /u/friskytranscatgirl &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tiyw5f/texas_childrens_hospital_is_opening_the_countrys/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tiyw5f/texas_childrens_hospital_is_opening_the_countrys/&quot;&gt;[comments]&lt;/a&gt;&lt;/spa",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1tiyw5f/texas_childrens_hospital_is_opening_the_countrys/",
+      "permalink": "/r/AskReddit/comments/1tiyw5f/texas_childrens_hospital_is_opening_the_countrys/",
+      "createdAt": 1779310828000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 5
+    },
+    {
+      "id": "1tizkhm",
+      "title": "If you could be fluent in another language, which one would you pick and why?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Dangerous_Young_4860&quot;&gt; /u/Dangerous_Young_4860 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tizkhm/if_you_could_be_fluent_in_another_language_which/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tizkhm/if_you_could_be_fluent_in_another_language_which/&quot;&gt;[comments]&lt;/a&gt;&lt;",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1tizkhm/if_you_could_be_fluent_in_another_language_which/",
+      "permalink": "/r/AskReddit/comments/1tizkhm/if_you_could_be_fluent_in_another_language_which/",
+      "createdAt": 1779312248000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 5
+    },
+    {
+      "id": "1tirze7",
+      "title": "What's your strongest achievement?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/speliuz&quot;&gt; /u/speliuz &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tirze7/whats_your_strongest_achievement/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tirze7/whats_your_strongest_achievement/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1tirze7/whats_your_strongest_achievement/",
+      "permalink": "/r/AskReddit/comments/1tirze7/whats_your_strongest_achievement/",
+      "createdAt": 1779296808000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 5
+    },
+    {
+      "id": "1tipypj",
+      "title": "whats your favorite book and why?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Classic-Fly-2475&quot;&gt; /u/Classic-Fly-2475 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tipypj/whats_your_favorite_book_and_why/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tipypj/whats_your_favorite_book_and_why/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1tipypj/whats_your_favorite_book_and_why/",
+      "permalink": "/r/AskReddit/comments/1tipypj/whats_your_favorite_book_and_why/",
+      "createdAt": 1779292707000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 5
+    },
+    {
+      "id": "1tiyva5",
+      "title": "What's your album of the year so far?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/PayEmotional2283&quot;&gt; /u/PayEmotional2283 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tiyva5/whats_your_album_of_the_year_so_far/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tiyva5/whats_your_album_of_the_year_so_far/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1tiyva5/whats_your_album_of_the_year_so_far/",
+      "permalink": "/r/AskReddit/comments/1tiyva5/whats_your_album_of_the_year_so_far/",
+      "createdAt": 1779310783000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 5
+    },
+    {
+      "id": "1thm95a",
+      "title": "how do you know you’re attractive?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/x_luv&quot;&gt; /u/x_luv &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1thm95a/how_do_you_know_youre_attractive/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1thm95a/how_do_you_know_youre_attractive/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1thm95a/how_do_you_know_youre_attractive/",
+      "permalink": "/r/AskReddit/comments/1thm95a/how_do_you_know_youre_attractive/",
+      "createdAt": 1779195600000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 5
+    },
+    {
+      "id": "1tiucry",
+      "title": "What is something you wish schools actually taught?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/No_Initial_6559&quot;&gt; /u/No_Initial_6559 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tiucry/what_is_something_you_wish_schools_actually_taught/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tiucry/what_is_something_you_wish_schools_actually_taught/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1tiucry/what_is_something_you_wish_schools_actually_taught/",
+      "permalink": "/r/AskReddit/comments/1tiucry/what_is_something_you_wish_schools_actually_taught/",
+      "createdAt": 1779301594000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 5
+    },
+    {
+      "id": "1tihltr",
+      "title": "What’s a moment that made you realize life is actually pretty beautiful?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Disha-7550&quot;&gt; /u/Disha-7550 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tihltr/whats_a_moment_that_made_you_realize_life_is/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tihltr/whats_a_moment_that_made_you_realize_life_is/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1tihltr/whats_a_moment_that_made_you_realize_life_is/",
+      "permalink": "/r/AskReddit/comments/1tihltr/whats_a_moment_that_made_you_realize_life_is/",
+      "createdAt": 1779272988000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 5
+    },
+    {
+      "id": "1tizymr",
+      "title": "Fellas, have you ever had sex with someone you weren’t attracted to? If so, how did you feel afterwards?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Deeznaps&quot;&gt; /u/Deeznaps &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tizymr/fellas_have_you_ever_had_sex_with_someone_you/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tizymr/fellas_have_you_ever_had_sex_with_someone_you/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1tizymr/fellas_have_you_ever_had_sex_with_someone_you/",
+      "permalink": "/r/AskReddit/comments/1tizymr/fellas_have_you_ever_had_sex_with_someone_you/",
+      "createdAt": 1779313112000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 5
+    },
+    {
+      "id": "1tizxuw",
+      "title": "How do you nonchalantly tuck balls back into your undies in public?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Any-Strawberry-3928&quot;&gt; /u/Any-Strawberry-3928 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tizxuw/how_do_you_nonchalantly_tuck_balls_back_into_your/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tizxuw/how_do_you_nonchalantly_tuck_balls_back_into_your/&quot;&gt;[comments]&lt;/a&gt;&lt;",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1tizxuw/how_do_you_nonchalantly_tuck_balls_back_into_your/",
+      "permalink": "/r/AskReddit/comments/1tizxuw/how_do_you_nonchalantly_tuck_balls_back_into_your/",
+      "createdAt": 1779313063000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 5
+    },
+    {
+      "id": "1tizwsq",
+      "title": "If you were in a room with Rick Sanchez, what would you ask him?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/jaylinbovaydin&quot;&gt; /u/jaylinbovaydin &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tizwsq/if_you_were_in_a_room_with_rick_sanchez_what/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tizwsq/if_you_were_in_a_room_with_rick_sanchez_what/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1tizwsq/if_you_were_in_a_room_with_rick_sanchez_what/",
+      "permalink": "/r/AskReddit/comments/1tizwsq/if_you_were_in_a_room_with_rick_sanchez_what/",
+      "createdAt": 1779312992000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 5
+    }
+  ]
 }
-
