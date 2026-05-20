@@ -1,7 +1,271 @@
 {
-  "lastUpdated": "2026-05-20T14:59:21.996Z",
-  "totalFound": 4,
+  "lastUpdated": "2026-05-20T18:16:36.855Z",
+  "totalFound": 12,
   "opportunities": [
+    {
+      "id": "1tituxb",
+      "title": "need help setting up Lemonsqeezy anyone from India",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;h1&gt;need help setting up anyone from India&lt;/h1&gt; &lt;p&gt;Pls dm or comment I want to understand few things&lt;/p&gt; &lt;p&gt;i dont have GST or registered business Just an indie hacker, any other alternative&lt;/p&gt; &lt;p&gt;rezorpay and dodopayments both asking for GST&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Creepy_Intention837&quot;&gt; /u/Creepy_",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tituxb/need_help_setting_up_lemonsqeezy_anyone_from_india/",
+      "permalink": "/r/SaaS/comments/1tituxb/need_help_setting_up_lemonsqeezy_anyone_from_india/",
+      "createdAt": 1779300624000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "indie hacker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779300853567
+    },
+    {
+      "id": "1tisrk8",
+      "title": "Built an AI tool to automate Saas launches across different Authoritative directories",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi everyone,&lt;/p&gt; &lt;p&gt;a weeks ago I was building building a Saas platform for writers but distribution became the hardest part because I was a solo founder and I wanted to launch across different distribution platforms like etc to improve my visibility but it was so exhaustive so I built which I used to launch across different directories.&lt;/p&gt; &lt;p&gt;AI that makes it simple for submission. I found a cofounder to help",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tisrk8/built_an_ai_tool_to_automate_saas_launches_across/",
+      "permalink": "/r/SaaS/comments/1tisrk8/built_an_ai_tool_to_automate_saas_launches_across/",
+      "createdAt": 1779298396000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779300853567
+    },
+    {
+      "id": "1tis6lt",
+      "title": "I made an easy to use diagram tool that’s quick to get started with",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’m starting a side project with a friend, and while choosing tools for planning and flow diagramming, I realized most popular diagramming tools feel too bloated when all we want is to lay down ideas quickly.&lt;/p&gt; &lt;p&gt;So I built a small browser-based tool which I called Ideagram for sketching interaction flows quickly.&lt;/p&gt; &lt;p&gt;The idea is pretty simple: instead of giving you a bunch of shapes, templates, and forma",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tis6lt/i_made_an_easy_to_use_diagram_tool_thats_quick_to/",
+      "permalink": "/r/SaaS/comments/1tis6lt/i_made_an_easy_to_use_diagram_tool_thats_quick_to/",
+      "createdAt": 1779297219000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779300853567
+    },
+    {
+      "id": "1tiqb9b",
+      "title": "The problem is probably real, but visibility isn't converting to signups. What did you change?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;m a solo founder. Shipped a niche B2C SaaS a few weeks ago, developed for ~2 months — a logbook / record-keeping tool for a motorsport hobby, small and well-defined market.&lt;/p&gt; &lt;p&gt;Distribution is where I&amp;#39;m stuck, and I want to sanity-check my thinking with people who&amp;#39;ve actually been through it.&lt;/p&gt; &lt;p&gt;Here&amp;#39;s the specific thing bugging me. I&amp;#39;ve been reading the communit",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tiqb9b/the_problem_is_probably_real_but_visibility_isnt/",
+      "permalink": "/r/SaaS/comments/1tiqb9b/the_problem_is_probably_real_but_visibility_isnt/",
+      "createdAt": 1779293402000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779300853567
+    },
+    {
+      "id": "1tirstj",
+      "title": "What has been your biggest roadblock in landing your first 10 customers through social media?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Getting those first 10 users is usually the hardest part of the solo founder journey. I spent weeks manually scrolling through subreddits and Twitter threads trying to find anyone who actually needed what I was building. Most people just talk about the problem in general terms, and by the time you find a real lead, you have already wasted hours of your workday.&lt;/p&gt; &lt;p&gt;I found that keyword alerts were pretty useless because",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1tirstj/what_has_been_your_biggest_roadblock_in_landing/",
+      "permalink": "/r/Solopreneur/comments/1tirstj/what_has_been_your_biggest_roadblock_in_landing/",
+      "createdAt": 1779296432000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779300913112
+    },
+    {
+      "id": "1tir70j",
+      "title": "Looking for startup founders willing to pressure-test and better define their ideas using AI (free)",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/agiloop&quot;&gt; /u/agiloop &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;/r/founder/comments/1thyqzn/looking_for_startup_founders_willing_to/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Solopreneur/comments/1tir70j/looking_for_startup_founders_willing_to/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1tir70j/looking_for_startup_founders_willing_to/",
+      "permalink": "/r/Solopreneur/comments/1tir70j/looking_for_startup_founders_willing_to/",
+      "createdAt": 1779295188000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solopreneur",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779300913112
+    },
+    {
+      "id": "1tisgq7",
+      "title": "Built an AI atomation tool to save days of Saas distribution/Launching",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi everyone,&lt;/p&gt; &lt;p&gt;a weeks ago I was building building a Saas platform for writers but distribution became the hardest part because I was a solo founder and I wanted to launch across different distribution platforms like BetaList, Saashub etc to improve my visibility but it was so exhaustive so I built fastlaunch which I used to launch across different directories.&lt;/p&gt; &lt;p&gt;AI that makes it simple for submission",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tisgq7/built_an_ai_atomation_tool_to_save_days_of_saas/",
+      "permalink": "/r/SideProject/comments/1tisgq7/built_an_ai_atomation_tool_to_save_days_of_saas/",
+      "createdAt": 1779297783000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779300932747
+    },
+    {
+      "id": "1tisfhp",
+      "title": "I am building an open-source CLI for AI red-team campaigns",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Sharing a side project called RedThread:&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://github.com/matheusht/redthread&quot;&gt;https://github.com/matheusht/redthread&lt;/a&gt;&lt;/p&gt; &lt;p&gt;It is an open-source CLI for testing LLM apps and agents before they go live. The project is mostly for builders/security people who want repeatable red-team runs instead of one-off prompt poking.&lt;/p&gt; &lt;p&gt;What it does:&lt;/p&gt; &lt;u",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tisfhp/i_am_building_an_opensource_cli_for_ai_redteam/",
+      "permalink": "/r/SideProject/comments/1tisfhp/i_am_building_an_opensource_cli_for_ai_redteam/",
+      "createdAt": 1779297714000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779300932747
+    },
+    {
+      "id": "1tirz6a",
+      "title": "I made an easy to use diagram tool that’s quick to get started with",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’m starting a side project with a friend, and while choosing tools for planning and flow diagramming, I realized most popular diagramming tools feel too bloated when all we want is to lay down ideas quickly.&lt;/p&gt; &lt;p&gt;So I built a small browser-based tool which I called Ideagram for sketching interaction flows quickly.&lt;/p&gt; &lt;p&gt;The idea is pretty simple: instead of giving you a bunch of shapes, templates, and forma",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tirz6a/i_made_an_easy_to_use_diagram_tool_thats_quick_to/",
+      "permalink": "/r/SideProject/comments/1tirz6a/i_made_an_easy_to_use_diagram_tool_thats_quick_to/",
+      "createdAt": 1779296796000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779300932747
+    },
+    {
+      "id": "1tir3pi",
+      "title": "REALISTIC POKEDEX - A side project I did using Google AI Studio.",
+      "body": "&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/SideProject/comments/1tir3pi/realistic_pokedex_a_side_project_i_did_using/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/dzZvaGs5Nm1rYjJoMWTlNg0uP4NheTypusILo1d3GA3dJTUa32S5jkNgxRLb.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=78a78332b36731a047fa79bd2b74e16da644bff9&quot; alt=&quot;REALISTIC POKEDEX - A side project I did using Google AI Studio.&quot; title=&quot;REALISTIC POKEDEX - A sid",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tir3pi/realistic_pokedex_a_side_project_i_did_using/",
+      "permalink": "/r/SideProject/comments/1tir3pi/realistic_pokedex_a_side_project_i_did_using/",
+      "createdAt": 1779294999000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779300932747
+    },
+    {
+      "id": "1tiqv4t",
+      "title": "A user went from free credits to paid credits today, and it made my week",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Today I got my first paid user for my side project.&lt;/p&gt; &lt;p&gt;The user signed up, used the free trial credits, bought more credits, and kept working. A few hours later they topped up again.&lt;/p&gt; &lt;p&gt;It was not a huge amount of money. I am excited that someone had a real job to do, tried the product, hit the free limit, paid, and continued using it.&lt;/p&gt; &lt;p&gt;I dug through the usage ledger afterward:&lt;/p&g",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tiqv4t/a_user_went_from_free_credits_to_paid_credits/",
+      "permalink": "/r/SideProject/comments/1tiqv4t/a_user_went_from_free_credits_to_paid_credits/",
+      "createdAt": 1779294509000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779300932748
+    },
+    {
+      "id": "1tiocu3",
+      "title": "[purplefree] - Comparing manual Reddit lead hunting vs automated semantic monitoring for solo founders",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I used to spend my Sunday nights manually scrolling through subreddits to find people asking for tools I was building. It was a massive time sink and usually ended in me getting distracted by random threads. Most founders I talk to either do this manual grind or they use keyword alerts that flood their inbox with 90% garbage because keywords don&amp;#39;t understand context.&lt;/p&gt; &lt;p&gt;I built purplefree to see if I could auto",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tiocu3/purplefree_comparing_manual_reddit_lead_hunting/",
+      "permalink": "/r/SideProject/comments/1tiocu3/purplefree_comparing_manual_reddit_lead_hunting/",
+      "createdAt": 1779289348000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779300932748
+    },
     {
       "id": "1tijyd6",
       "title": "I'm currently making ~$80/month from a grocery app. Here's why I'm not quitting.",
