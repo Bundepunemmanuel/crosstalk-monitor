@@ -1,7 +1,165 @@
 {
-  "lastUpdated": "2026-05-19T21:19:56.572Z",
+  "lastUpdated": "2026-05-20T02:57:46.012Z",
   "totalFound": 7,
   "opportunities": [
+    {
+      "id": "1ti6ful",
+      "title": "How did you get your first users organically as a solo founder?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’m a solo developer currently building a mobile app and planning to launch in about 3 weeks. I decided to start with Android first, then move to iOS later since my budget is limited.&lt;/p&gt; &lt;p&gt;I’m curious how other solopreneurs got their first organic users without spending much money on ads.&lt;/p&gt; &lt;p&gt;Did you use Reddit, TikTok, SEO, communities, content marketing, referrals, Product Hunt, or something else?&lt;/p&",
+      "url": "https://www.reddit.com/r/SaaS/comments/1ti6ful/how_did_you_get_your_first_users_organically_as_a/",
+      "permalink": "/r/SaaS/comments/1ti6ful/how_did_you_get_your_first_users_organically_as_a/",
+      "createdAt": 1779239320000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 4,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        },
+        {
+          "keyword": "solopreneur",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779245722270
+    },
+    {
+      "id": "1ti7f9n",
+      "title": "#1 on Indie Hackers last Saturday. No idea if anyone will pay though. Help me think this through.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I am a dev and have been writing blogs for quite some time and generating images have been a pain point for me.&lt;/p&gt; &lt;p&gt;Last week I was playing with AI image gen models and found myself struggling with creating prompts for the AI to match my brand style. I also have to use another tool to overlay logo on it, convert formats, resize etc. Also different images like hero, og etc have to look different.&lt;/p&gt; &lt;p&gt;So I ",
+      "url": "https://www.reddit.com/r/SaaS/comments/1ti7f9n/1_on_indie_hackers_last_saturday_no_idea_if/",
+      "permalink": "/r/SaaS/comments/1ti7f9n/1_on_indie_hackers_last_saturday_no_idea_if/",
+      "createdAt": 1779241897000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "indie hacker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779245722270
+    },
+    {
+      "id": "1ti5446",
+      "title": "Is multi-tenant Firestore a security nightmare long-term, or am I overthinking my DB design?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’m a CS student building a habit tracker using a React + Firebase stack. Right now, I’m routing all user data through a single multi-tenant Firestore database and relying entirely on Firebase Security Rules to keep user documents isolated.&lt;/p&gt; &lt;p&gt;For solo founders who scaled on Firebase: did you eventually hit a wall where custom security rules became unmanageable, or is it stable enough to handle thousands of active user",
+      "url": "https://www.reddit.com/r/SaaS/comments/1ti5446/is_multitenant_firestore_a_security_nightmare/",
+      "permalink": "/r/SaaS/comments/1ti5446/is_multitenant_firestore_a_security_nightmare/",
+      "createdAt": 1779235876000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779245722270
+    },
+    {
+      "id": "1ti5dis",
+      "title": "I built a toilet finder app, but didn't consider how difficult it would be to find toilets",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;hello folks&lt;/p&gt; &lt;p&gt;the idea was simple&lt;/p&gt; &lt;p&gt;i was in London and desperately needed a toilet&lt;/p&gt; &lt;p&gt;except there just wasnt anything nearby&lt;/p&gt; &lt;p&gt;ended up going into Costa buying something for a code and an overpriced bottle of water just to use theirs&lt;/p&gt; &lt;p&gt;so yeah that turned into my side project&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;http://looscout.com&quot;&gt;looscout.c",
+      "url": "https://www.reddit.com/r/SideProject/comments/1ti5dis/i_built_a_toilet_finder_app_but_didnt_consider/",
+      "permalink": "/r/SideProject/comments/1ti5dis/i_built_a_toilet_finder_app_but_didnt_consider/",
+      "createdAt": 1779236555000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779245801574
+    },
+    {
+      "id": "1ti3nkt",
+      "title": "My mini side projects turned into a 110+ game iOS app",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I started this as a way to stop my prototype graveyard from growing. Every few weeks I&amp;#39;d build a small game (Sudoku, a marble roller, a word game) this has been happening on and off for the past 12 years. &lt;/p&gt; &lt;p&gt;Eventually I thought: why not put all of these in one place?&lt;/p&gt; &lt;p&gt;That decision turned into months of work. GameDen launched on iOS with 110+ games across categories such as puzzles, card, ar",
+      "url": "https://www.reddit.com/r/SideProject/comments/1ti3nkt/my_mini_side_projects_turned_into_a_110_game_ios/",
+      "permalink": "/r/SideProject/comments/1ti3nkt/my_mini_side_projects_turned_into_a_110_game_ios/",
+      "createdAt": 1779232257000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779245801575
+    },
+    {
+      "id": "1ti2056",
+      "title": "HappyCouple - AI help for the exact moment before a relationship conversation goes wrong",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’m the founder of HappyCouple, a small AI side project for people who are in a relationship conflict moment and need help wording the next conversation without escalating it.&lt;/p&gt; &lt;p&gt;The use case I’m testing is narrow: not “AI therapist,” not diagnosis, not legal/safety advice. More like:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;“My partner shut down — what do I say next?”&lt;/li&gt; &lt;li&gt;“Am I overreacting, or is there a real ",
+      "url": "https://www.reddit.com/r/SideProject/comments/1ti2056/happycouple_ai_help_for_the_exact_moment_before_a/",
+      "permalink": "/r/SideProject/comments/1ti2056/happycouple_ai_help_for_the_exact_moment_before_a/",
+      "createdAt": 1779228388000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779245801575
+    },
+    {
+      "id": "1ti7pde",
+      "title": "How do y'all find PMF and build in Public",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I have a MVP, I am reaching out to people to get them to review the product, use it and suggest the features they&amp;#39;d like to see in the future iterations. Overall I want it to be absolutely aligned with what the market demands but I don&amp;#39;t seem to get any traction. &lt;/p&gt; &lt;p&gt;Advices I get from most of the places seem so generic. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a ",
+      "url": "https://www.reddit.com/r/SaaS/comments/1ti7pde/how_do_yall_find_pmf_and_build_in_public/",
+      "permalink": "/r/SaaS/comments/1ti7pde/how_do_yall_find_pmf_and_build_in_public/",
+      "createdAt": 1779242614000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 1,
+      "matched": [
+        {
+          "keyword": "build in public",
+          "category": "intent"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779245722270
+    },
     {
       "id": "1thwxlr",
       "title": "Building a gamification API and second-guessing my own framework foundation. Octalysis vs Hexad vs SDT, which would you bet on?",
