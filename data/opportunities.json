@@ -1,7 +1,95 @@
 {
-  "lastUpdated": "2026-05-20T10:50:33.198Z",
-  "totalFound": 8,
+  "lastUpdated": "2026-05-20T14:59:21.996Z",
+  "totalFound": 4,
   "opportunities": [
+    {
+      "id": "1tijyd6",
+      "title": "I'm currently making ~$80/month from a grocery app. Here's why I'm not quitting.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;~$80/month sounds like nothing. And it kind of is. But 8 months ago it was $0.&lt;/p&gt; &lt;p&gt;I&amp;#39;m a product designer originally. My day job role kept shifting until it wasn&amp;#39;t the job I signed up for and I tried to adapt until I was laid off. Good thing I have this app as a side project so now I&amp;#39;m going full-time on this. I used to hand specs to developers. Now I shipped my own app, designed it and developed",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1tijyd6/im_currently_making_80month_from_a_grocery_app/",
+      "permalink": "/r/Solopreneur/comments/1tijyd6/im_currently_making_80month_from_a_grocery_app/",
+      "createdAt": 1779279521000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779289078148
+    },
+    {
+      "id": "1tin9hh",
+      "title": "Side project went Live yesterday",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi everyone, I’ve been in the crypto space for about 4-5 years now and honestly could never crack the code. Would see people 20x-50x and just like everyone else I would try to chase that anomaly. After loosing money, by either buying the wrong coin by getting influenced by these “crypto gurus” or just buying into the hype. I started looking in more on what some of the most successful traders do. I came across this concept of setting b",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tin9hh/side_project_went_live_yesterday/",
+      "permalink": "/r/SideProject/comments/1tin9hh/side_project_went_live_yesterday/",
+      "createdAt": 1779287070000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779289097707
+    },
+    {
+      "id": "1tij2ks",
+      "title": "At what building point did you realize your side project was actually worth pursuing seriously?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Most projects start as weekend experiments with no real expectations. But at some point something shifts when you get a first paying customer, a stranger using it on their own or just a growing conviction that you were solving a real problem.&lt;/p&gt; &lt;p&gt;That moment looks different for everyone. What was yours?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/us",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tij2ks/at_what_building_point_did_you_realize_your_side/",
+      "permalink": "/r/SideProject/comments/1tij2ks/at_what_building_point_did_you_realize_your_side/",
+      "createdAt": 1779277219000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779289097708
+    },
+    {
+      "id": "1tij08b",
+      "title": "Do you have a distribution strategy?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Seeing people complain that building has become easy, but distribution is more difficult than they imagined.&lt;/p&gt; &lt;p&gt;Do you have a method to reach your target audience, or is it just random marketing through well-known channels(reddit-linkedin-x ect?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/OkContract6063&quot;&gt; /u/OkContract6063 &lt;/a&gt; &",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tij08b/do_you_have_a_distribution_strategy/",
+      "permalink": "/r/SaaS/comments/1tij08b/do_you_have_a_distribution_strategy/",
+      "createdAt": 1779277035000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 1,
+      "matched": [
+        {
+          "keyword": "distribution strategy",
+          "category": "intent"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779289018996
+    },
     {
       "id": "1tig5nj",
       "title": "Built an open-source Java ESC/POS compiler &amp; cloud API to auto-print Shopify/Stripe receipts to Wi-Fi printers (No more socket drops)",
