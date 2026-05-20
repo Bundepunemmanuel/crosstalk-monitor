@@ -223,7 +223,7 @@ function OpportunityCard({ post, onDone, groqKey }) {
   );
 }
 
-function AskRedditCard({ post, groqKey }) {
+function AskRedditCard({ post, groqKey, engLabel, engColor }) {
   const [expanded, setExpanded] = useState(false);
   const [drafting, setDrafting] = useState(false);
   const [replies, setReplies] = useState(null);
@@ -248,7 +248,7 @@ function AskRedditCard({ post, groqKey }) {
           <span style={{ fontSize: "11px", fontWeight: 700, color: "#f97316", fontFamily: "monospace" }}>r/AskReddit</span>
           <span style={{ fontSize: "11px", color: "#334155" }}>·</span>
           <span style={{ fontSize: "11px", color: "#475569" }}>{timeAgo(post.createdAt)}</span>
-          <span style={{ fontSize: "9px", fontWeight: 700, padding: "2px 6px", borderRadius: "4px", background: "#f9731622", border: "1px solid #f97316", color: "#f97316", marginLeft: "4px" }}>KARMA</span>
+          <span style={{ fontSize: "9px", fontWeight: 700, padding: "2px 6px", borderRadius: "4px", background: (engColor || "#f97316") + "22", border: "1px solid " + (engColor || "#f97316"), color: engColor || "#f97316", marginLeft: "4px" }}>{engLabel || "KARMA"}</span>
         </div>
         <p style={{ margin: "0 0 10px", fontSize: "13px", fontWeight: 600, color: "#e2e8f0", lineHeight: 1.4 }}>{title}</p>
         <div style={{ display: "flex", gap: "6px" }}>
@@ -279,61 +279,79 @@ function AskRedditCard({ post, groqKey }) {
   );
 }
 
-function AskRedditFeed({ groqKey }) {
-  const [posts, setPosts] = useState([]);
-  const [loading, setLoading] = useState(false);
-  const [lastFetch, setLastFetch] = useState(null);
+function engagementLabel(score) {
+  if (score >= 7) return { label: "🔥 High", color: "#00ff88" };
+  if (score >= 5) return { label: "⚡ Medium", color: "#ffd166" };
+  return { label: "💬 Low", color: "#64748b" };
+}
 
-  const fetchPosts = useCallback(async () => {
-    setLoading(true);
-    try {
-      const all = [];
-      for (const sort of ["hot", "new"]) {
-        const redditUrl = "https://www.reddit.com/r/AskReddit/" + sort + "/.rss?limit=50";
-        const url = "https://api.allorigins.win/get?url=" + encodeURIComponent(redditUrl);
-        const res = await fetch(url);
-        if (!res.ok) continue;
-        const json = await res.json();
-        const xml = json.contents ?? "";
-        for (const match of xml.matchAll(/<entry>([\s\S]*?)<\/entry>/g)) {
-          const e = match[1];
-          const title = (e.match(/<title[^>]*>([\s\S]*?)<\/title>/) || [])[1]?.replace(/<!\[CDATA\[|\]\]>/g, "")?.trim() ?? "";
-          const link = (e.match(/<link[^>]*href="([^"]+)"/) || [])[1]?.trim() ?? "";
-          const updated = (e.match(/<updated>([\s\S]*?)<\/updated>/) || [])[1]?.trim() ?? "";
-          const idMatch = link.match(/comments\/([a-z0-9]+)\//);
-          const id = idMatch?.[1] ?? Math.random().toString(36).slice(2);
-          if (!title || title.toLowerCase().includes("weekly") || title.toLowerCase().includes("daily thread")) continue;
-          const createdAt = updated ? new Date(updated).getTime() : Date.now();
-          if (Date.now() - createdAt > 6 * 60 * 60 * 1000) continue;
-          all.push({ id, title, body: "", url: link, createdAt });
-        }
-      }
-      const seen = new Set();
-      setPosts(all.filter((p) => { if (seen.has(p.id)) return false; seen.add(p.id); return true; }).slice(0, 30));
-      setLastFetch(new Date());
-    } catch (e) { console.error(e); }
-    finally { setLoading(false); }
-  }, []);
+function AskRedditFeed({ groqKey, karmaOpportunities, lastUpdated, loading }) {
+  const [done, setDone] = useState(() => {
+    try { return new Set(JSON.parse(localStorage.getItem("karma_done_ids") || "[]")); }
+    catch { return new Set(); }
+  });
 
-  useEffect(() => { fetchPosts(); }, [fetchPosts]);
+  const markDone = (id) => {
+    setDone((prev) => {
+      const next = new Set(prev);
+      next.add(id);
+      localStorage.setItem("karma_done_ids", JSON.stringify([...next]));
+      return next;
+    });
+  };
+
+  const visible = karmaOpportunities
+    .filter((p) => !done.has(p.id))
+    .sort((a, b) => b.engScore - a.engScore);
 
   return (
     <div>
-      <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: "16px", flexWrap: "wrap", gap: "8px" }}>
+      <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: "8px", flexWrap: "wrap", gap: "8px" }}>
         <div>
           <p style={{ margin: 0, fontSize: "13px", fontWeight: 700, color: "#f97316" }}>Karma Builder — r/AskReddit</p>
           <p style={{ margin: "2px 0 0", fontSize: "11px", color: "#475569" }}>
-            Posts under 3hrs old. Reply early to ride upvotes.{lastFetch ? " Fetched " + timeAgo(lastFetch.getTime()) : ""}
+            Ranked by engagement potential. Reply early to ride upvotes.
           </p>
+          {lastUpdated && (
+            <p style={{ margin: "2px 0 0", fontSize: "11px", color: "#475569" }}>
+              Last scan: {new Date(lastUpdated).toLocaleString()}
+            </p>
+          )}
         </div>
-        <button onClick={fetchPosts} disabled={loading} style={{ padding: "7px 14px", borderRadius: "7px", fontSize: "12px", fontWeight: 700, cursor: loading ? "not-allowed" : "pointer", background: "#1e293b", color: "#f97316", border: "1px solid #f9731644" }}>
-          {loading ? "Loading..." : "Refresh ↻"}
-        </button>
       </div>
+
+      <div style={{ display: "flex", gap: "12px", marginBottom: "14px", flexWrap: "wrap" }}>
+        {[{ label: "🔥 High potential", color: "#00ff88" }, { label: "⚡ Medium", color: "#ffd166" }, { label: "💬 Low", color: "#64748b" }].map((l) => (
+          <span key={l.label} style={{ fontSize: "10px", fontWeight: 700, color: l.color }}>{l.label}</span>
+        ))}
+      </div>
+
       {!groqKey && <p style={{ fontSize: "12px", color: "#fbbf24", marginBottom: "12px" }}>Add Groq API key in Settings to draft replies</p>}
+
       {loading && <p style={{ textAlign: "center", padding: "40px 0", color: "#475569", fontSize: "13px" }}>Loading...</p>}
-      {!loading && posts.length === 0 && <p style={{ textAlign: "center", padding: "40px 0", color: "#475569", fontSize: "13px" }}>No fresh posts. Try refreshing.</p>}
-      {posts.map((p) => <AskRedditCard key={p.id} post={p} groqKey={groqKey} />)}
+
+      {!loading && visible.length === 0 && (
+        <div style={{ textAlign: "center", padding: "60px 0", color: "#475569" }}>
+          <p style={{ fontSize: "28px" }}>🎯</p>
+          <p style={{ fontSize: "13px", margin: "6px 0 0" }}>No karma posts yet.</p>
+          <p style={{ fontSize: "11px", margin: "4px 0 0" }}>Run the GitHub Action to fetch AskReddit posts.</p>
+        </div>
+      )}
+
+      {visible.map((p) => {
+        const eng = engagementLabel(p.engScore);
+        return (
+          <div key={p.id} style={{ position: "relative" }}>
+            <AskRedditCard post={p} groqKey={groqKey} engLabel={eng.label} engColor={eng.color} />
+            <button
+              onClick={() => markDone(p.id)}
+              style={{ position: "absolute", top: "14px", right: "14px", padding: "4px 10px", borderRadius: "6px", fontSize: "11px", fontWeight: 600, cursor: "pointer", background: "transparent", color: "#334155", border: "1px solid #1e293b" }}
+            >
+              Done
+            </button>
+          </div>
+        );
+      })}
     </div>
   );
 }
@@ -430,6 +448,7 @@ function SettingsPanel({ groqKey, setGroqKey, subreddits, setSubreddits, keyword
 export default function App() {
   const [tab, setTab] = useState("feed");
   const [opportunities, setOpportunities] = useState([]);
+  const [karmaOpportunities, setKarmaOpportunities] = useState([]);
   const [lastUpdated, setLastUpdated] = useState(null);
   const [loading, setLoading] = useState(true);
   const [fetchError, setFetchError] = useState(null);
@@ -461,7 +480,7 @@ export default function App() {
     setLoading(true);
     fetch(GITHUB_RAW_URL + "?t=" + Date.now())
       .then((r) => { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
-      .then((data) => { setOpportunities(data.opportunities || []); setLastUpdated(data.lastUpdated); setLoading(false); })
+      .then((data) => { setOpportunities(data.opportunities || []); setKarmaOpportunities(data.karmaOpportunities || []); setLastUpdated(data.lastUpdated); setLoading(false); })
       .catch((e) => { setFetchError(e.message); setLoading(false); });
   }, []);
 
@@ -537,7 +556,7 @@ export default function App() {
           </>
         )}
 
-        {tab === "karma" && <AskRedditFeed groqKey={groqKey} />}
+        {tab === "karma" && <AskRedditFeed groqKey={groqKey} karmaOpportunities={karmaOpportunities} lastUpdated={lastUpdated} loading={loading} />}
 
         {tab === "settings" && (
           <SettingsPanel
