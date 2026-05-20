@@ -1,7 +1,183 @@
 {
-  "lastUpdated": "2026-05-20T07:43:28.628Z",
-  "totalFound": 1,
+  "lastUpdated": "2026-05-20T10:50:33.198Z",
+  "totalFound": 8,
   "opportunities": [
+    {
+      "id": "1tig5nj",
+      "title": "Built an open-source Java ESC/POS compiler &amp; cloud API to auto-print Shopify/Stripe receipts to Wi-Fi printers (No more socket drops)",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey everyone,&lt;/p&gt; &lt;p&gt;As a backend dev working with payment soundboxes and thermal printers, I noticed a recurring headache for solo indie hackers: Connecting a Shopify/Stripe webhook to a local restaurant kitchen&amp;#39;s Wi-Fi printer is a nightmare.&lt;/p&gt; &lt;p&gt;Front-end devs (Next.js/React) often struggle with handling raw hex ESC/POS byte streams, and setting up persistent TCP sockets that survive unstable rest",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tig5nj/built_an_opensource_java_escpos_compiler_cloud/",
+      "permalink": "/r/SaaS/comments/1tig5nj/built_an_opensource_java_escpos_compiler_cloud/",
+      "createdAt": 1779268293000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "indie hacker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779274089444
+    },
+    {
+      "id": "1tifm4l",
+      "title": "Anybody makes content for apps? Using AI?",
+      "body": "&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/Solopreneur/comments/1tifm4l/anybody_makes_content_for_apps_using_ai/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/lwK4_Y2cagr8mIB22_6Zc_7UuaoEmm2lnGmK3NoLAI4.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=5f18e3de43bc375ce1e1ff1b57bbef245de39c41&quot; alt=&quot;Anybody makes content for apps? Using AI?&quot; title=&quot;Anybody makes content for apps? Using AI?&quot; /&gt; &lt;/a&gt; &lt;",
+      "url": "https://www.reddit.com/r/Solopreneur/comments/1tifm4l/anybody_makes_content_for_apps_using_ai/",
+      "permalink": "/r/Solopreneur/comments/1tifm4l/anybody_makes_content_for_apps_using_ai/",
+      "createdAt": 1779266456000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "solopreneur",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solopreneur",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779274148973
+    },
+    {
+      "id": "1tihiez",
+      "title": "Analytics coach to personalized scripts: What I learned building TokCoach",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;As a content creator, I spent 30 minutes staring at my phone every time I tried to write a TikTok script. Had the idea, but the words wouldn&amp;#39;t come, or it would just land complety wrong...&lt;/p&gt; &lt;p&gt;So I built TokCoach as an &amp;#39;AI TikTok growth coach&amp;#39; with an analytics dashboard, video insights, and performance tracking. The whole analytics thing.&lt;/p&gt; &lt;p&gt;But when I actually used it... I still",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tihiez/analytics_coach_to_personalized_scripts_what_i/",
+      "permalink": "/r/SideProject/comments/1tihiez/analytics_coach_to_personalized_scripts_what_i/",
+      "createdAt": 1779272692000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "content creator",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779274168752
+    },
+    {
+      "id": "1tihh3c",
+      "title": "Built VoiceBee — cross-platform voice dictation with 20+ AI models in one sub. ~10 active users after 2 months. Here's where I'm at.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Solo founder here. I&amp;#39;m Vasiles, Greek, based in Athens. Two months ago I went live on Stripe with VoiceBee — voice dictation that runs on Mac, Windows, iOS and Android.&lt;/p&gt; &lt;p&gt;Why I built it: I was paying €14/mo for Wispr Flow and getting frustrated. One fixed AI model, opaque about how data was routed, US-only company that made my European clients uncomfortable. I figured the bar wasn&amp;#39;t actually that high ",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tihh3c/built_voicebee_crossplatform_voice_dictation_with/",
+      "permalink": "/r/SideProject/comments/1tihh3c/built_voicebee_crossplatform_voice_dictation_with/",
+      "createdAt": 1779272585000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779274168752
+    },
+    {
+      "id": "1tihezw",
+      "title": "The side projects that actually turn into products usually start with one boring rule",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Most side projects fail for the same reason. They start with excitement and end with ambiguity.&lt;/p&gt; &lt;p&gt;At the beginning, everything feels possible. You have ideas, energy, maybe even a stack of inspiration saved on your phone. But after a few days, the project starts to drift because there is no clear decision on what problem it solves, who it is for, and what “done” actually means.&lt;/p&gt; &lt;p&gt;The side projects tha",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tihezw/the_side_projects_that_actually_turn_into/",
+      "permalink": "/r/SideProject/comments/1tihezw/the_side_projects_that_actually_turn_into/",
+      "createdAt": 1779272409000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779274168752
+    },
+    {
+      "id": "1tifi5j",
+      "title": "I built a side project that turns designs into sellable merch links without inventory or store setup",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’ve been building a side project called TIPITY ONLINE.&lt;/p&gt; &lt;p&gt;The idea started simple: make it easier for creators to turn designs, photos, or AI artwork into products people can actually buy without needing to build a full store.&lt;/p&gt; &lt;p&gt;Right now it has a few different paths:&lt;/p&gt; &lt;p&gt;Creators can make an exact product link, like a mug or shirt, and share that link directly on social media.&lt;/p&gt",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tifi5j/i_built_a_side_project_that_turns_designs_into/",
+      "permalink": "/r/SideProject/comments/1tifi5j/i_built_a_side_project_that_turns_designs_into/",
+      "createdAt": 1779266062000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779274168752
+    },
+    {
+      "id": "1tifel7",
+      "title": "Built a netflix like experience for youtube series!",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Built a side project called BingeTube — an OTT-style, distraction-less way to watch YouTube series.&lt;/p&gt; &lt;p&gt;Track progress, binge channels in order, skip watched videos, and discover curated collections like actual shows instead of endlessly scrolling recommendations.&lt;/p&gt; &lt;p&gt;Beta is almost complete. Currently polishing stability before launch.&lt;/p&gt; &lt;p&gt;link: &lt;a href=&quot;https://bingetube.io&quot;&",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tifel7/built_a_netflix_like_experience_for_youtube_series/",
+      "permalink": "/r/SideProject/comments/1tifel7/built_a_netflix_like_experience_for_youtube_series/",
+      "createdAt": 1779265722000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779274168752
+    },
+    {
+      "id": "1tiennh",
+      "title": "PartyPot - Virtual Poker Chips, Digital Chips for physical Poker games, Mahjong, Blackjack, In-Between, Rummy, Monopoly banker",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi Redditors,&lt;/p&gt; &lt;p&gt;First time posting here. Wanted to share a side project — PartyPot.&lt;/p&gt; &lt;p&gt;Scratch-my-own-itch story. Every Chinese New Year, my family gathers and plays card games, poker, blackjack, in-between, mahjong, the usual rotation. And every year, the same two problems show up:&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Nobody has enough small change. People scrambling for 50sen coins and $1, $5 notes to ante",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tiennh/partypot_virtual_poker_chips_digital_chips_for/",
+      "permalink": "/r/SideProject/comments/1tiennh/partypot_virtual_poker_chips_digital_chips_for/",
+      "createdAt": 1779263176000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779274168752
+    },
     {
       "id": "1tiaf45",
       "title": "My between-jobs side project to help tech workers know what they're worth.",
