@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-23T13:21:55.737Z",
-  "totalFound": 80,
+  "lastUpdated": "2026-05-23T17:00:05.841Z",
+  "totalFound": 81,
   "opportunities": [
     {
       "id": "1tjk6rm",
@@ -26,7 +26,29 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542406801
+      "fetchedAt": 1779555495762
+    },
+    {
+      "id": "1tlgx4s",
+      "title": "I audited 40+ founder ops setups this year. Here is the one thing almost every bootstrapped founder gets wrong.",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;They think the bottleneck is leads.&lt;/p&gt; &lt;p&gt;It is almost never leads.&lt;/p&gt; &lt;p&gt;It is what happens after the lead. The follow-up that goes out three days late. The sequence that lives in someone&amp;#39;s head and dies when they get busy. The deal that went cold not because the prospect said no but because no one followed up.&lt;/p&gt; &lt;p&gt;I have worked with founders doing $10k MRR and founders doing $80k MRR.",
+      "url": "https://www.reddit.com/r/SaaS/comments/1tlgx4s/i_audited_40_founder_ops_setups_this_year_here_is/",
+      "permalink": "/r/SaaS/comments/1tlgx4s/i_audited_40_founder_ops_setups_this_year_here_is/",
+      "createdAt": 1779543897000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SaaS",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "bootstrapped founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779555426926
     },
     {
       "id": "1tcmvc6",
@@ -48,7 +70,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542338447
+      "fetchedAt": 1779555426927
     },
     {
       "id": "1tk9o4o",
@@ -70,7 +92,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542338448
+      "fetchedAt": 1779555426929
     },
     {
       "id": "1tkdans",
@@ -92,7 +114,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542361286
+      "fetchedAt": 1779555450126
     },
     {
       "id": "1tjhqev",
@@ -114,7 +136,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542361286
+      "fetchedAt": 1779555450126
     },
     {
       "id": "1tjevl7",
@@ -136,7 +158,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542361286
+      "fetchedAt": 1779555450126
     },
     {
       "id": "1tgjf75",
@@ -158,7 +180,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542361287
+      "fetchedAt": 1779555450126
     },
     {
       "id": "1tgdg1t",
@@ -180,7 +202,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542361287
+      "fetchedAt": 1779555450126
     },
     {
       "id": "1tdt6s9",
@@ -202,7 +224,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542361287
+      "fetchedAt": 1779555450126
     },
     {
       "id": "1tdpg1s",
@@ -224,7 +246,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542361287
+      "fetchedAt": 1779555450126
     },
     {
       "id": "1t9yc6i",
@@ -246,7 +268,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542361287
+      "fetchedAt": 1779555450126
     },
     {
       "id": "1t92le5",
@@ -268,7 +290,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542361287
+      "fetchedAt": 1779555450126
     },
     {
       "id": "1t8okoz",
@@ -290,7 +312,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542361287
+      "fetchedAt": 1779555450126
     },
     {
       "id": "1t82ugp",
@@ -312,7 +334,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542361287
+      "fetchedAt": 1779555450127
     },
     {
       "id": "1t82ti7",
@@ -334,7 +356,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542361287
+      "fetchedAt": 1779555450127
     },
     {
       "id": "1t661yf",
@@ -356,7 +378,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542361287
+      "fetchedAt": 1779555450127
     },
     {
       "id": "1t5qwbg",
@@ -378,7 +400,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542361287
+      "fetchedAt": 1779555450127
     },
     {
       "id": "1t4k4su",
@@ -400,7 +422,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542361287
+      "fetchedAt": 1779555450127
     },
     {
       "id": "1t4eqho",
@@ -422,7 +444,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542361288
+      "fetchedAt": 1779555450127
     },
     {
       "id": "1t2ndjj",
@@ -444,7 +466,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542361288
+      "fetchedAt": 1779555450127
     },
     {
       "id": "1t10a29",
@@ -466,7 +488,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542361288
+      "fetchedAt": 1779555450127
     },
     {
       "id": "1t0m969",
@@ -488,7 +510,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542361288
+      "fetchedAt": 1779555450127
     },
     {
       "id": "1szx2dw",
@@ -510,7 +532,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542361288
+      "fetchedAt": 1779555450127
     },
     {
       "id": "1sy3y5o",
@@ -532,7 +554,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542361288
+      "fetchedAt": 1779555450127
     },
     {
       "id": "1sxq2zu",
@@ -554,7 +576,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542361288
+      "fetchedAt": 1779555450127
     },
     {
       "id": "1sxol8e",
@@ -576,7 +598,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542361288
+      "fetchedAt": 1779555450127
     },
     {
       "id": "1src1fj",
@@ -598,7 +620,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542361288
+      "fetchedAt": 1779555450127
     },
     {
       "id": "1smtafn",
@@ -620,7 +642,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542361288
+      "fetchedAt": 1779555450127
     },
     {
       "id": "1sl7xpt",
@@ -642,7 +664,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542361288
+      "fetchedAt": 1779555450128
     },
     {
       "id": "1sl7a8j",
@@ -664,7 +686,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542361288
+      "fetchedAt": 1779555450128
     },
     {
       "id": "1pk2rzb",
@@ -686,7 +708,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542361288
+      "fetchedAt": 1779555450128
     },
     {
       "id": "1pj44es",
@@ -708,7 +730,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542361288
+      "fetchedAt": 1779555450128
     },
     {
       "id": "1tglq7a",
@@ -730,7 +752,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542383862
+      "fetchedAt": 1779555472896
     },
     {
       "id": "1t5elh4",
@@ -752,7 +774,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542383863
+      "fetchedAt": 1779555472897
     },
     {
       "id": "1tlb4ik",
@@ -774,7 +796,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542406801
+      "fetchedAt": 1779555495762
     },
     {
       "id": "1tkpjx3",
@@ -796,7 +818,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542406801
+      "fetchedAt": 1779555495762
     },
     {
       "id": "1tkeh2g",
@@ -818,7 +840,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542406801
+      "fetchedAt": 1779555495762
     },
     {
       "id": "1tkdma6",
@@ -840,7 +862,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542406801
+      "fetchedAt": 1779555495762
     },
     {
       "id": "1tk98hq",
@@ -862,7 +884,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542406801
+      "fetchedAt": 1779555495762
     },
     {
       "id": "1tk6585",
@@ -884,7 +906,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542406801
+      "fetchedAt": 1779555495762
     },
     {
       "id": "1tk4zjh",
@@ -906,7 +928,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542406801
+      "fetchedAt": 1779555495762
     },
     {
       "id": "1tjy9bi",
@@ -928,7 +950,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542406801
+      "fetchedAt": 1779555495762
     },
     {
       "id": "1tjvv8x",
@@ -950,7 +972,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542406801
+      "fetchedAt": 1779555495762
     },
     {
       "id": "1tizf19",
@@ -972,7 +994,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542406801
+      "fetchedAt": 1779555495762
     },
     {
       "id": "1tirstj",
@@ -994,7 +1016,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542406801
+      "fetchedAt": 1779555495762
     },
     {
       "id": "1tir70j",
@@ -1016,7 +1038,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542406801
+      "fetchedAt": 1779555495762
     },
     {
       "id": "1tijyd6",
@@ -1038,7 +1060,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542406801
+      "fetchedAt": 1779555495762
     },
     {
       "id": "1tifm4l",
@@ -1060,7 +1082,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542406801
+      "fetchedAt": 1779555495762
     },
     {
       "id": "1th9s6v",
@@ -1082,7 +1104,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542406802
+      "fetchedAt": 1779555495762
     },
     {
       "id": "1tgkwoh",
@@ -1104,7 +1126,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542406802
+      "fetchedAt": 1779555495762
     },
     {
       "id": "1tgcm69",
@@ -1126,7 +1148,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542406802
+      "fetchedAt": 1779555495762
     },
     {
       "id": "1tg1a90",
@@ -1148,7 +1170,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542406802
+      "fetchedAt": 1779555495763
     },
     {
       "id": "1tezpzx",
@@ -1170,7 +1192,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542406802
+      "fetchedAt": 1779555495763
     },
     {
       "id": "1tet1zo",
@@ -1192,7 +1214,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542406802
+      "fetchedAt": 1779555495763
     },
     {
       "id": "1teplyn",
@@ -1214,7 +1236,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542406802
+      "fetchedAt": 1779555495763
     },
     {
       "id": "1te2onj",
@@ -1236,7 +1258,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542406802
+      "fetchedAt": 1779555495763
     },
     {
       "id": "1tdzlib",
@@ -1258,7 +1280,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542406802
+      "fetchedAt": 1779555495763
     },
     {
       "id": "1tdyfah",
@@ -1280,7 +1302,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542406802
+      "fetchedAt": 1779555495763
     },
     {
       "id": "1tdpu9f",
@@ -1302,7 +1324,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542406802
+      "fetchedAt": 1779555495763
     },
     {
       "id": "1tdoh0n",
@@ -1324,7 +1346,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542406802
+      "fetchedAt": 1779555495763
     },
     {
       "id": "1td21ai",
@@ -1346,7 +1368,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542406802
+      "fetchedAt": 1779555495763
     },
     {
       "id": "1tcqr3s",
@@ -1368,7 +1390,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542406802
+      "fetchedAt": 1779555495763
     },
     {
       "id": "1tc9ow4",
@@ -1390,7 +1412,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542406802
+      "fetchedAt": 1779555495763
     },
     {
       "id": "1tc8tuv",
@@ -1412,7 +1434,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542406802
+      "fetchedAt": 1779555495763
     },
     {
       "id": "1tbu9xq",
@@ -1434,7 +1456,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542406802
+      "fetchedAt": 1779555495763
     },
     {
       "id": "1tavqmq",
@@ -1456,7 +1478,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542406802
+      "fetchedAt": 1779555495763
     },
     {
       "id": "1taul12",
@@ -1478,7 +1500,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542406802
+      "fetchedAt": 1779555495763
     },
     {
       "id": "1tjdklv",
@@ -1500,7 +1522,117 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542406803
+      "fetchedAt": 1779555495764
+    },
+    {
+      "id": "1tlj4ke",
+      "title": "I'll build your go-to-market strategy for free. Drop your project below 👇",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;m a solo founder building a GTM tool - TRYGO (Marketing co-pilot) for early-stage projects. When you have MVP, but don&amp;#39;t know how to promote your idea. To stress-test it, I need real projects with a few users — not fake data.&lt;/p&gt; &lt;p&gt;Here&amp;#39;s the deal:&lt;/p&gt; &lt;p&gt;Tell me about your project in the comments:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Landing page link&lt;/li&gt; &lt;li&gt;What problem does",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tlj4ke/ill_build_your_gotomarket_strategy_for_free_drop/",
+      "permalink": "/r/SideProject/comments/1tlj4ke/ill_build_your_gotomarket_strategy_for_free_drop/",
+      "createdAt": 1779549202000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "solo founder",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779555518219
+    },
+    {
+      "id": "1tlihaa",
+      "title": "Builders, show me what you’re working on",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Builders, show me what you’re working on.&lt;/p&gt; &lt;p&gt;I like seeing projects before they’re fully polished. SaaS, AI tools, mobile apps, side projects, research projects, weird experiments, anything.&lt;/p&gt; &lt;p&gt;Drop:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;What you’re building&lt;/li&gt; &lt;li&gt;Who it’s for&lt;/li&gt; &lt;li&gt;What problem it solves&lt;/li&gt; &lt;li&gt;Link, if it’s live&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;I’ll",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tlihaa/builders_show_me_what_youre_working_on/",
+      "permalink": "/r/SideProject/comments/1tlihaa/builders_show_me_what_youre_working_on/",
+      "createdAt": 1779547666000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779555518219
+    },
+    {
+      "id": "1tlh8fw",
+      "title": "I built an all-in-one video and photo toolkit for iPhone with 9 tools in one app",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey &lt;a href=&quot;/r/SideProject&quot;&gt;r/SideProject&lt;/a&gt;,&lt;/p&gt; &lt;p&gt;I have been building iOS apps as a side project for a while now and wanted to share my latest one.&lt;/p&gt; &lt;p&gt;The idea came from frustration -- every time I needed to convert a video to GIF, reverse a clip, or extract audio, I had to download a different app for each task. So I built one app that does all of it.&lt;/p&gt; &lt;p&gt;Here is ",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tlh8fw/i_built_an_allinone_video_and_photo_toolkit_for/",
+      "permalink": "/r/SideProject/comments/1tlh8fw/i_built_an_allinone_video_and_photo_toolkit_for/",
+      "createdAt": 1779544695000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779555518219
+    },
+    {
+      "id": "1tlgpot",
+      "title": "Started this as a way to reduce hosting costs for my own projects",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey,&lt;/p&gt; &lt;p&gt;I didn’t plan to build a hosting company.&lt;/p&gt; &lt;p&gt;It started pretty simple I was running a lot of side projects + client sites and I was burning too much money on different hosting companies.&lt;/p&gt; &lt;p&gt;So I moved everything to a reseller plan just to save costs and manage things in one place.&lt;/p&gt; &lt;p&gt;Over time, as I started handling more customers and projects I slowly turned it i",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tlgpot/started_this_as_a_way_to_reduce_hosting_costs_for/",
+      "permalink": "/r/SideProject/comments/1tlgpot/started_this_as_a_way_to_reduce_hosting_costs_for/",
+      "createdAt": 1779543367000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779555518219
+    },
+    {
+      "id": "1tlghph",
+      "title": "Showoff Saturday: Built a free AI spend auditor this week — found most teams are paying for 2 code assistants without realising it",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;ve been working on a side project this past week and finally shipped it. Wanted to share here because I think it&amp;#39;s actually useful and not just another &amp;quot;I built X in Y hours&amp;quot; post.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;The problem I was solving:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Most startups and engineering teams are paying for 2-4 AI tools simultaneously — Cursor, GitHub Copilot, Claude, ChatGPT — and ",
+      "url": "https://www.reddit.com/r/SideProject/comments/1tlghph/showoff_saturday_built_a_free_ai_spend_auditor/",
+      "permalink": "/r/SideProject/comments/1tlghph/showoff_saturday_built_a_free_ai_spend_auditor/",
+      "createdAt": 1779542807000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "SideProject",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "side project",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779555518219
     },
     {
       "id": "1tleygr",
@@ -1522,7 +1654,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542429059
+      "fetchedAt": 1779555518220
     },
     {
       "id": "1tlepuo",
@@ -1544,7 +1676,7 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542429059
+      "fetchedAt": 1779555518220
     },
     {
       "id": "1tlel2o",
@@ -1566,7 +1698,95 @@
       "topComments": [],
       "drafted": false,
       "done": false,
-      "fetchedAt": 1779542429059
+      "fetchedAt": 1779555518220
+    },
+    {
+      "id": "1thtzd7",
+      "title": "How are we as digital marketers starting to factor LLM discoverability into our content strategies?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;The agency I work at was recently passing around a recent study from Semrush, and it had some interesting insights for B2B brands. As AI tools become a bigger discovery engine for buyers, execs, and decision-makers, our content isn’t just being consumed by people, it’s being indexed and reinterpreted by LLMs too.&lt;/p&gt; &lt;p&gt;One of the biggest takeaways (and you’re probably already seeing this in your own AI search results): Li",
+      "url": "https://www.reddit.com/r/linkedin/comments/1thtzd7/how_are_we_as_digital_marketers_starting_to/",
+      "permalink": "/r/linkedin/comments/1thtzd7/how_are_we_as_digital_marketers_starting_to/",
+      "createdAt": 1779211854000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "linkedin",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "maker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779555562500
+    },
+    {
+      "id": "1thdlc3",
+      "title": "Why is everything AI…",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’ve logged in for the first time in a couple of months. I work in film, so I naturally follow a lot of filmmakers from around the world. Most of which are now fully immersed into implementing AI into filmmaking. &lt;/p&gt; &lt;p&gt;Sorry not just implementing, fully creating the piece of work. &lt;/p&gt; &lt;p&gt;“You can’t call them AI film now, they are just… Films” &lt;/p&gt; &lt;p&gt;I’m seeing this slop on every post, people are",
+      "url": "https://www.reddit.com/r/linkedin/comments/1thdlc3/why_is_everything_ai/",
+      "permalink": "/r/linkedin/comments/1thdlc3/why_is_everything_ai/",
+      "createdAt": 1779169466000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "linkedin",
+      "score": 2,
+      "matched": [
+        {
+          "keyword": "maker",
+          "category": "audience"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779555562500
+    },
+    {
+      "id": "1t5wrj0",
+      "title": "Need help with my ads",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Need honest feedback from people experienced with Reddit Ads because I’m confused by what I’m seeing.&lt;/p&gt; &lt;p&gt;I’m running Reddit traffic ads for a local California plumbing / trenchless sewer company.&lt;/p&gt; &lt;p&gt;The ad metrics themselves don’t look terrible:&lt;/p&gt; &lt;p&gt;But the website behavior makes almost no sense.&lt;/p&gt; &lt;p&gt;Users arrive on the site and stay around 1 minute to 1 minute 20 seconds o",
+      "url": "https://www.reddit.com/r/marketing/comments/1t5wrj0/need_help_with_my_ads/",
+      "permalink": "/r/marketing/comments/1t5wrj0/need_help_with_my_ads/",
+      "createdAt": 1778118608000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "marketing",
+      "score": 1,
+      "matched": [
+        {
+          "keyword": "reddit traffic",
+          "category": "intent"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779555540760
+    },
+    {
+      "id": "1tjbmyj",
+      "title": "What are the best Linkedin growth playbooks you've used and can personally vouch for?",
+      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’ve been spending a lot of time trying to understand LinkedIn growth beyond the usual advice like “post consistently” or “engage with others.”&lt;/p&gt; &lt;p&gt;I’m more interested in practical playbooks that people have actually tried and seen work.&lt;/p&gt; &lt;p&gt;What LinkedIn growth playbooks have you personally used and can actually vouch for?&lt;/p&gt; &lt;p&gt;More interested in specific tactics, workflows, or repeatable s",
+      "url": "https://www.reddit.com/r/linkedin/comments/1tjbmyj/what_are_the_best_linkedin_growth_playbooks_youve/",
+      "permalink": "/r/linkedin/comments/1tjbmyj/what_are_the_best_linkedin_growth_playbooks_youve/",
+      "createdAt": 1779343826000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "linkedin",
+      "score": 1,
+      "matched": [
+        {
+          "keyword": "linkedin growth",
+          "category": "intent"
+        }
+      ],
+      "topComments": [],
+      "drafted": false,
+      "done": false,
+      "fetchedAt": 1779555562500
     },
     {
       "id": "1tled9u",
@@ -1677,94 +1897,6 @@
       "drafted": false,
       "done": false,
       "fetchedAt": 1779542429062
-    },
-    {
-      "id": "1thtzd7",
-      "title": "How are we as digital marketers starting to factor LLM discoverability into our content strategies?",
-      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;The agency I work at was recently passing around a recent study from Semrush, and it had some interesting insights for B2B brands. As AI tools become a bigger discovery engine for buyers, execs, and decision-makers, our content isn’t just being consumed by people, it’s being indexed and reinterpreted by LLMs too.&lt;/p&gt; &lt;p&gt;One of the biggest takeaways (and you’re probably already seeing this in your own AI search results): Li",
-      "url": "https://www.reddit.com/r/linkedin/comments/1thtzd7/how_are_we_as_digital_marketers_starting_to/",
-      "permalink": "/r/linkedin/comments/1thtzd7/how_are_we_as_digital_marketers_starting_to/",
-      "createdAt": 1779211854000,
-      "upvotes": 0,
-      "commentCount": 0,
-      "subreddit": "linkedin",
-      "score": 2,
-      "matched": [
-        {
-          "keyword": "maker",
-          "category": "audience"
-        }
-      ],
-      "topComments": [],
-      "drafted": false,
-      "done": false,
-      "fetchedAt": 1779542472849
-    },
-    {
-      "id": "1thdlc3",
-      "title": "Why is everything AI…",
-      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’ve logged in for the first time in a couple of months. I work in film, so I naturally follow a lot of filmmakers from around the world. Most of which are now fully immersed into implementing AI into filmmaking. &lt;/p&gt; &lt;p&gt;Sorry not just implementing, fully creating the piece of work. &lt;/p&gt; &lt;p&gt;“You can’t call them AI film now, they are just… Films” &lt;/p&gt; &lt;p&gt;I’m seeing this slop on every post, people are",
-      "url": "https://www.reddit.com/r/linkedin/comments/1thdlc3/why_is_everything_ai/",
-      "permalink": "/r/linkedin/comments/1thdlc3/why_is_everything_ai/",
-      "createdAt": 1779169466000,
-      "upvotes": 0,
-      "commentCount": 0,
-      "subreddit": "linkedin",
-      "score": 2,
-      "matched": [
-        {
-          "keyword": "maker",
-          "category": "audience"
-        }
-      ],
-      "topComments": [],
-      "drafted": false,
-      "done": false,
-      "fetchedAt": 1779542472849
-    },
-    {
-      "id": "1t5wrj0",
-      "title": "Need help with my ads",
-      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Need honest feedback from people experienced with Reddit Ads because I’m confused by what I’m seeing.&lt;/p&gt; &lt;p&gt;I’m running Reddit traffic ads for a local California plumbing / trenchless sewer company.&lt;/p&gt; &lt;p&gt;The ad metrics themselves don’t look terrible:&lt;/p&gt; &lt;p&gt;But the website behavior makes almost no sense.&lt;/p&gt; &lt;p&gt;Users arrive on the site and stay around 1 minute to 1 minute 20 seconds o",
-      "url": "https://www.reddit.com/r/marketing/comments/1t5wrj0/need_help_with_my_ads/",
-      "permalink": "/r/marketing/comments/1t5wrj0/need_help_with_my_ads/",
-      "createdAt": 1778118608000,
-      "upvotes": 0,
-      "commentCount": 0,
-      "subreddit": "marketing",
-      "score": 1,
-      "matched": [
-        {
-          "keyword": "reddit traffic",
-          "category": "intent"
-        }
-      ],
-      "topComments": [],
-      "drafted": false,
-      "done": false,
-      "fetchedAt": 1779542451214
-    },
-    {
-      "id": "1tjbmyj",
-      "title": "What are the best Linkedin growth playbooks you've used and can personally vouch for?",
-      "body": "&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’ve been spending a lot of time trying to understand LinkedIn growth beyond the usual advice like “post consistently” or “engage with others.”&lt;/p&gt; &lt;p&gt;I’m more interested in practical playbooks that people have actually tried and seen work.&lt;/p&gt; &lt;p&gt;What LinkedIn growth playbooks have you personally used and can actually vouch for?&lt;/p&gt; &lt;p&gt;More interested in specific tactics, workflows, or repeatable s",
-      "url": "https://www.reddit.com/r/linkedin/comments/1tjbmyj/what_are_the_best_linkedin_growth_playbooks_youve/",
-      "permalink": "/r/linkedin/comments/1tjbmyj/what_are_the_best_linkedin_growth_playbooks_youve/",
-      "createdAt": 1779343826000,
-      "upvotes": 0,
-      "commentCount": 0,
-      "subreddit": "linkedin",
-      "score": 1,
-      "matched": [
-        {
-          "keyword": "linkedin growth",
-          "category": "intent"
-        }
-      ],
-      "topComments": [],
-      "drafted": false,
-      "done": false,
-      "fetchedAt": 1779542472849
     },
     {
       "id": "1tkscnd",
@@ -4579,28 +4711,28 @@
   ],
   "karmaOpportunities": [
     {
-      "id": "1tl7feg",
-      "title": "Be honest, why do you exist?",
-      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Special-Lawyer3941&quot;&gt; /u/Special-Lawyer3941 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tl7feg/be_honest_why_do_you_exist/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tl7feg/be_honest_why_do_you_exist/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
-      "url": "https://www.reddit.com/r/AskReddit/comments/1tl7feg/be_honest_why_do_you_exist/",
-      "permalink": "/r/AskReddit/comments/1tl7feg/be_honest_why_do_you_exist/",
-      "createdAt": 1779514239000,
-      "upvotes": 0,
-      "commentCount": 0,
-      "subreddit": "AskReddit",
-      "engScore": 8
-    },
-    {
-      "id": "1tlfkbs",
-      "title": "What's Your Biggest Regret In Life?",
-      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Plenty_Gain2538&quot;&gt; /u/Plenty_Gain2538 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlfkbs/whats_your_biggest_regret_in_life/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlfkbs/whats_your_biggest_regret_in_life/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
-      "url": "https://www.reddit.com/r/AskReddit/comments/1tlfkbs/whats_your_biggest_regret_in_life/",
-      "permalink": "/r/AskReddit/comments/1tlfkbs/whats_your_biggest_regret_in_life/",
-      "createdAt": 1779540410000,
+      "id": "1tllvr4",
+      "title": "What is the most embarrassing thing that has happened to you?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Celinetangysnarls3r&quot;&gt; /u/Celinetangysnarls3r &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tllvr4/what_is_the_most_embarrassing_thing_that_has/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tllvr4/what_is_the_most_embarrassing_thing_that_has/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1tllvr4/what_is_the_most_embarrassing_thing_that_has/",
+      "permalink": "/r/AskReddit/comments/1tllvr4/what_is_the_most_embarrassing_thing_that_has/",
+      "createdAt": 1779555572000,
       "upvotes": 0,
       "commentCount": 0,
       "subreddit": "AskReddit",
       "engScore": 7
+    },
+    {
+      "id": "1tlf600",
+      "title": "People who’ve escaped the 9–5 grind, how do you actually support yourself financially?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Emotional-Being-6825&quot;&gt; /u/Emotional-Being-6825 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlf600/people_whove_escaped_the_95_grind_how_do_you/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlf600/people_whove_escaped_the_95_grind_how_do_you/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1tlf600/people_whove_escaped_the_95_grind_how_do_you/",
+      "permalink": "/r/AskReddit/comments/1tlf600/people_whove_escaped_the_95_grind_how_do_you/",
+      "createdAt": 1779539313000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 6
     },
     {
       "id": "1tl92el",
@@ -4627,16 +4759,280 @@
       "engScore": 6
     },
     {
-      "id": "1tlf600",
-      "title": "People who’ve escaped the 9–5 grind, how do you actually support yourself financially?",
-      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Emotional-Being-6825&quot;&gt; /u/Emotional-Being-6825 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlf600/people_whove_escaped_the_95_grind_how_do_you/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlf600/people_whove_escaped_the_95_grind_how_do_you/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt",
-      "url": "https://www.reddit.com/r/AskReddit/comments/1tlf600/people_whove_escaped_the_95_grind_how_do_you/",
-      "permalink": "/r/AskReddit/comments/1tlf600/people_whove_escaped_the_95_grind_how_do_you/",
-      "createdAt": 1779539313000,
+      "id": "1tlluxn",
+      "title": "What do you think about things like smoking and drinking alcohol?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Substantial-Rock3103&quot;&gt; /u/Substantial-Rock3103 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlluxn/what_do_you_think_about_things_like_smoking_and/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlluxn/what_do_you_think_about_things_like_smoking_and/&quot;&gt;[comments]&lt;/a&gt;&lt;/s",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1tlluxn/what_do_you_think_about_things_like_smoking_and/",
+      "permalink": "/r/AskReddit/comments/1tlluxn/what_do_you_think_about_things_like_smoking_and/",
+      "createdAt": 1779555517000,
       "upvotes": 0,
       "commentCount": 0,
       "subreddit": "AskReddit",
       "engScore": 6
+    },
+    {
+      "id": "1tlluhp",
+      "title": "If your reflection blinked when you didn't, what's your next move?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/KimberGoyder&quot;&gt; /u/KimberGoyder &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlluhp/if_your_reflection_blinked_when_you_didnt_whats/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlluhp/if_your_reflection_blinked_when_you_didnt_whats/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1tlluhp/if_your_reflection_blinked_when_you_didnt_whats/",
+      "permalink": "/r/AskReddit/comments/1tlluhp/if_your_reflection_blinked_when_you_didnt_whats/",
+      "createdAt": 1779555486000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 6
+    },
+    {
+      "id": "1tllo56",
+      "title": "What's your weird habit that your partner won't look past?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/StephenDoesStuff&quot;&gt; /u/StephenDoesStuff &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tllo56/whats_your_weird_habit_that_your_partner_wont/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tllo56/whats_your_weird_habit_that_your_partner_wont/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1tllo56/whats_your_weird_habit_that_your_partner_wont/",
+      "permalink": "/r/AskReddit/comments/1tllo56/whats_your_weird_habit_that_your_partner_wont/",
+      "createdAt": 1779555069000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 6
+    },
+    {
+      "id": "1tllnsb",
+      "title": "What is your experience with alcohol and antidepressants?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/lateubdegouline&quot;&gt; /u/lateubdegouline &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tllnsb/what_is_your_experience_with_alcohol_and/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tllnsb/what_is_your_experience_with_alcohol_and/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1tllnsb/what_is_your_experience_with_alcohol_and/",
+      "permalink": "/r/AskReddit/comments/1tllnsb/what_is_your_experience_with_alcohol_and/",
+      "createdAt": 1779555043000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 6
+    },
+    {
+      "id": "1tlljyt",
+      "title": "How do you manage work and life balance ?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/curvygold&quot;&gt; /u/curvygold &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlljyt/how_do_you_manage_work_and_life_balance/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlljyt/how_do_you_manage_work_and_life_balance/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1tlljyt/how_do_you_manage_work_and_life_balance/",
+      "permalink": "/r/AskReddit/comments/1tlljyt/how_do_you_manage_work_and_life_balance/",
+      "createdAt": 1779554791000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 6
+    },
+    {
+      "id": "1tllfzz",
+      "title": "What is your favorite food in the restaurant?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/FitNectarXX&quot;&gt; /u/FitNectarXX &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tllfzz/what_is_your_favorite_food_in_the_restaurant/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tllfzz/what_is_your_favorite_food_in_the_restaurant/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1tllfzz/what_is_your_favorite_food_in_the_restaurant/",
+      "permalink": "/r/AskReddit/comments/1tllfzz/what_is_your_favorite_food_in_the_restaurant/",
+      "createdAt": 1779554536000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 6
+    },
+    {
+      "id": "1tlbu3c",
+      "title": "What's a &quot;cheat code&quot; you have discovered that actually works?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/No_Stop_8&quot;&gt; /u/No_Stop_8 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlbu3c/whats_a_cheat_code_you_have_discovered_that/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlbu3c/whats_a_cheat_code_you_have_discovered_that/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1tlbu3c/whats_a_cheat_code_you_have_discovered_that/",
+      "permalink": "/r/AskReddit/comments/1tlbu3c/whats_a_cheat_code_you_have_discovered_that/",
+      "createdAt": 1779528882000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 5
+    },
+    {
+      "id": "1tld6lh",
+      "title": "What’s a “flex” that instantly becomes embarrassing after a certain age?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/girlmath_expert&quot;&gt; /u/girlmath_expert &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tld6lh/whats_a_flex_that_instantly_becomes_embarrassing/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tld6lh/whats_a_flex_that_instantly_becomes_embarrassing/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1tld6lh/whats_a_flex_that_instantly_becomes_embarrassing/",
+      "permalink": "/r/AskReddit/comments/1tld6lh/whats_a_flex_that_instantly_becomes_embarrassing/",
+      "createdAt": 1779533425000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 5
+    },
+    {
+      "id": "1tlkkmg",
+      "title": "If you could visit one country where would you visit?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/LushNoirCeleste&quot;&gt; /u/LushNoirCeleste &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlkkmg/if_you_could_visit_one_country_where_would_you/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlkkmg/if_you_could_visit_one_country_where_would_you/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1tlkkmg/if_you_could_visit_one_country_where_would_you/",
+      "permalink": "/r/AskReddit/comments/1tlkkmg/if_you_could_visit_one_country_where_would_you/",
+      "createdAt": 1779552544000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 5
+    },
+    {
+      "id": "1tlbyn6",
+      "title": "What’s the best “right person, right time” moment you’ve experienced?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/saamm444&quot;&gt; /u/saamm444 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlbyn6/whats_the_best_right_person_right_time_moment/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlbyn6/whats_the_best_right_person_right_time_moment/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1tlbyn6/whats_the_best_right_person_right_time_moment/",
+      "permalink": "/r/AskReddit/comments/1tlbyn6/whats_the_best_right_person_right_time_moment/",
+      "createdAt": 1779529331000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 5
+    },
+    {
+      "id": "1tl4aw1",
+      "title": "What is the most majestic song you've ever heard?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Funny_Bumblebee_5254&quot;&gt; /u/Funny_Bumblebee_5254 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tl4aw1/what_is_the_most_majestic_song_youve_ever_heard/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tl4aw1/what_is_the_most_majestic_song_youve_ever_heard/&quot;&gt;[comments]&lt;/a&gt;&lt;/s",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1tl4aw1/what_is_the_most_majestic_song_youve_ever_heard/",
+      "permalink": "/r/AskReddit/comments/1tl4aw1/what_is_the_most_majestic_song_youve_ever_heard/",
+      "createdAt": 1779505169000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 5
+    },
+    {
+      "id": "1tkxccw",
+      "title": "What finally made you quit your job?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Tyler_Girl_&quot;&gt; /u/Tyler_Girl_ &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tkxccw/what_finally_made_you_quit_your_job/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tkxccw/what_finally_made_you_quit_your_job/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1tkxccw/what_finally_made_you_quit_your_job/",
+      "permalink": "/r/AskReddit/comments/1tkxccw/what_finally_made_you_quit_your_job/",
+      "createdAt": 1779487137000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 5
+    },
+    {
+      "id": "1tled25",
+      "title": "What’s something people romanticize too much until they actually experience it?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/e_r_ro_r_boy&quot;&gt; /u/e_r_ro_r_boy &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tled25/whats_something_people_romanticize_too_much_until/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tled25/whats_something_people_romanticize_too_much_until/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1tled25/whats_something_people_romanticize_too_much_until/",
+      "permalink": "/r/AskReddit/comments/1tled25/whats_something_people_romanticize_too_much_until/",
+      "createdAt": 1779537092000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 5
+    },
+    {
+      "id": "1tlgyab",
+      "title": "How do you remind yourself to appreciate life?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Complete_Ganache_720&quot;&gt; /u/Complete_Ganache_720 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlgyab/how_do_you_remind_yourself_to_appreciate_life/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlgyab/how_do_you_remind_yourself_to_appreciate_life/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1tlgyab/how_do_you_remind_yourself_to_appreciate_life/",
+      "permalink": "/r/AskReddit/comments/1tlgyab/how_do_you_remind_yourself_to_appreciate_life/",
+      "createdAt": 1779543981000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 5
+    },
+    {
+      "id": "1tlk43d",
+      "title": "At this stage, what is the most important thing for you?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Fluffy_End887&quot;&gt; /u/Fluffy_End887 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlk43d/at_this_stage_what_is_the_most_important_thing/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlk43d/at_this_stage_what_is_the_most_important_thing/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1tlk43d/at_this_stage_what_is_the_most_important_thing/",
+      "permalink": "/r/AskReddit/comments/1tlk43d/at_this_stage_what_is_the_most_important_thing/",
+      "createdAt": 1779551480000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 5
+    },
+    {
+      "id": "1tlk26h",
+      "title": "When did you realize being an adult was nothing like you imagined as a kid?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/SoggyCerealSiren&quot;&gt; /u/SoggyCerealSiren &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlk26h/when_did_you_realize_being_an_adult_was_nothing/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlk26h/when_did_you_realize_being_an_adult_was_nothing/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1tlk26h/when_did_you_realize_being_an_adult_was_nothing/",
+      "permalink": "/r/AskReddit/comments/1tlk26h/when_did_you_realize_being_an_adult_was_nothing/",
+      "createdAt": 1779551353000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 5
+    },
+    {
+      "id": "1tlf1jt",
+      "title": "If you could say one thing to your 18 year old self, what would it be?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/yesmommyy_&quot;&gt; /u/yesmommyy_ &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlf1jt/if_you_could_say_one_thing_to_your_18_year_old/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlf1jt/if_you_could_say_one_thing_to_your_18_year_old/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1tlf1jt/if_you_could_say_one_thing_to_your_18_year_old/",
+      "permalink": "/r/AskReddit/comments/1tlf1jt/if_you_could_say_one_thing_to_your_18_year_old/",
+      "createdAt": 1779538973000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 5
+    },
+    {
+      "id": "1tll7ib",
+      "title": "What is the worst place to go to on a first date?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/EtruscanFolk&quot;&gt; /u/EtruscanFolk &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tll7ib/what_is_the_worst_place_to_go_to_on_a_first_date/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tll7ib/what_is_the_worst_place_to_go_to_on_a_first_date/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1tll7ib/what_is_the_worst_place_to_go_to_on_a_first_date/",
+      "permalink": "/r/AskReddit/comments/1tll7ib/what_is_the_worst_place_to_go_to_on_a_first_date/",
+      "createdAt": 1779554011000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 5
+    },
+    {
+      "id": "1tk4h3c",
+      "title": "What’s something people romanticize until they actually experience it?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Puzzleheaded_Bit_802&quot;&gt; /u/Puzzleheaded_Bit_802 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tk4h3c/whats_something_people_romanticize_until_they/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tk4h3c/whats_something_people_romanticize_until_they/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1tk4h3c/whats_something_people_romanticize_until_they/",
+      "permalink": "/r/AskReddit/comments/1tk4h3c/whats_something_people_romanticize_until_they/",
+      "createdAt": 1779413755000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 5
+    },
+    {
+      "id": "1tlindb",
+      "title": "What do you think love is?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Alert-Translator2590&quot;&gt; /u/Alert-Translator2590 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlindb/what_do_you_think_love_is/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlindb/what_do_you_think_love_is/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1tlindb/what_do_you_think_love_is/",
+      "permalink": "/r/AskReddit/comments/1tlindb/what_do_you_think_love_is/",
+      "createdAt": 1779548071000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 5
+    },
+    {
+      "id": "1tlh709",
+      "title": "How do you stay positive when you are you going through a lot?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Disastrous-Cry2937&quot;&gt; /u/Disastrous-Cry2937 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlh709/how_do_you_stay_positive_when_you_are_you_going/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlh709/how_do_you_stay_positive_when_you_are_you_going/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1tlh709/how_do_you_stay_positive_when_you_are_you_going/",
+      "permalink": "/r/AskReddit/comments/1tlh709/how_do_you_stay_positive_when_you_are_you_going/",
+      "createdAt": 1779544593000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 5
+    },
+    {
+      "id": "1tl7feg",
+      "title": "Be honest, why do you exist?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Special-Lawyer3941&quot;&gt; /u/Special-Lawyer3941 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tl7feg/be_honest_why_do_you_exist/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tl7feg/be_honest_why_do_you_exist/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1tl7feg/be_honest_why_do_you_exist/",
+      "permalink": "/r/AskReddit/comments/1tl7feg/be_honest_why_do_you_exist/",
+      "createdAt": 1779514239000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 8
+    },
+    {
+      "id": "1tlfkbs",
+      "title": "What's Your Biggest Regret In Life?",
+      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Plenty_Gain2538&quot;&gt; /u/Plenty_Gain2538 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlfkbs/whats_your_biggest_regret_in_life/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlfkbs/whats_your_biggest_regret_in_life/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1tlfkbs/whats_your_biggest_regret_in_life/",
+      "permalink": "/r/AskReddit/comments/1tlfkbs/whats_your_biggest_regret_in_life/",
+      "createdAt": 1779540410000,
+      "upvotes": 0,
+      "commentCount": 0,
+      "subreddit": "AskReddit",
+      "engScore": 7
     },
     {
       "id": "1tkg8yb",
@@ -4723,108 +5119,12 @@
       "engScore": 6
     },
     {
-      "id": "1tlbu3c",
-      "title": "What's a &quot;cheat code&quot; you have discovered that actually works?",
-      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/No_Stop_8&quot;&gt; /u/No_Stop_8 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlbu3c/whats_a_cheat_code_you_have_discovered_that/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlbu3c/whats_a_cheat_code_you_have_discovered_that/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
-      "url": "https://www.reddit.com/r/AskReddit/comments/1tlbu3c/whats_a_cheat_code_you_have_discovered_that/",
-      "permalink": "/r/AskReddit/comments/1tlbu3c/whats_a_cheat_code_you_have_discovered_that/",
-      "createdAt": 1779528882000,
-      "upvotes": 0,
-      "commentCount": 0,
-      "subreddit": "AskReddit",
-      "engScore": 5
-    },
-    {
-      "id": "1tld6lh",
-      "title": "What’s a “flex” that instantly becomes embarrassing after a certain age?",
-      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/girlmath_expert&quot;&gt; /u/girlmath_expert &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tld6lh/whats_a_flex_that_instantly_becomes_embarrassing/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tld6lh/whats_a_flex_that_instantly_becomes_embarrassing/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
-      "url": "https://www.reddit.com/r/AskReddit/comments/1tld6lh/whats_a_flex_that_instantly_becomes_embarrassing/",
-      "permalink": "/r/AskReddit/comments/1tld6lh/whats_a_flex_that_instantly_becomes_embarrassing/",
-      "createdAt": 1779533425000,
-      "upvotes": 0,
-      "commentCount": 0,
-      "subreddit": "AskReddit",
-      "engScore": 5
-    },
-    {
-      "id": "1tl4aw1",
-      "title": "What is the most majestic song you've ever heard?",
-      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Funny_Bumblebee_5254&quot;&gt; /u/Funny_Bumblebee_5254 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tl4aw1/what_is_the_most_majestic_song_youve_ever_heard/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tl4aw1/what_is_the_most_majestic_song_youve_ever_heard/&quot;&gt;[comments]&lt;/a&gt;&lt;/s",
-      "url": "https://www.reddit.com/r/AskReddit/comments/1tl4aw1/what_is_the_most_majestic_song_youve_ever_heard/",
-      "permalink": "/r/AskReddit/comments/1tl4aw1/what_is_the_most_majestic_song_youve_ever_heard/",
-      "createdAt": 1779505169000,
-      "upvotes": 0,
-      "commentCount": 0,
-      "subreddit": "AskReddit",
-      "engScore": 5
-    },
-    {
-      "id": "1tkxccw",
-      "title": "What finally made you quit your job?",
-      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Tyler_Girl_&quot;&gt; /u/Tyler_Girl_ &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tkxccw/what_finally_made_you_quit_your_job/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tkxccw/what_finally_made_you_quit_your_job/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
-      "url": "https://www.reddit.com/r/AskReddit/comments/1tkxccw/what_finally_made_you_quit_your_job/",
-      "permalink": "/r/AskReddit/comments/1tkxccw/what_finally_made_you_quit_your_job/",
-      "createdAt": 1779487137000,
-      "upvotes": 0,
-      "commentCount": 0,
-      "subreddit": "AskReddit",
-      "engScore": 5
-    },
-    {
-      "id": "1tled25",
-      "title": "What’s something people romanticize too much until they actually experience it?",
-      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/e_r_ro_r_boy&quot;&gt; /u/e_r_ro_r_boy &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tled25/whats_something_people_romanticize_too_much_until/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tled25/whats_something_people_romanticize_too_much_until/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
-      "url": "https://www.reddit.com/r/AskReddit/comments/1tled25/whats_something_people_romanticize_too_much_until/",
-      "permalink": "/r/AskReddit/comments/1tled25/whats_something_people_romanticize_too_much_until/",
-      "createdAt": 1779537092000,
-      "upvotes": 0,
-      "commentCount": 0,
-      "subreddit": "AskReddit",
-      "engScore": 5
-    },
-    {
-      "id": "1tk4h3c",
-      "title": "What’s something people romanticize until they actually experience it?",
-      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Puzzleheaded_Bit_802&quot;&gt; /u/Puzzleheaded_Bit_802 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tk4h3c/whats_something_people_romanticize_until_they/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tk4h3c/whats_something_people_romanticize_until_they/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&",
-      "url": "https://www.reddit.com/r/AskReddit/comments/1tk4h3c/whats_something_people_romanticize_until_they/",
-      "permalink": "/r/AskReddit/comments/1tk4h3c/whats_something_people_romanticize_until_they/",
-      "createdAt": 1779413755000,
-      "upvotes": 0,
-      "commentCount": 0,
-      "subreddit": "AskReddit",
-      "engScore": 5
-    },
-    {
-      "id": "1tlf1jt",
-      "title": "If you could say one thing to your 18 year old self, what would it be?",
-      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/yesmommyy_&quot;&gt; /u/yesmommyy_ &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlf1jt/if_you_could_say_one_thing_to_your_18_year_old/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlf1jt/if_you_could_say_one_thing_to_your_18_year_old/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
-      "url": "https://www.reddit.com/r/AskReddit/comments/1tlf1jt/if_you_could_say_one_thing_to_your_18_year_old/",
-      "permalink": "/r/AskReddit/comments/1tlf1jt/if_you_could_say_one_thing_to_your_18_year_old/",
-      "createdAt": 1779538973000,
-      "upvotes": 0,
-      "commentCount": 0,
-      "subreddit": "AskReddit",
-      "engScore": 5
-    },
-    {
       "id": "1tl8wlx",
       "title": "What do you consider to be the difference between “frugal” and “cheap” people?",
       "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/topG-28&quot;&gt; /u/topG-28 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tl8wlx/what_do_you_consider_to_be_the_difference_between/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tl8wlx/what_do_you_consider_to_be_the_difference_between/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
       "url": "https://www.reddit.com/r/AskReddit/comments/1tl8wlx/what_do_you_consider_to_be_the_difference_between/",
       "permalink": "/r/AskReddit/comments/1tl8wlx/what_do_you_consider_to_be_the_difference_between/",
       "createdAt": 1779518968000,
-      "upvotes": 0,
-      "commentCount": 0,
-      "subreddit": "AskReddit",
-      "engScore": 5
-    },
-    {
-      "id": "1tlbyn6",
-      "title": "What’s the best “right person, right time” moment you’ve experienced?",
-      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/saamm444&quot;&gt; /u/saamm444 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlbyn6/whats_the_best_right_person_right_time_moment/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlbyn6/whats_the_best_right_person_right_time_moment/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
-      "url": "https://www.reddit.com/r/AskReddit/comments/1tlbyn6/whats_the_best_right_person_right_time_moment/",
-      "permalink": "/r/AskReddit/comments/1tlbyn6/whats_the_best_right_person_right_time_moment/",
-      "createdAt": 1779529331000,
       "upvotes": 0,
       "commentCount": 0,
       "subreddit": "AskReddit",
@@ -4889,174 +5189,6 @@
       "commentCount": 0,
       "subreddit": "AskReddit",
       "engScore": 8
-    },
-    {
-      "id": "1tlbyvl",
-      "title": "What was the most embarrassing thing that happened that still remember today?",
-      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/pvpankaj70&quot;&gt; /u/pvpankaj70 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlbyvl/what_was_the_most_embarrassing_thing_that/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlbyvl/what_was_the_most_embarrassing_thing_that/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
-      "url": "https://www.reddit.com/r/AskReddit/comments/1tlbyvl/what_was_the_most_embarrassing_thing_that/",
-      "permalink": "/r/AskReddit/comments/1tlbyvl/what_was_the_most_embarrassing_thing_that/",
-      "createdAt": 1779529356000,
-      "upvotes": 0,
-      "commentCount": 0,
-      "subreddit": "AskReddit",
-      "engScore": 7
-    },
-    {
-      "id": "1tjx2mh",
-      "title": "Married men of Reddit, what tiny thing does your wife do that secretly melts your heart?",
-      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/SAAS_ART&quot;&gt; /u/SAAS_ART &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tjx2mh/married_men_of_reddit_what_tiny_thing_does_your/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tjx2mh/married_men_of_reddit_what_tiny_thing_does_your/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
-      "url": "https://www.reddit.com/r/AskReddit/comments/1tjx2mh/married_men_of_reddit_what_tiny_thing_does_your/",
-      "permalink": "/r/AskReddit/comments/1tjx2mh/married_men_of_reddit_what_tiny_thing_does_your/",
-      "createdAt": 1779395683000,
-      "upvotes": 0,
-      "commentCount": 0,
-      "subreddit": "AskReddit",
-      "engScore": 6
-    },
-    {
-      "id": "1tlc327",
-      "title": "What is your sleeping outfit?",
-      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Technical-Vanilla-47&quot;&gt; /u/Technical-Vanilla-47 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlc327/what_is_your_sleeping_outfit/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlc327/what_is_your_sleeping_outfit/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
-      "url": "https://www.reddit.com/r/AskReddit/comments/1tlc327/what_is_your_sleeping_outfit/",
-      "permalink": "/r/AskReddit/comments/1tlc327/what_is_your_sleeping_outfit/",
-      "createdAt": 1779529758000,
-      "upvotes": 0,
-      "commentCount": 0,
-      "subreddit": "AskReddit",
-      "engScore": 6
-    },
-    {
-      "id": "1tlc1i6",
-      "title": "How do you identify scam jobs posts on Reddit?",
-      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/No_Penalty3181&quot;&gt; /u/No_Penalty3181 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlc1i6/how_do_you_identify_scam_jobs_posts_on_reddit/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlc1i6/how_do_you_identify_scam_jobs_posts_on_reddit/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
-      "url": "https://www.reddit.com/r/AskReddit/comments/1tlc1i6/how_do_you_identify_scam_jobs_posts_on_reddit/",
-      "permalink": "/r/AskReddit/comments/1tlc1i6/how_do_you_identify_scam_jobs_posts_on_reddit/",
-      "createdAt": 1779529603000,
-      "upvotes": 0,
-      "commentCount": 0,
-      "subreddit": "AskReddit",
-      "engScore": 6
-    },
-    {
-      "id": "1tlc1dv",
-      "title": "What was the most money you’ve spent on sex?",
-      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Pink_girl_jj&quot;&gt; /u/Pink_girl_jj &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlc1dv/what_was_the_most_money_youve_spent_on_sex/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlc1dv/what_was_the_most_money_youve_spent_on_sex/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
-      "url": "https://www.reddit.com/r/AskReddit/comments/1tlc1dv/what_was_the_most_money_youve_spent_on_sex/",
-      "permalink": "/r/AskReddit/comments/1tlc1dv/what_was_the_most_money_youve_spent_on_sex/",
-      "createdAt": 1779529592000,
-      "upvotes": 0,
-      "commentCount": 0,
-      "subreddit": "AskReddit",
-      "engScore": 6
-    },
-    {
-      "id": "1tlbwdv",
-      "title": "Why do you feel more energetic sometimes despite less sleep?",
-      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/DeadAlien100&quot;&gt; /u/DeadAlien100 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlbwdv/why_do_you_feel_more_energetic_sometimes_despite/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlbwdv/why_do_you_feel_more_energetic_sometimes_despite/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
-      "url": "https://www.reddit.com/r/AskReddit/comments/1tlbwdv/why_do_you_feel_more_energetic_sometimes_despite/",
-      "permalink": "/r/AskReddit/comments/1tlbwdv/why_do_you_feel_more_energetic_sometimes_despite/",
-      "createdAt": 1779529115000,
-      "upvotes": 0,
-      "commentCount": 0,
-      "subreddit": "AskReddit",
-      "engScore": 6
-    },
-    {
-      "id": "1tlbiwz",
-      "title": "What would you do If you discover someone you borrowed something to, not too precious, but when you tried to take it back he kept stalling you and then straight up started to cut your calls and ignore you Then you discover through his friend that he actually broke that thing. ?",
-      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Proper_Helicopter814&quot;&gt; /u/Proper_Helicopter814 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlbiwz/what_would_you_do_if_you_discover_someone_you/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlbiwz/what_would_you_do_if_you_discover_someone_you/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&",
-      "url": "https://www.reddit.com/r/AskReddit/comments/1tlbiwz/what_would_you_do_if_you_discover_someone_you/",
-      "permalink": "/r/AskReddit/comments/1tlbiwz/what_would_you_do_if_you_discover_someone_you/",
-      "createdAt": 1779527811000,
-      "upvotes": 0,
-      "commentCount": 0,
-      "subreddit": "AskReddit",
-      "engScore": 6
-    },
-    {
-      "id": "1tla79f",
-      "title": "what would you ask your future self if they came back today?",
-      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/No_Eagle_9758&quot;&gt; /u/No_Eagle_9758 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tla79f/what_would_you_ask_your_future_self_if_they_came/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tla79f/what_would_you_ask_your_future_self_if_they_came/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
-      "url": "https://www.reddit.com/r/AskReddit/comments/1tla79f/what_would_you_ask_your_future_self_if_they_came/",
-      "permalink": "/r/AskReddit/comments/1tla79f/what_would_you_ask_your_future_self_if_they_came/",
-      "createdAt": 1779523280000,
-      "upvotes": 0,
-      "commentCount": 0,
-      "subreddit": "AskReddit",
-      "engScore": 5
-    },
-    {
-      "id": "1tkukr7",
-      "title": "What is your biggest dream?",
-      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Financial-Peanut3130&quot;&gt; /u/Financial-Peanut3130 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tkukr7/what_is_your_biggest_dream/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tkukr7/what_is_your_biggest_dream/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
-      "url": "https://www.reddit.com/r/AskReddit/comments/1tkukr7/what_is_your_biggest_dream/",
-      "permalink": "/r/AskReddit/comments/1tkukr7/what_is_your_biggest_dream/",
-      "createdAt": 1779480917000,
-      "upvotes": 0,
-      "commentCount": 0,
-      "subreddit": "AskReddit",
-      "engScore": 5
-    },
-    {
-      "id": "1tl0foh",
-      "title": "People who argue online. Why?",
-      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ducktastelikechicken&quot;&gt; /u/ducktastelikechicken &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tl0foh/people_who_argue_online_why/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tl0foh/people_who_argue_online_why/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
-      "url": "https://www.reddit.com/r/AskReddit/comments/1tl0foh/people_who_argue_online_why/",
-      "permalink": "/r/AskReddit/comments/1tl0foh/people_who_argue_online_why/",
-      "createdAt": 1779494773000,
-      "upvotes": 0,
-      "commentCount": 0,
-      "subreddit": "AskReddit",
-      "engScore": 5
-    },
-    {
-      "id": "1tlbl5f",
-      "title": "What do you think about prisoners having the right to vote?",
-      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/prettierjesus69&quot;&gt; /u/prettierjesus69 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlbl5f/what_do_you_think_about_prisoners_having_the/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlbl5f/what_do_you_think_about_prisoners_having_the/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
-      "url": "https://www.reddit.com/r/AskReddit/comments/1tlbl5f/what_do_you_think_about_prisoners_having_the/",
-      "permalink": "/r/AskReddit/comments/1tlbl5f/what_do_you_think_about_prisoners_having_the/",
-      "createdAt": 1779528026000,
-      "upvotes": 0,
-      "commentCount": 0,
-      "subreddit": "AskReddit",
-      "engScore": 5
-    },
-    {
-      "id": "1tlbjpq",
-      "title": "What is your favourite company ?",
-      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/zhrno&quot;&gt; /u/zhrno &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlbjpq/what_is_your_favourite_company/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlbjpq/what_is_your_favourite_company/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
-      "url": "https://www.reddit.com/r/AskReddit/comments/1tlbjpq/what_is_your_favourite_company/",
-      "permalink": "/r/AskReddit/comments/1tlbjpq/what_is_your_favourite_company/",
-      "createdAt": 1779527889000,
-      "upvotes": 0,
-      "commentCount": 0,
-      "subreddit": "AskReddit",
-      "engScore": 5
-    },
-    {
-      "id": "1tl7aj0",
-      "title": "How do you know if you’re attractive?",
-      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/RD-archived&quot;&gt; /u/RD-archived &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tl7aj0/how_do_you_know_if_youre_attractive/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tl7aj0/how_do_you_know_if_youre_attractive/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
-      "url": "https://www.reddit.com/r/AskReddit/comments/1tl7aj0/how_do_you_know_if_youre_attractive/",
-      "permalink": "/r/AskReddit/comments/1tl7aj0/how_do_you_know_if_youre_attractive/",
-      "createdAt": 1779513802000,
-      "upvotes": 0,
-      "commentCount": 0,
-      "subreddit": "AskReddit",
-      "engScore": 5
-    },
-    {
-      "id": "1tlb9u3",
-      "title": "What is your favorite way to pass time quickly?",
-      "body": "&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Which-Copy-3583&quot;&gt; /u/Which-Copy-3583 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlb9u3/what_is_your_favorite_way_to_pass_time_quickly/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/1tlb9u3/what_is_your_favorite_way_to_pass_time_quickly/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;",
-      "url": "https://www.reddit.com/r/AskReddit/comments/1tlb9u3/what_is_your_favorite_way_to_pass_time_quickly/",
-      "permalink": "/r/AskReddit/comments/1tlb9u3/what_is_your_favorite_way_to_pass_time_quickly/",
-      "createdAt": 1779526908000,
-      "upvotes": 0,
-      "commentCount": 0,
-      "subreddit": "AskReddit",
-      "engScore": 5
     }
   ]
 }
